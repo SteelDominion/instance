@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673"
-
-[[files]]
 file = "config/DistantHorizons.toml"
 hash = "a725c6adeebcf7805ae4130836cf9121cce017be0e7b698f9637bb4d68426786"
 
@@ -641,6 +637,14 @@ file = "config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
+file = "global_packs/required_resources/Enhanced Audio r7.zip"
+hash = "77baaeb8469acf33c6f852aa70336d09cda781322dd32cb599eb6089ab4f323c"
+
+[[files]]
+file = "global_packs/required_resources/resourcepack.zip"
+hash = "68a120206690ec44c4b9c6e39a7c73185812c65fa7cb85d51d6887cd8592c4ba"
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "3d8f918c52e27d4c640f78c67c0a51a2ddbe4e3703c149e8ed9461f43bd5fedd"
 metafile = true
@@ -1097,3 +1101,19 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "fdd092e7e1f7917d7bea529271c1ba19ca71a89bb9a2633121f8050572d905cf"
+
+[[files]]
+file = "resourcepacks/Enhanced Audio r7.zip"
+hash = "77baaeb8469acf33c6f852aa70336d09cda781322dd32cb599eb6089ab4f323c"
+
+[[files]]
+file = "resourcepacks/resourcepack.zip"
+hash = "68a120206690ec44c4b9c6e39a7c73185812c65fa7cb85d51d6887cd8592c4ba"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.7.1.zip"
+hash = "24a20634a7832d422d3cd5023be16829f26840e25c69404dd418306ea79f63f0"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.7.1.zip.txt"
+hash = "c897b8b5f65bbd0eac3ea1a289d42684d1d5e58f9891c0e3062be879ec43cced"
