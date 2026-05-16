@@ -1,0 +1,62 @@
+#Channel Settings
+[channels]
+	#Maximum number of channels available.
+	# Default: 16
+	# Range: > 1
+	max_canal = 16
+
+#Speaker Settings
+[speaker]
+	#The distance (in blocks) at which the speaker can be heard.
+	# Default: 32
+	# Range: > 1
+	speaker_distance = 32
+	#Whether the speaker duplicates the voice of the player using the walkie-talkie.
+	voice_duplication = false
+
+#Walkie-Talkie Range Settings
+[range]
+	#Range (in blocks) of the wooden walkie-talkie.
+	# Default: 128
+	# Range: > 1
+	wooden_range = 128
+	#Range (in blocks) of the stone walkie-talkie.
+	# Default: 256
+	# Range: > 1
+	stone_range = 256
+	#Range (in blocks) of the iron walkie-talkie.
+	# Default: 512
+	# Range: > 1
+	iron_range = 512
+	#Range (in blocks) of the golden walkie-talkie.
+	# Default: 1024
+	# Range: > 1
+	golden_range = 1024
+	#Range (in blocks) of the diamond walkie-talkie.
+	# Default: 2048
+	# Range: > 1
+	diamond_range = 2048
+	#Range (in blocks) of the netherite walkie-talkie.
+	# Default: 4096
+	# Range: > 1
+	netherite_range = 4096
+
+#Cross-Dimension Settings
+[dimensions]
+	#Whether walkie-talkies work across dimensions.
+	cross_dimensions_enabled = true
+	#Whether to apply dimension distance scaling.
+	apply_dimension_scale = true
+
+#Misc Settings
+[misc]
+	#Whether to apply the radio audio effect to transmissions.
+	apply_radio_effect = true
+	#Volume of the radio effect (0.0 to 1.0).
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	effect_volume = 0.5
+	#Whether the walkie-talkie must be in the hotbar to receive transmissions.
+	require_hotbar_for_listening = false
+	#Whether voice is always transmitted when the walkie-talkie is on (true), or only when holding the talk keybind (false).
+	transmit_from_hand = true

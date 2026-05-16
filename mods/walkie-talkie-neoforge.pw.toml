@@ -1,0 +1,13 @@
+name = "Walkie-Talkie NeoForge"
+filename = "walkietalkie-neoforge-1.21.1-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bd484486e07c7ac14a1240982b2a55df463818d9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7867847
+project-id = 1503266

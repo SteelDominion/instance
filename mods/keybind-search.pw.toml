@@ -1,0 +1,13 @@
+name = "Keybind Search"
+filename = "keybindsearch-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/huLkt7lm/versions/aZLGKfBG/keybindsearch-1.0.0.jar"
+hash-format = "sha512"
+hash = "da126b315fa5d976c0eff5b6a73a2df60eec20ccf9175a041287a2b70ca70003d862aab24970d586c4927f531d09a114baf23e8138fec8b4cf76a9944610c44f"
+
+[update]
+[update.modrinth]
+mod-id = "huLkt7lm"
+version = "aZLGKfBG"

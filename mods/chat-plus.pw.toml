@@ -1,0 +1,13 @@
+name = "Chat Plus"
+filename = "chatplus-neoforge-2.8.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cJlZ132G/versions/zZu7qGJe/chatplus-neoforge-2.8.1.jar"
+hash-format = "sha512"
+hash = "6bf076e4ec24143157644a367e52fbc02ef492d81ab950f0f524906965a302d477d7a8ac6a7fe1ddaad68d5d17d5fa49e15bd6a53eccc995e2c313951709fbab"
+
+[update]
+[update.modrinth]
+mod-id = "cJlZ132G"
+version = "zZu7qGJe"
