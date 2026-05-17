@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "a725c6adeebcf7805ae4130836cf9121cce017be0e7b698f9637bb4d68426786"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -995,9 +991,8 @@ file = "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
 hash = "bddc71ecd4f074a101eb3785599d13c69e64025e1029aa0fd0a28fcf9bccf2ea"
 
 [[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "0dbfc8287a8294766a0423e4470951963187a6f8f76de5bdfc28cf3fe7308df4"
-metafile = true
+file = "mods/supplementaries-1.21-3.5.34-neoforge.jar"
+hash = "3e82252fcd89b090786e1640f8cf8fac76e3e35f30465849944e7b89ca2f433b"
 
 [[files]]
 file = "mods/tacz-neoforge-1.21.1-1.1.7-hotfix-r5.jar"
