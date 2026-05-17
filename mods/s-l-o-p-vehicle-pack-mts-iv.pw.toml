@@ -3,8 +3,8 @@ filename = "S.L.O.P. Vehicle Pack 1.21.1-1.5.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fbf89b373ffeedf2a88cf7d6ec11441f67d8e794"
+hash-format = "sha256"
+hash = "74ec835aee9c0b3d180d3c2a2b7ce5fe822ca11560af8b8c43c5c71c11de1008"
 mode = "metadata:curseforge"
 
 [update]

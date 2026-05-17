@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/3ESR84kR/versions/jy3ApWAm/Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar"
-hash-format = "sha512"
-hash = "b6d3cc651fa76c03d6845dd667fc673b74bd7409e7a1631907d82200b15ae50d76dd018c9224bc9314a46314bb478c0a48cc7b37d717e70f05dad8fb2878ac77"
+hash-format = "sha256"
+hash = "a010b32a31f59110cc0addcbe789ce42e76131bb131ede73b0e078e736fd3c68"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/MIyTCev5/versions/YGa4a4ZT/flags_that_represent-9.0-neoforge-1.21.1.jar"
-hash-format = "sha512"
-hash = "4c47d1c0f4f7b712b5cf0028d5a7b9f7075307d25ee68f9af4c1c539c7d352fb0a0941b9809c173e4919de68ae16e90600b290480bbe825cacc46881867303e9"
+hash-format = "sha256"
+hash = "79deea9783e2ff4007d26042867adca561060983cb3d6fb1e94afbc22bc49140"
 
 [update]
 [update.modrinth]

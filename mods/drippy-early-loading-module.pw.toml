@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/k3TlcLvL/versions/9y5XWVtz/drippy_early_loading_module_neoforge_3.1.2_MC_1.21.1.jar"
-hash-format = "sha512"
-hash = "053e2968bfe74af3664c1971989505058bf389c4f32c8c61c444ee666778922d1e4616030c34a9aef8470c11ed51ebfef283fe2be99b5207046aaecba55ce8e2"
+hash-format = "sha256"
+hash = "d01b48bd0d89986acd5a3c3bd76e1eb3ae5e5ebe10d28e03b3763b1839c8c537"
 
 [update]
 [update.modrinth]

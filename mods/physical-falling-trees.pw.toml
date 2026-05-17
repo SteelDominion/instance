@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Lex0Jv5I/versions/ovBXeEIe/physical-falling-trees-2.4.0-cropped.jar"
-hash-format = "sha512"
-hash = "d485104bbd194163b0046cccce92caffc6b7580f784d78bb28525c6fc8808940d77d22d6a3e3a778fbd5dc027689bae6311d12070bf6b6adb4d95077eabf4bc6"
+hash-format = "sha256"
+hash = "719df2833f7342f6c4f8ef6ebab00c8b2b96ccbe2a9f7633f591ea9cdb8aacad"
 
 [update]
 [update.modrinth]
