@@ -190,11 +190,11 @@ hash = "4ecbcbc69f6ae01c2a4ae7c41b1fcf21f4cfbb740fe5e79a3b3367fc8f8b0c09"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
-hash = "55f515c133a419a88507192ac7c48f4ca47d13c651f2f8798f2f760954b48d45"
+hash = "3afc8c76db91a7087d1cc341a41215b057e604eb052689f3d94d6708b6f0cef2"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "051284085d05da6f449d14bc63f82581d6b3ed6b2a30ac851516510398b40265"
+hash = "96f4ebcf43f2bac77f55f660fa93f6b851ad3e1ac09ddf341d311d6bc6264a18"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_chatmenulayout.txt"
@@ -270,7 +270,7 @@ hash = "3fcfc5f9957fbb86aea846c9ad49a24f47ca709c523c4018b584668e38b72f41"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "91a62591b18e1105ad7fffe635a8f36b7232a411ff5492465599893fbb5586ae"
+hash = "c5b68ed91ffc51edc1d8483e61274ef64b65be13743bf9fbbb97bfbb317416fe"
 
 [[files]]
 file = "config/farmersdelight-client-1.toml.bak"
