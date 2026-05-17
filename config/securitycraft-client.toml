@@ -21,4 +21,3 @@ frame_feed_resolution = 512
 # Default: 30
 # Range: 10 ~ 260
 frame_feed_fps_limit = 30
-
