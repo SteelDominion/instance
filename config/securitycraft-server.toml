@@ -107,3 +107,4 @@ non_owned_breaking_slowdown = 1.0
 sentry_attackable_entities_allowlist = []
 #Add entities to this list that the Sentry currently attacks, but that you want the Sentry to NOT attack. The denylist takes priority over the allowlist.
 sentry_attackable_entities_denylist = []
+

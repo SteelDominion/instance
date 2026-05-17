@@ -8,3 +8,4 @@ fullBoundingBoxLadders = false
 permissionHandler = "neoforge:default_handler"
 #Set this to true to enable advertising the dedicated server to local LAN clients so that it shows up in the Multiplayer screen automatically.
 advertiseDedicatedServerToLan = true
+

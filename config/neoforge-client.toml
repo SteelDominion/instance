@@ -6,3 +6,4 @@ showLoadWarnings = true
 useCombinedDepthStencilAttachment = false
 #A config option mainly for developers. Logs out configuration values that do not have translations when running a client in a development environment.
 logUntranslatedConfigurationWarnings = true
+

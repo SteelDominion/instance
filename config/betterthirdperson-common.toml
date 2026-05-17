@@ -20,3 +20,4 @@ playerRotationSpeed = 50
 # Default: 65
 # Range: 10 ~ 100
 pitchChangeSpeed = 65
+

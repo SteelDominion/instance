@@ -36,3 +36,4 @@ net.minecraft.client.gui.screens.ReceivingLevelScreen {
 net.minecraft.client.gui.screens.packs.PackSelectionScreen {
 }
 
+

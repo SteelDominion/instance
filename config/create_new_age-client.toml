@@ -7,3 +7,4 @@ wireSectionsPerMeter = 10
 # Default: 0.03
 # Range: 0.0 ~ 1.7976931348623157E308
 wireThickness = 0.03
+
