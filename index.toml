@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CNAME"
+hash = "46feb396a5deb9850c36f5e4ab44ca3c97958b6e95cf1f86ae3ec5e56a765420"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -254,19 +258,47 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "4ea5775b95686dae43af8dc883c9f5e68b18387b85e02f5470221eb79bab1d6b"
+hash = "28da30cabacb0a0498515de23211e604ecb8af3f127a317726d68afec66ab185"
+
+[[files]]
+file = "config/fancymenu/ui_themes/cherry_blossom.json"
+hash = "993c16664fe2d1b9e8ad107bf1c19c1dbb244729c403ed058ca2e54616dc5452"
+
+[[files]]
+file = "config/fancymenu/ui_themes/cozy_campfire.json"
+hash = "1e7505231b9d99e6315845043ce810dfc7004ce1d8f5a4ceddb4ecb96c03ac50"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
-hash = "3f1263eaf693fdb6a315099b06797ac18830faa66c620916a80337a5082fd850"
+hash = "01e2a3b5d250c0259a7f97f0d353785bfeab6d7ee2e147c16bb910f1d23e9498"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark_high_contrast.json"
+hash = "54316a2b309ddb472b9133f8ccb8694dce9b57be6ebcfb3c2e9d1bbfdade3f26"
 
 [[files]]
 file = "config/fancymenu/ui_themes/light.json"
-hash = "3fcfc5f9957fbb86aea846c9ad49a24f47ca709c523c4018b584668e38b72f41"
+hash = "a05e95f7b62f338049fe0045d9a6a50060d3aba52d5ab83ac1ed6ff55cac1153"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light_high_contrast.json"
+hash = "7c96ba2f2cb4d59d20eaf88960de7a9308ce8a3460c4e1757e07c42e174ea65a"
+
+[[files]]
+file = "config/fancymenu/ui_themes/pumpkin_soup.json"
+hash = "7c6a5d5b19e53ca2f88371c2e867f51339b045697aab29864df5877a6bba9311"
+
+[[files]]
+file = "config/fancymenu/ui_themes/purple_void.json"
+hash = "fa63577441fd576ebac90ecf06b7ded376cbf80ca5103d398bc9a73a25c6c2c0"
+
+[[files]]
+file = "config/fancymenu/ui_themes/spooky_season.json"
+hash = "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "91a62591b18e1105ad7fffe635a8f36b7232a411ff5492465599893fbb5586ae"
+hash = "8881f1d7904bb2e9a3c2ec093f96a4f0e16988f56fe7ce4d82f569eebdbd455a"
 
 [[files]]
 file = "config/farmersdelight-client-1.toml.bak"
@@ -637,16 +669,16 @@ file = "config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
-file = "dos2unix.exe"
-hash = "9f0e598291c5222b692bbbcb9dac4d9b6e400a67090845dfe91691301727c83e"
-
-[[files]]
 file = "global_packs/required_resources/Enhanced Audio r7.zip"
 hash = "77baaeb8469acf33c6f852aa70336d09cda781322dd32cb599eb6089ab4f323c"
 
 [[files]]
 file = "global_packs/required_resources/resourcepack.zip"
 hash = "68a120206690ec44c4b9c6e39a7c73185812c65fa7cb85d51d6887cd8592c4ba"
+
+[[files]]
+file = "index.html"
+hash = "ffd659a48d4c4d63d82a30f8027e4f970ccb932e28d73ba1036113b7fbf748d8"
 
 [[files]]
 file = "mods/AI-Improvements-1.21-0.5.3.jar"
@@ -1033,3 +1065,7 @@ hash = "24a20634a7832d422d3cd5023be16829f26840e25c69404dd418306ea79f63f0"
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.7.1.zip.txt"
 hash = "85f41148dd487e58ea3ff6785d0c13e47d436d741366d69c59bd7a514fa9427a"
+
+[[files]]
+file = "triggerworkflow.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
