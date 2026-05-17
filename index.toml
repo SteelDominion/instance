@@ -1089,9 +1089,8 @@ hash = "e1dea83477cdedb5de2012ed81e30962a8c21abbff45f57a3d2e5efb606b5245"
 metafile = true
 
 [[files]]
-file = "mods/walkie-talkie-neoforge.pw.toml"
-hash = "63c976ab74b439d89e7e416ffe9d06fa4da8eb8396acbbe1f8c595efeeb4bb45"
-metafile = true
+file = "mods/walkietalkie-neoforge-1.21.1-1.0.5.jar"
+hash = "aa995ed7367db66053e354c9eede015913506dbbc93ac9796aac484d3d1a1b29"
 
 [[files]]
 file = "mods/yacl.pw.toml"
