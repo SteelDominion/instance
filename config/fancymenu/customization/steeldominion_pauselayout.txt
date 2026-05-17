@@ -923,4 +923,3 @@ vanilla_button {
   automated_button_clicks = 0
 }
 
-

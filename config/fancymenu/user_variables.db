@@ -1,2 +1,14 @@
 type = user_variables
 
+variable {
+  name = qualityselection_finished
+  value = false
+  reset_on_launch = false
+}
+
+variable {
+  name = qualityselection_menuopen
+  value = 
+  reset_on_launch = true
+}
+

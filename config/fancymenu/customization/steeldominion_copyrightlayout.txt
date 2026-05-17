@@ -427,4 +427,3 @@ element {
   advanced_horizontal_tilt_mode = false
 }
 
-
