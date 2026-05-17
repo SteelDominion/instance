@@ -126,11 +126,11 @@ hash = "ed3b25678a185a7c560868e047b60ffd7d7bf9b13d3a45cc5c056f5cfd5b088e"
 
 [[files]]
 file = "config/drippyloadingscreen/early_window_reference.properties"
-hash = "e947c4010aa9ff2e9d0ad880226a7dfa7208e896bb1a0b2806a5e5b366e83dbf"
+hash = "37ae2b10aa643ee99ba2cfb1679b17254822c52542884eb535d55411b70f236e"
 
 [[files]]
 file = "config/drippyloadingscreen/options.txt"
-hash = "8c5615a5c9d8fc52b45ad8d3cb95abd8913834ae5e4df9ebfa04b5a75b21261a"
+hash = "701db9795fa389248d9880b4496ee65a45502fb346c994a376925d830aaa9ae9"
 
 [[files]]
 file = "config/emojiful-client.toml"
@@ -154,11 +154,15 @@ hash = "a4e7d2d6bac537024dda0a613d6edfbb114cb4971e692e010cf5a43cb743e675"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "0a04725bf2058a947e8d3ebcd323e4db5af34e589e38d9efec42c0cb51eb6afa"
+hash = "474fca70aa8bfa38d51f9a328d3fead6c2ec7bf962b7e30dc5572492891d6596"
 
 [[files]]
 file = "config/fallingtree.json"
 hash = "9704d03d869a866e68c5e783025c8720df6d35e3e76c56080e08e9bf6473a341"
+
+[[files]]
+file = "config/fancymenu/assets/blackbackground.png"
+hash = "7d762353f4cbd318445a66d83f969477761d54619dccd6857993691e798393c2"
 
 [[files]]
 file = "config/fancymenu/assets/redbutton.png"
@@ -167,6 +171,18 @@ hash = "e74e668b25287b52bd6a6e19e9daf2a0e7b9e24ed322c051fe4546d75d07510e"
 [[files]]
 file = "config/fancymenu/assets/redbuttonhighlighted.png"
 hash = "44371b2b7d0194b7fd9b0b2f7b6c41b925cdad2da6ce6eb91d6a9d17797bc0c4"
+
+[[files]]
+file = "config/fancymenu/assets/steeldominion-16.png"
+hash = "cc19bf020f6d4f1a46466f7e7636dd56f1994f8bb03316fbde88525931d85de5"
+
+[[files]]
+file = "config/fancymenu/assets/steeldominion-32.icns"
+hash = "a2fc07364bea87647d32885124fa819ed7d10a844beb6ce692031ddb36af3b32"
+
+[[files]]
+file = "config/fancymenu/assets/steeldominion-32.png"
+hash = "b49e742a12e11c8b128dee528f6b617c73a78baebfe6a4ca08780422232ceb51"
 
 [[files]]
 file = "config/fancymenu/assets/steeldominion_logotext.png"
@@ -178,7 +194,7 @@ hash = "27b7f6962b7650ad3e09b818b1da29e6dca3387040a6e49522b0251efddb11bf"
 
 [[files]]
 file = "config/fancymenu/assets/steeldominion_logotext3.png"
-hash = "ef0746b1d5b8c020789882e8488d155c597bbf79ab31961b7c9892cc49f5bb61"
+hash = "c7e9bcedb95e13777a7765b2e70187df129cd6aa565d51ba7c9d873f286c46f1"
 
 [[files]]
 file = "config/fancymenu/assets/uiframe_1.png"
@@ -186,7 +202,7 @@ hash = "4ecbcbc69f6ae01c2a4ae7c41b1fcf21f4cfbb740fe5e79a3b3367fc8f8b0c09"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
-hash = "55f515c133a419a88507192ac7c48f4ca47d13c651f2f8798f2f760954b48d45"
+hash = "3afc8c76db91a7087d1cc341a41215b057e604eb052689f3d94d6708b6f0cef2"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -214,11 +230,11 @@ hash = "68932629e64e570f839011dfe563ea80ee7b90cae5b27f3dee95664ca7713c0f"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_loadinglayout.txt"
-hash = "6165f57ce4864c91c2279d7870a2add0684df0b19f2bb2ec8e6bf71330d2a46f"
+hash = "711ea8065696e67c6930008052bff11117e67f1b439dd9a4300e0655e8368f2b"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_menulayout.txt"
-hash = "05ccefda007224e5655026c2b408b1585c359873ab06ce37c33fbc70a3e92be3"
+hash = "634d9869c7879895d15348a4fba6274112253215e57d65f11e2c6090e1a9fb83"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_modslayout.txt"
@@ -254,7 +270,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "28da30cabacb0a0498515de23211e604ecb8af3f127a317726d68afec66ab185"
+hash = "0e01ce4188406eb8a8d6d211cd84dd7e4e49e291c6ebc557e1cffb9fe6aa4fec"
 
 [[files]]
 file = "config/fancymenu/ui_themes/cherry_blossom.json"
@@ -342,7 +358,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "27ba48319e43e3908260990c3134414248e448f471aba89aea60bfa408223c53"
+hash = "5a7eb73e485ebed5621eb30311db140117ac991351fb6cbabc32b18d453843b8"
 
 [[files]]
 file = "config/item_obliterator.json5"
@@ -466,7 +482,7 @@ hash = "24d8e996854169a0c0cfb69c7d27d31c638dc1e5de3a7db8e8d422cf93ad7d9c"
 
 [[files]]
 file = "config/mutils/mutils.json5"
-hash = "1c5c971fa52c4b448426d7d5bdc5fe8959c7ab3aff35508399e8035f115bd53f"
+hash = "26c503d267378e669131bd65f9e587df5339358a3b3601d9ba6f5805d66f58ac"
 
 [[files]]
 file = "config/natures_spirit-common.toml"
@@ -542,7 +558,7 @@ hash = "8c17330d9f9804cd1540b0f442c7f7b7d1dbd3ccb3e22f6c4af222753ffd49ac"
 
 [[files]]
 file = "config/sodium-fingerprint.json"
-hash = "921c3b825c1b08f557097695bc99ff3fad2ddea9301054a9458560080f1a3e10"
+hash = "26c5a1da90510cfe96e11a21950aedfd5c9c1f00ce2c4452b44c933eb04731f2"
 
 [[files]]
 file = "config/sodium-mixins.properties"
@@ -550,7 +566,7 @@ hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "1305a1aadf18de5e9168cb9d7d7764c3f69af27d4d87a65ce67981260ac9a4ff"
+hash = "8ed68907d66052c1c9542b4d2e26e6c3b3dfe8511b09dc2429e5656fdf7cdf72"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
