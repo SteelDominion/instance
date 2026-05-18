@@ -1,6 +1,7 @@
 name = "Drippy Loading Screen"
 filename = "drippyloadingscreen_neoforge_3.1.2_MC_1.21.1.jar"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/v3CYg2V9/versions/lb0Z0bXA/drippyloadingscreen_neoforge_3.1.2_MC_1.21.1.jar"

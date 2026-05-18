@@ -1,6 +1,6 @@
 {
 	// Your Discord App ID
-	"clientId": 608012526537408579,
+	"clientId": 1505728033951186986,
 	// If you wish to disable Discord Rich Presence, set this to false.
 	"enabled": true,
 	// When enabled, the mod will log the current state being sent to Discord
@@ -16,7 +16,12 @@
 	       ...
 	   ]
 	*/
-	"buttons": [],
+	"buttons": [
+		{
+			"label": "Join the Community",
+			"url": "https://discord.gg/CsrQM8P5yy"
+		}
+	],
 	// If set to false, it disables the build-in clientJoinEvent, which is used to tell when the player joins a world and changing Dimension.
 	"enableUpdateDimensionPresence": true,
 	/* Dimensions can be setup to update the Rich Presence when the player is in them.
