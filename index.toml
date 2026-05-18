@@ -802,12 +802,22 @@ file = "mods/architectury-13.0.8-neoforge.jar"
 hash = "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee"
 
 [[files]]
+file = "mods/bettergrassify.pw.toml"
+hash = "a850075a3b7e380701f0291f6151487d0a05bb54db125c8edf9f96a696b73188"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-neoforge-1.21.1-21.1.81.jar"
 hash = "19e88d40da2b6a114c2b808f7fb469d96e66a5379df0a8a43fcb7834498b3e76"
 
 [[files]]
 file = "mods/botanypots-neoforge-1.21.1-21.1.41.jar"
 hash = "8c42dd72effde3fc0f7de1bcfba1637385168165f03e866cab5603063027e8a7"
+
+[[files]]
+file = "mods/chat-plus.pw.toml"
+hash = "e71c0923b00be80f29994c5e545ad2ece3a2781b4435325231bab2522487fda7"
+metafile = true
 
 [[files]]
 file = "mods/chatbubbles-1.0.1.jar"
@@ -957,6 +967,11 @@ metafile = true
 [[files]]
 file = "mods/jei-1.21.1-neoforge-19.27.0.340.jar"
 hash = "8aaf547432f1b4958239b036356b910692fe40f858c3073d996f56bbf7c99826"
+
+[[files]]
+file = "mods/keybind-search.pw.toml"
+hash = "ffefeebaa09c77532bbebbc31fae22642de4c6e913f567ab41a26bcd9dba7dd4"
+metafile = true
 
 [[files]]
 file = "mods/keybindsearch-1.0.0.jar"
