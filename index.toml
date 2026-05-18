@@ -697,10 +697,6 @@ file = "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar"
 hash = "1a97b6ca5c81b3b18d653f403929908e3b48bb1bdb6e8bd8559f89cf0294dc26"
 
 [[files]]
-file = "mods/BetterGrassify-1.7.0+neoforge.1.21.1.jar"
-hash = "2424e74f09e01fdca1d0eb8b5933bc55c8ee4d769b8afd2fca900a0b33ec8f7d"
-
-[[files]]
 file = "mods/BetterThirdPerson-neoforge-1.9.0.jar"
 hash = "2e74076c67a78f16d696ec9ad1e3138d6ed1418544b297dbe3f4ad9cd791d059"
 
@@ -803,7 +799,7 @@ hash = "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee"
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "a850075a3b7e380701f0291f6151487d0a05bb54db125c8edf9f96a696b73188"
+hash = "1909562a6aa63937f8807b1aef5244c694f6756da7d7b8d037a21360e5e2bf3b"
 metafile = true
 
 [[files]]
@@ -816,16 +812,12 @@ hash = "8c42dd72effde3fc0f7de1bcfba1637385168165f03e866cab5603063027e8a7"
 
 [[files]]
 file = "mods/chat-plus.pw.toml"
-hash = "e71c0923b00be80f29994c5e545ad2ece3a2781b4435325231bab2522487fda7"
+hash = "3bbb8948595edc33b82ecfddad17d7be466357a6536bb09ae0e4341254730c61"
 metafile = true
 
 [[files]]
 file = "mods/chatbubbles-1.0.1.jar"
 hash = "a06eca720b9fd3b70b428ec3e3bff5d776f6ba12afe433dcaf8c3bd58ab97ee1"
-
-[[files]]
-file = "mods/chatplus-neoforge-2.8.1.jar"
-hash = "92ce1e606076077d9e58ff4350324ba9eeb430bc7977c59c5bf7849cb03361c2"
 
 [[files]]
 file = "mods/chloride-NEOFORGE-mc1.21.1-v1.7.5.jar"
@@ -970,12 +962,8 @@ hash = "8aaf547432f1b4958239b036356b910692fe40f858c3073d996f56bbf7c99826"
 
 [[files]]
 file = "mods/keybind-search.pw.toml"
-hash = "ffefeebaa09c77532bbebbc31fae22642de4c6e913f567ab41a26bcd9dba7dd4"
+hash = "f240937eb930f1fbb967ee8c11eb39c8614bda8662e1afdc829128a75d4af322"
 metafile = true
-
-[[files]]
-file = "mods/keybindsearch-1.0.0.jar"
-hash = "140659a2216eaa5bd417eb1b1570040fcb87649d151e2b9790b641b2c345f6e9"
 
 [[files]]
 file = "mods/konkrete.pw.toml"
