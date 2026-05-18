@@ -832,11 +832,6 @@ file = "mods/cloth-config-15.0.140-neoforge.jar"
 hash = "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
 
 [[files]]
-file = "mods/cmatransportpack.pw.toml"
-hash = "e1478e56a5f8a342598d52bcb3cbf053e3064d858b27084b255fd5579ff04b4d"
-metafile = true
-
-[[files]]
 file = "mods/collective-1.21.1-8.22.jar"
 hash = "a91714404b5c8c7cb192afd0a447af2234fe2ba73ee32a209bdd026362518cbb"
 
