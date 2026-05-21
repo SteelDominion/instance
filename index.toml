@@ -234,7 +234,7 @@ hash = "711ea8065696e67c6930008052bff11117e67f1b439dd9a4300e0655e8368f2b"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_menulayout.txt"
-hash = "634d9869c7879895d15348a4fba6274112253215e57d65f11e2c6090e1a9fb83"
+hash = "f44c35ed60ee9237691c02204b4ec9b783316dd5347b073cc725fcaa692cd0c9"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_modslayout.txt"
@@ -270,7 +270,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "0e01ce4188406eb8a8d6d211cd84dd7e4e49e291c6ebc557e1cffb9fe6aa4fec"
+hash = "6c3049726604410e6cf54312365acc5cebdf25a99e39b1738dd123bb8c56bf5d"
 
 [[files]]
 file = "config/fancymenu/ui_themes/cherry_blossom.json"
@@ -622,11 +622,11 @@ hash = "38db2f6a8bae065d6bf89327cea92c55d7370db7c0afcb13b494b985776f31c7"
 
 [[files]]
 file = "config/toughasnails/temperature.toml"
-hash = "23d0ecc9637943d1e5300f753d1768d7a8673b48c8bc97b29df082f852cbe44d"
+hash = "5d59acb98eec80e59a8f0ff0257bc2d87bfc9f8ada8a3dcfdedf7720b2ac96a8"
 
 [[files]]
 file = "config/toughasnails/thirst.toml"
-hash = "edc02c61b24515600f8cc60545ab99b4bc9aea490e7ac348bcbca85da4d14199"
+hash = "775c25b5e0bf4641faa73d45726f968e79377171f1068ed1c1c4006c32596c59"
 
 [[files]]
 file = "config/transition.json"
@@ -679,6 +679,10 @@ hash = "77baaeb8469acf33c6f852aa70336d09cda781322dd32cb599eb6089ab4f323c"
 [[files]]
 file = "global_packs/required_resources/resourcepack.zip"
 hash = "68a120206690ec44c4b9c6e39a7c73185812c65fa7cb85d51d6887cd8592c4ba"
+
+[[files]]
+file = "global_packs/required_resources/steeldominionpack.zip"
+hash = "a7c0b3e4ce0b025e48446452caa7bbfcb21d8485373558d1239181a2550fe77b"
 
 [[files]]
 file = "index.html"
@@ -1098,6 +1102,10 @@ hash = "77baaeb8469acf33c6f852aa70336d09cda781322dd32cb599eb6089ab4f323c"
 [[files]]
 file = "resourcepacks/resourcepack.zip"
 hash = "68a120206690ec44c4b9c6e39a7c73185812c65fa7cb85d51d6887cd8592c4ba"
+
+[[files]]
+file = "resourcepacks/steeldominionpack.zip"
+hash = "a7c0b3e4ce0b025e48446452caa7bbfcb21d8485373558d1239181a2550fe77b"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.7.1.zip"
