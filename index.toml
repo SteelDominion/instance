@@ -802,6 +802,11 @@ file = "mods/architectury-13.0.8-neoforge.jar"
 hash = "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee"
 
 [[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "b986b5ff94eab90e3e24b9a7f8fc83ff11b54ff2ac6e8db5db17c3d4591b84e1"
+metafile = true
+
+[[files]]
 file = "mods/bettergrassify.pw.toml"
 hash = "1909562a6aa63937f8807b1aef5244c694f6756da7d7b8d037a21360e5e2bf3b"
 metafile = true
@@ -857,12 +862,27 @@ hash = "32548500b04557a7264708eff140238ee85b561d6902c890a33d311e16b3f3e7"
 metafile = true
 
 [[files]]
+file = "mods/create-deep-seas.pw.toml"
+hash = "50dd28688dad4f78d56bc5b2ba010dfb28bab30d5a713784965a07403ce41658"
+metafile = true
+
+[[files]]
 file = "mods/create-new-age-1.1.7c+neoforge-mc1.21.1.jar"
 hash = "ed25425e13bd21c9fb88a4644210e5dab1f8257ccf2158330db0dd068edb9034"
 
 [[files]]
 file = "mods/create-pantographs-and-wires.pw.toml"
 hash = "9f3f15ee963848b4eac39991635db05427820978114fcc79133483a5916279ae"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "774df804367e2d467253d336437b88b7c0edce15916fb90741e8a9277e783386"
+metafile = true
+
+[[files]]
+file = "mods/create-radars.pw.toml"
+hash = "6e6ec04063608b7e80fd30ab3c8c359813a0242923b17827354b32411affc8a6"
 metafile = true
 
 [[files]]
@@ -893,6 +913,11 @@ metafile = true
 [[files]]
 file = "mods/createdeco-2.1.3.jar"
 hash = "edacf1ad0bd6b9f1667d711650dc0cde604356d91caca7ca1ec428c2f9400c6e"
+
+[[files]]
+file = "mods/createlazytick.pw.toml"
+hash = "609c3cb615402a030d0034b227acc5232edf1a115677d29bd2afaf76452373ed"
+metafile = true
 
 [[files]]
 file = "mods/doubledoors-1.21.1-7.2.jar"
@@ -1045,6 +1070,11 @@ hash = "dd886cfd14c6cf1d23aec5d40871fd4b8794e65bc4153a74619e418a1b3165ba"
 [[files]]
 file = "mods/polymorph-neoforge-1.1.0+1.21.1.jar"
 hash = "bec8118978adeb052de9c4eaf9a595830621d82515a764f32f9c8a4dd52ab94b"
+
+[[files]]
+file = "mods/power-grid.pw.toml"
+hash = "c42c88f644b3e67a87c7a2a912bb5e1ff1021ac27b1397d18381bfaee7c03f44"
+metafile = true
 
 [[files]]
 file = "mods/prickle-neoforge-1.21.1-21.1.11.jar"
