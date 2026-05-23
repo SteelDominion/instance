@@ -852,6 +852,11 @@ file = "mods/cosmeticcorpsecompat-1.21.1-NeoForge-4.0.1.jar"
 hash = "01847827b9d9112f643884a4133b391043404d1a1938af7ff58fc89c3321951e"
 
 [[files]]
+file = "mods/create-aeronautics.pw.toml"
+hash = "32548500b04557a7264708eff140238ee85b561d6902c890a33d311e16b3f3e7"
+metafile = true
+
+[[files]]
 file = "mods/create-new-age-1.1.7c+neoforge-mc1.21.1.jar"
 hash = "ed25425e13bd21c9fb88a4644210e5dab1f8257ccf2158330db0dd068edb9034"
 
@@ -1055,6 +1060,11 @@ file = "mods/refurbished_furniture-neoforge-1.21.1-1.0.22.jar"
 hash = "953a7840261eb79959769a97caa60cba2ee141700a4cbe208825268327136bdf"
 
 [[files]]
+file = "mods/sable.pw.toml"
+hash = "a6693ee3db7b1c9026311096443fd898f1c52bb2b73efc2de964c37105d3ff81"
+metafile = true
+
+[[files]]
 file = "mods/sliceanddice-forge-4.2.4.jar"
 hash = "c3bd743a73eed3de14f6be5221fe68655cfeed0749f8f467f2ce2012ed1416bd"
 
@@ -1119,7 +1129,3 @@ hash = "85f41148dd487e58ea3ff6785d0c13e47d436d741366d69c59bd7a514fa9427a"
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "844af68c07eac70b45bb488a7d9af2298cd6f2867d1ad33fd7abe94110dfedb1"
 metafile = true
-
-[[files]]
-file = "triggerworkflow.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
