@@ -881,11 +881,6 @@ hash = "774df804367e2d467253d336437b88b7c0edce15916fb90741e8a9277e783386"
 metafile = true
 
 [[files]]
-file = "mods/create-radars.pw.toml"
-hash = "6e6ec04063608b7e80fd30ab3c8c359813a0242923b17827354b32411affc8a6"
-metafile = true
-
-[[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "ae1cd2636e95d4606745de93501e6a6dcee208b656c4d35b6b8514120a9cc4ad"
 metafile = true
