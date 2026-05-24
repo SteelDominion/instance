@@ -74,7 +74,7 @@ hash = "438da7ad2459146ccf13e48d6523666bb438990c1d6c99d41f25be61b4a9d988"
 
 [[files]]
 file = "config/chunksfadein.properties"
-hash = "8a056a9f8f8c28f6f83752a940cde21430e56f84123bfbfcedb17df294fbb7f7"
+hash = "75eb42f58b1a0c05b7f257bf1f522a1531ac8a310c767278344e23d8793ee7a2"
 
 [[files]]
 file = "config/collective.json5"
