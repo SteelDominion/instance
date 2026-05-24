@@ -234,7 +234,7 @@ hash = "711ea8065696e67c6930008052bff11117e67f1b439dd9a4300e0655e8368f2b"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_menulayout.txt"
-hash = "f44c35ed60ee9237691c02204b4ec9b783316dd5347b073cc725fcaa692cd0c9"
+hash = "5b2843d3ec174b2c6ee6b96c7715ff84116082af627096408ebf19128568194b"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_modslayout.txt"
@@ -242,7 +242,7 @@ hash = "734e8b731419d615e3eaddbecb0f1b48d4f43dfde8b07a8da4afbaa297b1c77f"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_optionslayout.txt"
-hash = "4ce08ff6562439077622b328c28131bf3d2ee4b062e6774f01c58c92f5cba754"
+hash = "5570a8a2740fb6532fa9f1ece0fa3197e38da3fcd525271630e2fe3780006e21"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_pauselayout.txt"
