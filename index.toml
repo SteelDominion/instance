@@ -182,7 +182,7 @@ hash = "27b7f6962b7650ad3e09b818b1da29e6dca3387040a6e49522b0251efddb11bf"
 
 [[files]]
 file = "config/fancymenu/assets/steeldominion_logotext3.png"
-hash = "c7e9bcedb95e13777a7765b2e70187df129cd6aa565d51ba7c9d873f286c46f1"
+hash = "d26f4f239328cd2a529a86145ce304b6e48221fcea42036e7c4a8ff802872a1a"
 
 [[files]]
 file = "config/fancymenu/assets/uiframe_1.png"
@@ -342,7 +342,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "5a7eb73e485ebed5621eb30311db140117ac991351fb6cbabc32b18d453843b8"
+hash = "b05256160bf0a2271a34347ac862015f71d12651c886af14144df183608ffafa"
 
 [[files]]
 file = "config/item_obliterator.json5"
@@ -1125,7 +1125,7 @@ hash = "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f"
 
 [[files]]
 file = "options.txt"
-hash = "a13e146909cb1a70475acf5ca9dd7e7373a6a59a73b589d69a48d47a34156cb5"
+hash = "5912896ab65992b2b017b5ca6ece6c16cb1bd230ff24476dd2c5c218dc9d5a84"
 
 [[files]]
 file = "resourcepacks/Enhanced Audio r7.zip"

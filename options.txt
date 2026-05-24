@@ -205,8 +205,8 @@ key_key.securitycraft.cameraActivateNightVision:key.keyboard.n
 key_key.securitycraft.setDefaultViewingDirection:key.keyboard.u
 key_cos.key.opencosarmorinventory:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
-soundCategory_master:0.046357615894039736
-soundCategory_music:0.0
+soundCategory_master:1.0
+soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
