@@ -868,6 +868,11 @@ hash = "9f3f15ee963848b4eac39991635db05427820978114fcc79133483a5916279ae"
 metafile = true
 
 [[files]]
+file = "mods/create-propulsion-simulated.pw.toml"
+hash = "0caa91cc5750c209a413229445a28d8a8748198fa665be899f80eb033d4a0ce5"
+metafile = true
+
+[[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "ae1cd2636e95d4606745de93501e6a6dcee208b656c4d35b6b8514120a9cc4ad"
 metafile = true
