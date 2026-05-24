@@ -70,7 +70,7 @@ hash = "d114743a191e96a431937ed51346e3f0a521fb3af6465997892923af9d352920"
 
 [[files]]
 file = "config/chloride-client.json"
-hash = "bef2e688c7df8cf8044cc8d374b86d53aec26673ec95205a400b4f0a189fe0f8"
+hash = "438da7ad2459146ccf13e48d6523666bb438990c1d6c99d41f25be61b4a9d988"
 
 [[files]]
 file = "config/chunksfadein.properties"
@@ -139,18 +139,6 @@ hash = "d50402f326389452a6ed579d9436251e872cedbab6b8f94f74299b3e2a137822"
 [[files]]
 file = "config/entityculling.json"
 hash = "2cffa69095ca1dcf3b4398b979ae98b69233ff56925f1915179d548d9f50ab6e"
-
-[[files]]
-file = "config/exposure-client.toml"
-hash = "cd8c2d6ef4dd823580b0e735f3f0049d5be109928520ec7e1d72f8668a16afef"
-
-[[files]]
-file = "config/exposure-common.toml"
-hash = "f437a2bff2337eecc996f8d0d17d348403eae070045dfbd37065c6fcb79ce6ce"
-
-[[files]]
-file = "config/exposure-server.toml"
-hash = "a4e7d2d6bac537024dda0a613d6edfbb114cb4971e692e010cf5a43cb743e675"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
@@ -966,6 +954,11 @@ metafile = true
 [[files]]
 file = "mods/globalpacks-neoforge-1.21.1-21.0.6.jar"
 hash = "598781933726c596ac95a4dc960861af0746d5713a12fb8a05d4b8cef45ec48d"
+
+[[files]]
+file = "mods/hwid.pw.toml"
+hash = "4444f59e2c264fb10e418b20b3abd797e2b74f44a7117d10757f515443b56b0d"
+metafile = true
 
 [[files]]
 file = "mods/immersive_optimization-neoforge-1.21-0.1.4.jar"

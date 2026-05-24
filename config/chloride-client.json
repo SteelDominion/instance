@@ -57,7 +57,10 @@
     "minecraft:ghast",
     "minecraft:ender_dragon",
     "iceandfire:all",
-    "create:all"
+    "create:all",
+    "mts:builder_existing",
+    "mts:builder_rendering",
+    "mts:builder_seat"
   ],
   "monsterWhitelist": [],
   "tileEntityWhitelist": [

@@ -1,0 +1,14 @@
+name = "HWID (Anti-Alts)"
+filename = "hwid_anti_alts-4.1.jar"
+side = "both"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/wslWWn2c/versions/P9eeYjee/hwid_anti_alts-4.1.jar"
+hash-format = "sha512"
+hash = "0a99cfc788e25f34c3c82ba3368e5fd96d6cbeaf243a293e0761e3079a122df534c6279b1e1c6a658d62cd3258d0986f41a86b1a14668db6c599b2347c84a249"
+
+[update]
+[update.modrinth]
+mod-id = "wslWWn2c"
+version = "P9eeYjee"
