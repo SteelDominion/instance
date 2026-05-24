@@ -1,5 +1,5 @@
 #Send a welcome message containing tips when joining the world
-sayThanksMessage = true
+sayThanksMessage = false
 #Should reinforced blocks' textures be slightly darker than their vanilla counterparts? Servers can force this setting on clients if the server config setting "force_reinforced_block_tint" is set to true.
 reinforced_block_tint = true
 #If this debug feature is enabled, SecurityCraft will attempt to find and report mods that prevent the feature of viewing security cameras from working when they immediately reset the player's camera entity.

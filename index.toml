@@ -138,7 +138,7 @@ hash = "d50402f326389452a6ed579d9436251e872cedbab6b8f94f74299b3e2a137822"
 
 [[files]]
 file = "config/entityculling.json"
-hash = "ceb5b3624c3269bef037b2914da8ab0d1c368abdd466156292a5d82db8803b0e"
+hash = "2cffa69095ca1dcf3b4398b979ae98b69233ff56925f1915179d548d9f50ab6e"
 
 [[files]]
 file = "config/exposure-client.toml"
@@ -530,7 +530,7 @@ hash = "236d8a8ed32bbc618fbec6fff319dd0913410dedcfe08d294d019e5508fa36f7"
 
 [[files]]
 file = "config/securitycraft-client.toml"
-hash = "dc0f460e3b03d8ef179222abf259c92469bb994c7522398389d43b156a7171d6"
+hash = "76ece0728cb7f2c58c0fe1e306ae645a04dfc8dc6e66bd8bcc9e34fb1609a5f0"
 
 [[files]]
 file = "config/securitycraft-server.toml"
@@ -800,6 +800,10 @@ hash = "d23731fcb31cf561544fd7a97b0076b3abb42a0ece0631f86de9a1425fe046f5"
 [[files]]
 file = "mods/architectury-13.0.8-neoforge.jar"
 hash = "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee"
+
+[[files]]
+file = "mods/be_quiet_negotiator-1.0.4.jar"
+hash = "77b2835d026c0c9f0289122e5dc7e3f8efec59e4145e53465bfc0e24129ff11a"
 
 [[files]]
 file = "mods/bellsandwhistles.pw.toml"

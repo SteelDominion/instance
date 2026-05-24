@@ -8,12 +8,18 @@
     "create:hose_pulley",
     "betterend:eternal_pedestal",
     "botania:magic_missile",
-    "botania:falling_star"
+    "botania:falling_star",
+    "mts:builder_existing",
+    "mts:builder_rendering",
+    "mts:builder_seat"
   ],
   "entityWhitelist": [
     "botania:mana_burst",
     "drg_flares:drg_flares",
-    "quark:soul_bead"
+    "quark:soul_bead",
+    "mts:builder_existing",
+    "mts:builder_rendering",
+    "mts:builder_seat"
   ],
   "tracingDistance": 128,
   "debugMode": false,
