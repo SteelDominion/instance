@@ -28,3 +28,9 @@ general = {disable_mod = false, hide_bossbar = true, shadow_text = true, auto_st
 	total_entities_color = 16755200
 	lines = {entities = true, water_creature = true, underground_water_creature = true, ambient = true, particles = true, axolotls = true, creature = true, water_ambient = true, monster = true, misc = true}
 	enabled = true
+[[modules_left]]
+	name = "location"
+	name_color = 43520
+	value_color = 5636095
+	lines = {light = true, biome = true, rotation = true, facing = true, slime_chunk = true, local_difficulty = true, day_ticks = true, days_played = true, dimension = true, highest_block = true, highest_block_server = true, light_server = true}
+	enabled = true

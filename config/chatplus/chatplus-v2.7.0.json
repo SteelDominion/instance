@@ -6,8 +6,8 @@
     "vanillaInputBox": false,
     "saveInputBoxMessage": false,
     "wrappedMessageLineIndent": 0,
-    "maxMessages": -1,
-    "maxCommandSuggestions": 15,
+    "maxMessages": 125,
+    "maxCommandSuggestions": 20,
     "jumpToMessageMode": "CURSOR",
     "selectChatLinePriority": 100,
     "selectChatColor": -4533252,
@@ -75,7 +75,7 @@
     "scrollbarEnabled": true,
     "scrollbarColor": -8354165,
     "scrollbarWidth": 6,
-    "keyPeekChat": "key.keyboard.p",
+    "keyPeekChat": "key.keyboard.unknown",
     "peekChatScrollingEnabled": true,
     "animationEnabled": true,
     "animationDisableOnFocus": false,
@@ -110,7 +110,7 @@
     "movableChatEnabled": false,
     "movableChatShowEnabledOnScreen": true,
     "movableChatKey": {
-        "key": "key.keyboard.right.control",
+        "key": "key.keyboard.unknown",
         "modifier": 0
     },
     "movableChatColor": -922746881,
@@ -126,7 +126,7 @@
         "showInputBoxInputLength": true,
         "showInputBoxInputLengthBackgroundColor": 0
     },
-    "sendNoteEnabled": true,
+    "sendNoteEnabled": false,
     "sendNoteKey": {
         "key": "key.keyboard.enter",
         "modifier": 4
@@ -182,28 +182,28 @@
         "modifier": 2
     },
     "deleteMessageF3DMode": "SELECTED_TAB",
-    "screenshotChatEnabled": true,
+    "screenshotChatEnabled": false,
     "screenshotChatScale": 1.0,
     "screenshotChatCopyToClipboard": true,
-    "screenshotChatSaveToFile": true,
-    "screenshotChatAutoUpload": true,
+    "screenshotChatSaveToFile": false,
+    "screenshotChatAutoUpload": false,
     "screenshotChatAutoUploadSettings": {
         "anonymousUpload": false,
         "secret": ""
     },
     "screenshotChatLinePriority": 200,
     "screenshotChatKey": {
-        "key": "key.keyboard.s",
-        "modifier": 2
+        "key": "key.keyboard.unknown",
+        "modifier": 0
     },
     "screenshotDefaultScreenShotMode": "CURRENT_WINDOW",
     "screenshotDefaultScreenBackgroundMode": "TRANSPARENT",
     "screenshotDefaultScreenShotWindowsMode": "SPLIT",
     "screenshotChatTextBarElementEnabled": true,
-    "playerHeadChatDisplayEnabled": true,
+    "playerHeadChatDisplayEnabled": false,
     "playerHeadChatDisplayShowOnWrapped": false,
     "playerHeadChatDisplayOffsetNonHeadMessages": false,
-    "playerHeadChatDisplayOffsetNonHeadMessagesShowOnWrapped": true,
+    "playerHeadChatDisplayOffsetNonHeadMessagesShowOnWrapped": false,
     "translatorEnabled": true,
     "translatorTextBarElementEnabled": true,
     "translatorRegexes": [],
@@ -221,7 +221,7 @@
         "modifier": 2
     },
     "translateClickEnabled": true,
-    "speechToTextEnabled": true,
+    "speechToTextEnabled": false,
     "speechToTextToInputBox": true,
     "speechToTextCharset": "UTF-8",
     "speechToTextMicrophoneKey": "key.keyboard.b",
@@ -237,7 +237,7 @@
             "generalSettings": {
                 "disabled": false,
                 "backgroundColor": -2147483648,
-                "unfocusedBackgroundColorOpacityMultiplier": 0.4,
+                "unfocusedBackgroundColorOpacityMultiplier": 0.39999998,
                 "reduceUnfocusedBackgroundOpacityWhenClosed": false,
                 "scale": 1.0,
                 "textOpacity": 1.0,
@@ -256,7 +256,7 @@
                 "enabled": false,
                 "showWhenChatNotOpen": false,
                 "outlineColor": 0,
-                "unfocusedOutlineColorOpacityMultiplier": 0.4,
+                "unfocusedOutlineColorOpacityMultiplier": 0.39999998,
                 "reduceUnfocusedOutlineOpacityWhenClosed": false,
                 "outlineBoxType": "TEXT_BOX",
                 "outlineTabType": "SELECTED_TAB_OPEN_TOP"
@@ -280,7 +280,7 @@
                 "position": "BOTTOM",
                 "tabTextColorSelected": -1,
                 "tabTextColorUnselected": -6710887,
-                "unfocusedTabOpacityMultiplier": 0.4,
+                "unfocusedTabOpacityMultiplier": 0.39999998,
                 "tabs": [
                     {
                         "settings": [

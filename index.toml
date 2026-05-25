@@ -46,7 +46,7 @@ hash = "10d7804dae44d1e3e342a9db051dcb46e85dcfb1a628d2709fd501dfff65479b"
 
 [[files]]
 file = "config/betterf3.toml"
-hash = "0da77c51c3c7f0d2665ef1e1011a66dc0fd4b86a08e89a0aee9bb3d91775a7f4"
+hash = "aaa69c113f814e4441fcfec61008b4372a75838e8dcbd3da31cf11d8fd318a8f"
 
 [[files]]
 file = "config/bettergrass.json5"
@@ -66,7 +66,7 @@ hash = "83a4ffc6c79123005167227ba554d06a229bb99fca8415257db75ed2aecf6c7f"
 
 [[files]]
 file = "config/chatplus/chatplus-v2.7.0.json"
-hash = "d114743a191e96a431937ed51346e3f0a521fb3af6465997892923af9d352920"
+hash = "0d6c0c847791b9cf54ac143471dc06fd21abbe1b1364f54ce39a3f2d87b35e6a"
 
 [[files]]
 file = "config/chloride-client.json"
@@ -206,7 +206,7 @@ hash = "3aea95ba0fc3f4a53704c74216c853562120df583162bf088b53182bad5f1153"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_copyrightlayout.txt"
-hash = "f13aa4c6faccdf170cc3c470a59b64fe319d54e62baf820adbfb1010dfa37168"
+hash = "2da2c2319da7a7571ebf6577fbfcc73fd1e5c83f3b53b097429991af3f961cc6"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_creditslayout.txt"
@@ -230,7 +230,7 @@ hash = "734e8b731419d615e3eaddbecb0f1b48d4f43dfde8b07a8da4afbaa297b1c77f"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_optionslayout.txt"
-hash = "ab92c2672d293230513d8039fea6a3cf5ad5dc3f9fd4dce664aa74fd7f572ea1"
+hash = "2ef2090a6226da99931c403a66b48a9433bb0b046ae8b2bf1811412d8d7a8a79"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_pauselayout.txt"
@@ -238,7 +238,7 @@ hash = "957d2c0a60e32f13fcd26d050f83a9e2ea8de01205b9b3a370db5704889cce0b"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_qualityselection.txt"
-hash = "a6d6f58df9c502076e2c62ee6fdf8a858a6238280e1241d6458b7d4cb44a698e"
+hash = "ca0d2c3e04a96868528b325e189eece0e6cba86795bae5352bf24280d0218d75"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_resourcepacklayout.txt"
@@ -250,7 +250,7 @@ hash = "8896c9a794b17074556946c5291acf46819838fa563ff0ab1e0b22a1f6e58b88"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+hash = "e591b555c207183d8610142686fbeb9c92328dcfe7a6bff047b31ab9fddb8381"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
