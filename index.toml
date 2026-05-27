@@ -70,7 +70,7 @@ hash = "0d6c0c847791b9cf54ac143471dc06fd21abbe1b1364f54ce39a3f2d87b35e6a"
 
 [[files]]
 file = "config/chloride-client.json"
-hash = "7b2ebacac778edd754923c8c8971167aca97b808f1ecc5949815208796781e6b"
+hash = "8d05924b260060dfac1ddbf150ca4d0d83cde10c3b645d87e65920243ce58bb9"
 
 [[files]]
 file = "config/chunksfadein.properties"
