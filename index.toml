@@ -922,10 +922,6 @@ hash = "8b514331228ad541028651ee5df05db9119f1711980fdd1a38233d08e8a838c5"
 metafile = true
 
 [[files]]
-file = "mods/entityculling-neoforge-1.10.1-mc1.21.1.jar"
-hash = "da2f7c43329b20d9627a6590f8048233c349d5efe78defe57b05eff120ded691"
-
-[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "c7e03bf0486df2f26bb1c05eeab40af5ed3a4535c89e8e868689060614ca7548"
 metafile = true
