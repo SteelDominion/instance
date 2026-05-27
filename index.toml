@@ -70,7 +70,7 @@ hash = "0d6c0c847791b9cf54ac143471dc06fd21abbe1b1364f54ce39a3f2d87b35e6a"
 
 [[files]]
 file = "config/chloride-client.json"
-hash = "438da7ad2459146ccf13e48d6523666bb438990c1d6c99d41f25be61b4a9d988"
+hash = "7b2ebacac778edd754923c8c8971167aca97b808f1ecc5949815208796781e6b"
 
 [[files]]
 file = "config/chunksfadein.properties"
@@ -206,11 +206,11 @@ hash = "3aea95ba0fc3f4a53704c74216c853562120df583162bf088b53182bad5f1153"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_copyrightlayout.txt"
-hash = "2da2c2319da7a7571ebf6577fbfcc73fd1e5c83f3b53b097429991af3f961cc6"
+hash = "a6014fab2291276991300128ddd8836abdcb0e69a27ec136d24a6466f24f9c38"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_creditslayout.txt"
-hash = "20a949698e84a4bd0da43fb135920aa8e265bed9f6011869d1016a3f87ec3e0d"
+hash = "5fbcc2c596e06a8c594eb29b78fb952885d415e55e4fc302573359deb05f444b"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_levelloadlayout.txt"
@@ -230,7 +230,7 @@ hash = "734e8b731419d615e3eaddbecb0f1b48d4f43dfde8b07a8da4afbaa297b1c77f"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_optionslayout.txt"
-hash = "2ef2090a6226da99931c403a66b48a9433bb0b046ae8b2bf1811412d8d7a8a79"
+hash = "4867d9f968269a0404a9defe9a7ae716880feacc2f345ee2e158a0b568536e7d"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_pauselayout.txt"
@@ -238,7 +238,7 @@ hash = "957d2c0a60e32f13fcd26d050f83a9e2ea8de01205b9b3a370db5704889cce0b"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_qualityselection.txt"
-hash = "ca0d2c3e04a96868528b325e189eece0e6cba86795bae5352bf24280d0218d75"
+hash = "c87a9d8b61327f19a18a90efebcba701a40f641f9bf1b6b58357ac1fe7b0d0aa"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_resourcepacklayout.txt"
@@ -250,7 +250,7 @@ hash = "8896c9a794b17074556946c5291acf46819838fa563ff0ab1e0b22a1f6e58b88"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "e591b555c207183d8610142686fbeb9c92328dcfe7a6bff047b31ab9fddb8381"
+hash = "8e3e524cad28250b514afc59fe4cafc6836ecd1e6dc934d96ac31cf6a0cd4bce"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -258,7 +258,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "6c3049726604410e6cf54312365acc5cebdf25a99e39b1738dd123bb8c56bf5d"
+hash = "af2c27c02ef29fbe91b4a37e6ccc26340466b06ac22302a933e47ef1278f5cd7"
 
 [[files]]
 file = "config/fancymenu/ui_themes/cherry_blossom.json"
@@ -298,7 +298,7 @@ hash = "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "8881f1d7904bb2e9a3c2ec093f96a4f0e16988f56fe7ce4d82f569eebdbd455a"
+hash = "8e5980c5b845018242b1982de3217d963393c12c0a91e39386903ea851947d80"
 
 [[files]]
 file = "config/farmersdelight-client-1.toml.bak"
@@ -342,7 +342,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "b05256160bf0a2271a34347ac862015f71d12651c886af14144df183608ffafa"
+hash = "04e452c8f44a5cd67244d65b83d8f0745dd175cc5bfad42dce3bdbb55e6a2020"
 
 [[files]]
 file = "config/item_obliterator.json5"
@@ -697,10 +697,6 @@ file = "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar"
 hash = "b524ccdace2ef8fd19f5b2074f7de1103ac5065c52553f064c00e098346c293e"
 
 [[files]]
-file = "mods/CraftTweaker-neoforge-1.21.1-21.0.38.jar"
-hash = "4c4a95ca706e1aec41145b2db32737f2aebf1fdedefda0b35b651cad3fa4abaf"
-
-[[files]]
 file = "mods/CreativeCore_NEOFORGE_v2.13.38_mc1.21.1.jar"
 hash = "62c88048902c23cde0d8b5b0da2eb7b463c5249380b1f8c86cafd817b0daf4a9"
 
@@ -974,11 +970,6 @@ file = "mods/iris-neoforge-1.8.12+mc1.21.1.jar"
 hash = "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83"
 
 [[files]]
-file = "mods/item-obliterator.pw.toml"
-hash = "b92177d25512e1e4e318b76aaadce0c17392d9c4a63dd947ff32ce332673135c"
-metafile = true
-
-[[files]]
 file = "mods/jei-1.21.1-neoforge-19.27.0.340.jar"
 hash = "8aaf547432f1b4958239b036356b910692fe40f858c3073d996f56bbf7c99826"
 
@@ -995,6 +986,11 @@ metafile = true
 [[files]]
 file = "mods/kotlinforforge-5.11.0-all.jar"
 hash = "ac827b62ce8fe71760208671b4a694e3ccd35049075f9406a751cffb5a5c9779"
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "826e4d48c99f23aa0b110871298771c65aab86c7587b53445c8c1467adea5bdb"
+metafile = true
 
 [[files]]
 file = "mods/letsdo-vinery-neoforge-1.5.3.jar"
@@ -1082,6 +1078,11 @@ file = "mods/refurbished_furniture-neoforge-1.21.1-1.0.22.jar"
 hash = "953a7840261eb79959769a97caa60cba2ee141700a4cbe208825268327136bdf"
 
 [[files]]
+file = "mods/rhino.pw.toml"
+hash = "5a9a706b16dac6bb2ac8252d579e405ec6038ab24aa39bcd24061cef0bde50bb"
+metafile = true
+
+[[files]]
 file = "mods/sable.pw.toml"
 hash = "a6693ee3db7b1c9026311096443fd898f1c52bb2b73efc2de964c37105d3ff81"
 metafile = true
@@ -1140,14 +1141,10 @@ file = "resourcepacks/steeldominionpack.zip"
 hash = "a7c0b3e4ce0b025e48446452caa7bbfcb21d8485373558d1239181a2550fe77b"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.7.1.zip"
-hash = "24a20634a7832d422d3cd5023be16829f26840e25c69404dd418306ea79f63f0"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.7.1.zip.txt"
+file = "shaderpacks/ComplementaryReimagined_r5.8.zip.txt"
 hash = "85f41148dd487e58ea3ff6785d0c13e47d436d741366d69c59bd7a514fa9427a"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "844af68c07eac70b45bb488a7d9af2298cd6f2867d1ad33fd7abe94110dfedb1"
+hash = "005680e5e141341230b6a58bea42c38d7f133292a243819d46ae1582aa78ed69"
 metafile = true

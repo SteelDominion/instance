@@ -1,5 +1,5 @@
 {
-  "modpackMode": false,
+  "modpackMode": true,
   "fullScreen": "WINDOWED",
   "fpsDisplayMode": "SIMPLE",
   "fpsDisplayAlign": "LEFT",
@@ -64,7 +64,10 @@
   ],
   "monsterWhitelist": [],
   "tileEntityWhitelist": [
-    "waterframes:all"
+    "waterframes:all",
+    "mts:builder_existing",
+    "mts:builder_rendering",
+    "mts:builder_seat"
   ],
   "borderlessAttachModeF11": "ATTACH",
   "fastLanguageReload": true,

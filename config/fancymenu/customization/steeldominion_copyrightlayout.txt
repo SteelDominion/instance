@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = steeldominion_copyright
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1779673862961
+  last_edited_time = 1779922408595
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:7ec2eefd-ce77-4003-ac6e-b9e3c8482c46-1779673827056] = [groups:][instances:]
+  [loading_requirement_container_meta:8a069e13-3878-4f72-a892-04bdf49bb31f-1779922406206] = [groups:][instances:]
 }
 
 menu_background {
@@ -380,9 +380,9 @@ element {
   auto_sizing_base_screen_width = 1920
   auto_sizing_base_screen_height = 1018
   sticky_anchor = false
-  anchor_point = mid-centered
+  anchor_point = top-centered
   x = -153
-  y = -146
+  y = 108
   width = 100
   height = 20
   stay_on_screen = true
@@ -543,9 +543,9 @@ element {
   auto_sizing_base_screen_width = 1920
   auto_sizing_base_screen_height = 1018
   sticky_anchor = false
-  anchor_point = mid-centered
+  anchor_point = top-centered
   x = -50
-  y = -146
+  y = 108
   width = 100
   height = 20
   stay_on_screen = true
@@ -621,9 +621,9 @@ element {
   auto_sizing_base_screen_width = 1920
   auto_sizing_base_screen_height = 1018
   sticky_anchor = false
-  anchor_point = mid-centered
+  anchor_point = top-centered
   x = 53
-  y = -146
+  y = 108
   width = 100
   height = 20
   stay_on_screen = true
@@ -700,9 +700,9 @@ element {
   auto_sizing_base_screen_height = 1018
   sticky_anchor = false
   anchor_point = bottom-centered
-  x = -84
-  y = -50
-  width = 169
+  x = -100
+  y = -26
+  width = 200
   height = 20
   stay_on_screen = true
   element_loading_requirement_container_identifier = d56cd7dc-f040-4df3-a28c-706c162daa23-1778469871962
@@ -947,9 +947,9 @@ element {
   auto_sizing_base_screen_width = 1920
   auto_sizing_base_screen_height = 1018
   sticky_anchor = false
-  anchor_point = mid-centered
+  anchor_point = top-centered
   x = -152
-  y = -90
+  y = 164
   width = 149
   height = 20
   stay_on_screen = true
@@ -1025,9 +1025,9 @@ element {
   auto_sizing_base_screen_width = 1920
   auto_sizing_base_screen_height = 1018
   sticky_anchor = false
-  anchor_point = mid-centered
+  anchor_point = top-centered
   x = 3
-  y = -90
+  y = 164
   width = 149
   height = 20
   stay_on_screen = true
