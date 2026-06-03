@@ -258,7 +258,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "af2c27c02ef29fbe91b4a37e6ccc26340466b06ac22302a933e47ef1278f5cd7"
+hash = "8d02463a4da8ba1ae78a1fa10942e976b6f0804bb6c7085bdb4982e4ca82ff8f"
 
 [[files]]
 file = "config/fancymenu/ui_themes/cherry_blossom.json"
@@ -342,7 +342,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "04e452c8f44a5cd67244d65b83d8f0745dd175cc5bfad42dce3bdbb55e6a2020"
+hash = "4e1163e13490f1ab50bfdfa67ffb904fef06fbbf29deed4440a65c60d550627a"
 
 [[files]]
 file = "config/item_obliterator.json5"
