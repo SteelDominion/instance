@@ -861,9 +861,8 @@ file = "mods/chatbubbles-1.0.1.jar"
 hash = "a06eca720b9fd3b70b428ec3e3bff5d776f6ba12afe433dcaf8c3bd58ab97ee1"
 
 [[files]]
-file = "mods/chisels-bits.pw.toml"
-hash = "f71b4845e34f3d18487ff678faf31a5fe6960263cdadb80ef9d07abbf84ad1cf"
-metafile = true
+file = "mods/chisels-and-bits-neoforge-21.1.32.jar"
+hash = "982f4523abc12c5de1e84410f4e0ee29e134e854272c3bdb2c8fe24841a21265"
 
 [[files]]
 file = "mods/chloride-NEOFORGE-mc1.21.1-v1.7.5.jar"
