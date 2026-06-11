@@ -45,6 +45,10 @@ file = "config/bcc-common.toml"
 hash = "10d7804dae44d1e3e342a9db051dcb46e85dcfb1a628d2709fd501dfff65479b"
 
 [[files]]
+file = "config/better-camera.json"
+hash = "a1ca97319e2d465f41edd9247dd0c49d6dcedcfef64b082517a07d5215e4eb8a"
+
+[[files]]
 file = "config/betterf3.toml"
 hash = "aaa69c113f814e4441fcfec61008b4372a75838e8dcbd3da31cf11d8fd318a8f"
 
@@ -135,6 +139,14 @@ hash = "701db9795fa389248d9880b4496ee65a45502fb346c994a376925d830aaa9ae9"
 [[files]]
 file = "config/emojiful-client.toml"
 hash = "d50402f326389452a6ed579d9436251e872cedbab6b8f94f74299b3e2a137822"
+
+[[files]]
+file = "config/emotecraft.json"
+hash = "b2444933961418ed2b8fcb8570de00d1550852bd84104b91c694b5cf9a690bb1"
+
+[[files]]
+file = "config/emotecraft_emote_map.json"
+hash = "0ce5a209870e0673c14f68d4581de2cefc67a3c37aa7071c943b711a69835775"
 
 [[files]]
 file = "config/entityculling.json"
@@ -661,6 +673,34 @@ file = "config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
+file = "emotes/Check the time (Right).emotecraft"
+hash = "f3402f2ae76289d88c7995b3f2c6514450af5d781103b775a83409e452721a2a"
+
+[[files]]
+file = "emotes/Cheer.emotecraft"
+hash = "bff0ecf72c000553aa94cb8423ae94d789dac417bc32af770fc0df8512661c98"
+
+[[files]]
+file = "emotes/Default Dance.emotecraft"
+hash = "6fcdbe2b96ddfde95ecc0b3999ed6673757b02952b1df8a90324c2f070d8e5d9"
+
+[[files]]
+file = "emotes/Hands up.emotecraft"
+hash = "910a155b42f20262c0fb32dd09e1db1bb2c0991cc73e1e76e4281ec79ec76318"
+
+[[files]]
+file = "emotes/Killed.emotecraft"
+hash = "62a3b6196de9b8990811fb074ded3951afe661ca2fe7e33a36966c79ee56e572"
+
+[[files]]
+file = "emotes/Petition.emotecraft"
+hash = "b787db3166e49fa4f9a7ffea5a68bbbd54cf038ca5862771db7015e060823427"
+
+[[files]]
+file = "emotes/Salute.emotecraft"
+hash = "10460f6865e405ea30cf05551144293b7d5b6bf9ba38596237a9b4cec7758fc3"
+
+[[files]]
 file = "global_packs/required_resources/Enhanced Audio r7.zip"
 hash = "77baaeb8469acf33c6f852aa70336d09cda781322dd32cb599eb6089ab4f323c"
 
@@ -795,6 +835,10 @@ hash = "b986b5ff94eab90e3e24b9a7f8fc83ff11b54ff2ac6e8db5db17c3d4591b84e1"
 metafile = true
 
 [[files]]
+file = "mods/better-camera-1.21-neoforge-1.3.0.jar"
+hash = "59493eea79a288318acf664bf564aea90178f284aa5d5196d8ad8586567259fb"
+
+[[files]]
 file = "mods/bettergrassify.pw.toml"
 hash = "1909562a6aa63937f8807b1aef5244c694f6756da7d7b8d037a21360e5e2bf3b"
 metafile = true
@@ -815,6 +859,11 @@ metafile = true
 [[files]]
 file = "mods/chatbubbles-1.0.1.jar"
 hash = "a06eca720b9fd3b70b428ec3e3bff5d776f6ba12afe433dcaf8c3bd58ab97ee1"
+
+[[files]]
+file = "mods/chisels-bits.pw.toml"
+hash = "f71b4845e34f3d18487ff678faf31a5fe6960263cdadb80ef9d07abbf84ad1cf"
+metafile = true
 
 [[files]]
 file = "mods/chloride-NEOFORGE-mc1.21.1-v1.7.5.jar"
@@ -920,6 +969,10 @@ metafile = true
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "8b514331228ad541028651ee5df05db9119f1711980fdd1a38233d08e8a838c5"
 metafile = true
+
+[[files]]
+file = "mods/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar"
+hash = "8cff63e900acd55bb39d41978cc2a70a974e326e2038c30ff20ccfde4c953a43"
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
