@@ -1,7 +1,7 @@
 ##[general]
 
 I:default_gui_scale = '-1';
-B:force_fullscreen = 'true';
+B:force_fullscreen = 'false';
 B:play_vanilla_menu_music = 'false';
 
 
@@ -137,7 +137,7 @@ B:global_slider_label_underline_on_hover = 'false';
 B:global_slider_handle_nine_slice = 'false';
 I:global_button_background_nine_slice_border_left = '5';
 B:global_button_background_transparent = 'false';
-B:seamless_world_loading = 'true';
+B:seamless_world_loading = 'false';
 B:global_slider_background_transparent = 'false';
 S:global_slider_handle_normal = '';
 I:global_slider_background_nine_slice_border_right = '5';
