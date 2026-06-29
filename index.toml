@@ -45,10 +45,6 @@ file = "config/bcc-common.toml"
 hash = "10d7804dae44d1e3e342a9db051dcb46e85dcfb1a628d2709fd501dfff65479b"
 
 [[files]]
-file = "config/better-camera.json"
-hash = "a1ca97319e2d465f41edd9247dd0c49d6dcedcfef64b082517a07d5215e4eb8a"
-
-[[files]]
 file = "config/betterf3.toml"
 hash = "aaa69c113f814e4441fcfec61008b4372a75838e8dcbd3da31cf11d8fd318a8f"
 
@@ -218,7 +214,7 @@ hash = "3aea95ba0fc3f4a53704c74216c853562120df583162bf088b53182bad5f1153"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_copyrightlayout.txt"
-hash = "a6014fab2291276991300128ddd8836abdcb0e69a27ec136d24a6466f24f9c38"
+hash = "30a802e560ac05158342ec713e4aaf8f4ee5eae56adc4a0c8b8e8c0b1e9191d1"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_creditslayout.txt"
@@ -234,7 +230,7 @@ hash = "711ea8065696e67c6930008052bff11117e67f1b439dd9a4300e0655e8368f2b"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_menulayout.txt"
-hash = "5b2843d3ec174b2c6ee6b96c7715ff84116082af627096408ebf19128568194b"
+hash = "bccb24a02ba18590d4c34d596568e3181aea2fac1cf63deb4b65c935fea1c2ba"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_modslayout.txt"
@@ -270,7 +266,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "8d02463a4da8ba1ae78a1fa10942e976b6f0804bb6c7085bdb4982e4ca82ff8f"
+hash = "6468e8711359d7781110fd042ec29bd11377d67c27e26f1cc88f6796682727fd"
 
 [[files]]
 file = "config/fancymenu/ui_themes/cherry_blossom.json"
@@ -310,7 +306,7 @@ hash = "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "8e5980c5b845018242b1982de3217d963393c12c0a91e39386903ea851947d80"
+hash = "8881f1d7904bb2e9a3c2ec093f96a4f0e16988f56fe7ce4d82f569eebdbd455a"
 
 [[files]]
 file = "config/farmersdelight-client-1.toml.bak"
@@ -475,10 +471,6 @@ hash = "80ede63c0260951d9a335bbdfae42d71ca7ec681d501db2825dffe9231c87982"
 [[files]]
 file = "config/mtsconfigclient.json"
 hash = "24d8e996854169a0c0cfb69c7d27d31c638dc1e5de3a7db8e8d422cf93ad7d9c"
-
-[[files]]
-file = "config/mutils/mutils.json5"
-hash = "26c503d267378e669131bd65f9e587df5339358a3b3601d9ba6f5805d66f58ac"
 
 [[files]]
 file = "config/natures_spirit-common.toml"
