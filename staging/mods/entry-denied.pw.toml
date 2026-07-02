@@ -1,0 +1,14 @@
+name = "Entry Denied!"
+filename = "entry_denied-1.0.1-neoforge-1.21.1.jar"
+side = "both"
+pin = true
+
+[download]
+hash-format = "sha512"
+hash = "3e1677a2dfea159f826d9a13fc291dee85e66a1e0538885a02fce0ca7d566e13df016dacfe21e0e089d4d05583c60c4441b9bb5454cf9d946ff9184d87878820"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7006329
+project-id = 1346376
