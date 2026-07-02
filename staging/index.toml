@@ -753,10 +753,6 @@ file = "mods/S.L.O.P. Vehicle Pack 1.21.1-1.3.3.jar"
 hash = "555017ed1ef4bc0928f71d07c1162ff3fffac7cc7489d507c96c4414fabcf60e"
 
 [[files]]
-file = "mods/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar"
-hash = "db5182afe9197044916d364b69cd70139457f92859b0bf4f4bb76c3f42360a65"
-
-[[files]]
 file = "mods/SimpleDiscordRichPresence-neoforge-88.0.1-build.54+mc1.21.1.jar"
 hash = "735cfa183d7779ac843198720e29519bf9f92993a57aea1d6bebe2d0a26a970c"
 
@@ -826,10 +822,6 @@ metafile = true
 [[files]]
 file = "mods/chatbubbles-1.0.1.jar"
 hash = "a06eca720b9fd3b70b428ec3e3bff5d776f6ba12afe433dcaf8c3bd58ab97ee1"
-
-[[files]]
-file = "mods/chisels-and-bits-neoforge-21.1.32.jar"
-hash = "982f4523abc12c5de1e84410f4e0ee29e134e854272c3bdb2c8fe24841a21265"
 
 [[files]]
 file = "mods/chunksfadein-neoforge-3.0.23-1.21.jar"
@@ -1070,10 +1062,6 @@ metafile = true
 [[files]]
 file = "mods/prickle-neoforge-1.21.1-21.1.11.jar"
 hash = "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167"
-
-[[files]]
-file = "mods/railways-0.2.1+neoforge-mc1.21.1.jar"
-hash = "b7636c8b1b0352ed1a130dfe67f8bb574e2fc08803ed1cda4d3ea00505193914"
 
 [[files]]
 file = "mods/refurbished_furniture-neoforge-1.21.1-1.0.22.jar"
