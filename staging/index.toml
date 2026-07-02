@@ -1031,6 +1031,11 @@ file = "mods/mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar"
 hash = "177fe382ff22caa14983d862ead2717321315a5e4afa778d245e9acd2f61608d"
 
 [[files]]
+file = "mods/melody.pw.toml"
+hash = "f66e5483a5f4e9a0ca726b9f8ba5b28469d627f8755f66b5e7a7b4d4fa54c515"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "1cc192126d1dcd27e12066bd7b78b9f9ab682f01e6fb538963371f7c4ed99e79"
 metafile = true
