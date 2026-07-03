@@ -915,11 +915,6 @@ hash = "ef6445009f95cb78cdcbf63269a4c2116a03f5c82a46cd5361825bdaa0d10166"
 metafile = true
 
 [[files]]
-file = "mods/embeddium.pw.toml"
-hash = "778c42263b2ba7c9e73553bdcd70f48a3e485ba52b6a83474160d48be696b71f"
-metafile = true
-
-[[files]]
 file = "mods/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar"
 hash = "8cff63e900acd55bb39d41978cc2a70a974e326e2038c30ff20ccfde4c953a43"
 
