@@ -1,0 +1,13 @@
+name = "Reactive Music"
+filename = "reactivemusic-neoforge-1.3.4+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bqnfeesx/versions/1jNzI9x8/reactivemusic-neoforge-1.3.4%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "e2a649a1da1dc6caf4dc72d4354cccca946dfe2450eb1d762066e61797efb259deb21284e36e99590e23996f2a19a94c03bb5ad34fdce5b0dc41c7472a9424c4"
+
+[update]
+[update.modrinth]
+mod-id = "Bqnfeesx"
+version = "1jNzI9x8"

@@ -5,8 +5,8 @@ pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/HVnmMxH1/versions/7RRmkxkn/ComplementaryReimagined_r5.8.zip"
-hash-format = "sha256"
-hash = "49b79e1bc0f63d5e143a9b6da855a11c9edacd3f1de758d73151db9ba4abd698"
+hash-format = "sha512"
+hash = "8def9f83ba0015c3d7eadcec1fdb1ecb8ac999496f35d15468bae753c79b26168567e1375218a54fe0c50d97d140555ef26f79dbfcb8b4d526a7d8f3483407bc"
 
 [update]
 [update.modrinth]

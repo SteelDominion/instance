@@ -1,0 +1,13 @@
+name = "Steel Dominion [World]"
+author = "Steel Dominion Community Contributors"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ddeb0446af366f0375de543d6c0c87c0791c795d763a5f400cbadeeaaf29cf29"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.230"

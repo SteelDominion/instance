@@ -705,10 +705,6 @@ file = "global_packs/required_resources/steeldominionpack.zip"
 hash = "a7c0b3e4ce0b025e48446452caa7bbfcb21d8485373558d1239181a2550fe77b"
 
 [[files]]
-file = "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar"
-hash = "1a97b6ca5c81b3b18d653f403929908e3b48bb1bdb6e8bd8559f89cf0294dc26"
-
-[[files]]
 file = "mods/Emojiful-Neoforge-1.21-5.2.2-all.jar"
 hash = "a12bcd3a6ece119ea7f7a014ec2de57fdf51fffa8789fc9ac05fde7a638abf36"
 
@@ -802,6 +798,11 @@ hash = "7f759d3cee479e7a7f64b8fca8acc6a8f9bedd3c170502c1cd343b9771b41452"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "564b3baf3e4635cb10d0355b49e0807ddafbf4beb99ecedc46f774d70937f1b4"
+metafile = true
+
+[[files]]
 file = "mods/bettergrassify.pw.toml"
 hash = "1909562a6aa63937f8807b1aef5244c694f6756da7d7b8d037a21360e5e2bf3b"
 metafile = true
@@ -828,8 +829,9 @@ file = "mods/chunksfadein-neoforge-3.0.23-1.21.jar"
 hash = "9b872936317911a9a6043097f618c5ad8bd9b023dcdcb2586629fecf01f55060"
 
 [[files]]
-file = "mods/cloth-config-15.0.140-neoforge.jar"
-hash = "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
+file = "mods/cloth-config.pw.toml"
+hash = "18ba60564127fcb4919353d7b0a00c875a1da289588f7e600e04918949687760"
+metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"

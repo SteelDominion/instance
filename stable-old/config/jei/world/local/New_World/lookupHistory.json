@@ -1,0 +1,7 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"refurbished_furniture:cheese_toastie"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"refurbished_furniture:oak_kitchen_sink"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"refurbished_furniture:acacia_desk"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"refurbished_furniture:dark_oak_chair"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
