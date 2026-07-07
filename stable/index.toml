@@ -960,6 +960,10 @@ file = "mods/immersive_optimization-neoforge-1.21-0.1.4.jar"
 hash = "3d7cf11f17677c88db831739a725c12a75cf2c0dafb4a027b3352daa3a447337"
 
 [[files]]
+file = "mods/immersive_paintings-neoforge-1.21.1-0.7.8.jar"
+hash = "c377f6dfaf5be5022761f6e3d6310ef90e59e10bd00bb252d78cff5381b2520c"
+
+[[files]]
 file = "mods/iris-neoforge-1.8.12+mc1.21.1.jar"
 hash = "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83"
 
@@ -1057,6 +1061,10 @@ file = "mods/prickle-neoforge-1.21.1-21.1.11.jar"
 hash = "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167"
 
 [[files]]
+file = "mods/railways-0.2.1+neoforge-mc1.21.1.jar"
+hash = "b7636c8b1b0352ed1a130dfe67f8bb574e2fc08803ed1cda4d3ea00505193914"
+
+[[files]]
 file = "mods/refurbished_furniture-neoforge-1.21.1-1.0.22.jar"
 hash = "953a7840261eb79959769a97caa60cba2ee141700a4cbe208825268327136bdf"
 
@@ -1087,6 +1095,10 @@ hash = "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403"
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "16d99ac37c472a2c372b765052c583ee4ed98902c4a3a1349bf90bc056d8ca06"
 metafile = true
+
+[[files]]
+file = "mods/steel_dominion_additions_v1.0.1neoforge-1.21.1.jar"
+hash = "01da52c2a68bc872f04d377525e693bf79b7c43dc1eb131592248cbc1725d637"
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
