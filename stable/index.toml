@@ -939,6 +939,11 @@ hash = "1a460fb6b7cb30fd446eb437fee0e9a90c7f1c49e9f26ed63a46e2fdef2bb216"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "b4bbe1023e3adb39173823599788b7cb04e6ac550aa488dd0aa74cbc10571e79"
+metafile = true
+
+[[files]]
 file = "mods/flags_that_represent-8.0-neoforge-1.21.1.jar"
 hash = "206f26212c290e330de04c4ad1b987e2d2ee056f7f975c544e688d5ba07fc324"
 
@@ -1113,6 +1118,11 @@ hash = "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403"
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "16d99ac37c472a2c372b765052c583ee4ed98902c4a3a1349bf90bc056d8ca06"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "76298b8c0ff790b21d23b1eed1c1bf03b9c897dd094b754bc4da710fe7e236c3"
 metafile = true
 
 [[files]]
