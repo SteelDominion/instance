@@ -896,6 +896,11 @@ hash = "d8339046fa81a88574c4c4adaf0c45e559772f23bd9c60fd3fc11bcfabfdfa61"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "a91fce8206e9a3d61d9a9225ef5e9b19c87f1851ddbc6b8a17eeb727aa11b88f"
+metafile = true
+
+[[files]]
 file = "mods/dawnoftimebuilder-neoforge-1.21.1-1.6.6.jar"
 hash = "3b37504f81554f9965f1292005bd0da3bbdb09f367d1891a15c166ab0ba0e739"
 
@@ -912,6 +917,11 @@ metafile = true
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "ef6445009f95cb78cdcbf63269a4c2116a03f5c82a46cd5361825bdaa0d10166"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-view.pw.toml"
+hash = "43e354d7281eb73220fc3ef07a46ca30e889fba8d5e9f733a77ac79b8b6bb6d7"
 metafile = true
 
 [[files]]
@@ -1083,6 +1093,11 @@ hash = "a6693ee3db7b1c9026311096443fd898f1c52bb2b73efc2de964c37105d3ff81"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "0462ee33ff0ff6b22f65c95832334e50637a603722b02199a12fa7cd682f1083"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "ec8255ee1097bb4a0bb4b61ef0dba714c1dad87b0acaf12da324a921d551f378"
 metafile = true
@@ -1101,8 +1116,8 @@ hash = "16d99ac37c472a2c372b765052c583ee4ed98902c4a3a1349bf90bc056d8ca06"
 metafile = true
 
 [[files]]
-file = "mods/steel_dominion_additions_v1.0.1neoforge-1.21.1.jar"
-hash = "01da52c2a68bc872f04d377525e693bf79b7c43dc1eb131592248cbc1725d637"
+file = "mods/steel_dominion_additions-v1.0.2neoforge-1.21.1.jar"
+hash = "770743c1a0931ffc21e02e4d29ef2178befaca01dfd5773881edff8eb8909a06"
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
