@@ -942,6 +942,10 @@ hash = "29214e3bb45c4e14c2c617f37c68ecce183cfad9d279e35b4c78151db92d5a8d"
 metafile = true
 
 [[files]]
+file = "mods/fzzy_config-0.7.6+1.21+neoforge.jar"
+hash = "4e5cc1438087b0bc0276969e88b9ad0bdf2bcc60d6caf5fe79e18947d7a29050"
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "c2ed56aa9176697797149882fad0495215501ff12c4e69702d0a6f5c3855e0e4"
 metafile = true
@@ -1061,8 +1065,8 @@ file = "mods/prickle-neoforge-1.21.1-21.1.11.jar"
 hash = "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167"
 
 [[files]]
-file = "mods/railways-0.2.1+neoforge-mc1.21.1.jar"
-hash = "b7636c8b1b0352ed1a130dfe67f8bb574e2fc08803ed1cda4d3ea00505193914"
+file = "mods/railways-0.2.0+neoforge-mc1.21.1.jar"
+hash = "1bd19694cfc746f261afc2f00b87d1083e734e778d65b1481094931100fca1a9"
 
 [[files]]
 file = "mods/refurbished_furniture-neoforge-1.21.1-1.0.22.jar"
