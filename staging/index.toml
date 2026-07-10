@@ -803,11 +803,6 @@ hash = "564b3baf3e4635cb10d0355b49e0807ddafbf4beb99ecedc46f774d70937f1b4"
 metafile = true
 
 [[files]]
-file = "mods/bettergrassify.pw.toml"
-hash = "1909562a6aa63937f8807b1aef5244c694f6756da7d7b8d037a21360e5e2bf3b"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf-neoforge-1.21.1-21.1.81.jar"
 hash = "19e88d40da2b6a114c2b808f7fb469d96e66a5379df0a8a43fcb7834498b3e76"
 
@@ -901,6 +896,11 @@ hash = "d8339046fa81a88574c4c4adaf0c45e559772f23bd9c60fd3fc11bcfabfdfa61"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "a91fce8206e9a3d61d9a9225ef5e9b19c87f1851ddbc6b8a17eeb727aa11b88f"
+metafile = true
+
+[[files]]
 file = "mods/dawnoftimebuilder-neoforge-1.21.1-1.6.6.jar"
 hash = "3b37504f81554f9965f1292005bd0da3bbdb09f367d1891a15c166ab0ba0e739"
 
@@ -920,6 +920,11 @@ hash = "ef6445009f95cb78cdcbf63269a4c2116a03f5c82a46cd5361825bdaa0d10166"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-view.pw.toml"
+hash = "43e354d7281eb73220fc3ef07a46ca30e889fba8d5e9f733a77ac79b8b6bb6d7"
+metafile = true
+
+[[files]]
 file = "mods/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar"
 hash = "8cff63e900acd55bb39d41978cc2a70a974e326e2038c30ff20ccfde4c953a43"
 
@@ -934,12 +939,13 @@ hash = "1a460fb6b7cb30fd446eb437fee0e9a90c7f1c49e9f26ed63a46e2fdef2bb216"
 metafile = true
 
 [[files]]
-file = "mods/flags_that_represent-8.0-neoforge-1.21.1.jar"
-hash = "206f26212c290e330de04c4ad1b987e2d2ee056f7f975c544e688d5ba07fc324"
+file = "mods/ferrite-core.pw.toml"
+hash = "b4bbe1023e3adb39173823599788b7cb04e6ac550aa488dd0aa74cbc10571e79"
+metafile = true
 
 [[files]]
-file = "mods/forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar"
-hash = "68abf2864e957df26ac0cc3bd5352ee67880e052b47a80f22f28556c1179f18d"
+file = "mods/flags_that_represent-8.0-neoforge-1.21.1.jar"
+hash = "206f26212c290e330de04c4ad1b987e2d2ee056f7f975c544e688d5ba07fc324"
 
 [[files]]
 file = "mods/framework-neoforge-1.21.1-0.13.11.jar"
@@ -949,6 +955,10 @@ hash = "429ea90a162d7c25c1463ee60979e4d7b1ddb525d9384a3a2a2f45d70bda03f5"
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "29214e3bb45c4e14c2c617f37c68ecce183cfad9d279e35b4c78151db92d5a8d"
 metafile = true
+
+[[files]]
+file = "mods/fzzy_config-0.7.6+1.21+neoforge.jar"
+hash = "4e5cc1438087b0bc0276969e88b9ad0bdf2bcc60d6caf5fe79e18947d7a29050"
 
 [[files]]
 file = "mods/geckolib.pw.toml"
@@ -967,6 +977,10 @@ metafile = true
 [[files]]
 file = "mods/immersive_optimization-neoforge-1.21-0.1.4.jar"
 hash = "3d7cf11f17677c88db831739a725c12a75cf2c0dafb4a027b3352daa3a447337"
+
+[[files]]
+file = "mods/immersive_paintings-neoforge-1.21.1-0.7.8.jar"
+hash = "c377f6dfaf5be5022761f6e3d6310ef90e59e10bd00bb252d78cff5381b2520c"
 
 [[files]]
 file = "mods/iris-neoforge-1.8.12+mc1.21.1.jar"
@@ -1066,6 +1080,10 @@ file = "mods/prickle-neoforge-1.21.1-21.1.11.jar"
 hash = "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167"
 
 [[files]]
+file = "mods/railways-0.2.0+neoforge-mc1.21.1.jar"
+hash = "1bd19694cfc746f261afc2f00b87d1083e734e778d65b1481094931100fca1a9"
+
+[[files]]
 file = "mods/refurbished_furniture-neoforge-1.21.1-1.0.22.jar"
 hash = "953a7840261eb79959769a97caa60cba2ee141700a4cbe208825268327136bdf"
 
@@ -1077,6 +1095,11 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "a6693ee3db7b1c9026311096443fd898f1c52bb2b73efc2de964c37105d3ff81"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "0462ee33ff0ff6b22f65c95832334e50637a603722b02199a12fa7cd682f1083"
 metafile = true
 
 [[files]]
@@ -1096,6 +1119,15 @@ hash = "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403"
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "16d99ac37c472a2c372b765052c583ee4ed98902c4a3a1349bf90bc056d8ca06"
 metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "76298b8c0ff790b21d23b1eed1c1bf03b9c897dd094b754bc4da710fe7e236c3"
+metafile = true
+
+[[files]]
+file = "mods/steel_dominion_additions-v1.0.2neoforge-1.21.1.jar"
+hash = "770743c1a0931ffc21e02e4d29ef2178befaca01dfd5773881edff8eb8909a06"
 
 [[files]]
 file = "mods/supplementaries.pw.toml"

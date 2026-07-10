@@ -126,7 +126,7 @@ hash = "ed3b25678a185a7c560868e047b60ffd7d7bf9b13d3a45cc5c056f5cfd5b088e"
 
 [[files]]
 file = "config/drippyloadingscreen/early_window_reference.properties"
-hash = "37ae2b10aa643ee99ba2cfb1679b17254822c52542884eb535d55411b70f236e"
+hash = "0f8d5a2b048c6ab8203c728a4e6534c9f00977e06117b768b13254bdb9f6a90f"
 
 [[files]]
 file = "config/drippyloadingscreen/options.txt"
@@ -238,7 +238,7 @@ hash = "734e8b731419d615e3eaddbecb0f1b48d4f43dfde8b07a8da4afbaa297b1c77f"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_optionslayout.txt"
-hash = "4867d9f968269a0404a9defe9a7ae716880feacc2f345ee2e158a0b568536e7d"
+hash = "3ed78d1688c98e35f04cbf9133ded1425dba0d852f871ab5f72f30579e38f4e0"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_pauselayout.txt"
@@ -266,7 +266,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "6468e8711359d7781110fd042ec29bd11377d67c27e26f1cc88f6796682727fd"
+hash = "737c473cf9032e3e16285b1e14dacbd1cf1c0d8a2961da1c711e68fead880a39"
 
 [[files]]
 file = "config/fancymenu/ui_themes/cherry_blossom.json"
@@ -350,7 +350,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "4e1163e13490f1ab50bfdfa67ffb904fef06fbbf29deed4440a65c60d550627a"
+hash = "b65fc3cb26555e915dfe714b747d94b5685c29fed1c9ceb67a85c499e62f21b6"
 
 [[files]]
 file = "config/item_obliterator.json5"
@@ -1156,7 +1156,7 @@ hash = "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f"
 
 [[files]]
 file = "options.txt"
-hash = "5912896ab65992b2b017b5ca6ece6c16cb1bd230ff24476dd2c5c218dc9d5a84"
+hash = "383562289d2d8a79703bbeab9bb8ac49dbbdb23ef60ca1d3aac2141fcfedd28c"
 
 [[files]]
 file = "resourcepacks/Enhanced Audio r7.zip"
