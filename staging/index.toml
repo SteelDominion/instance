@@ -852,7 +852,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "5fcdacf55ad8a007ac6d64bc568430de96bda74086f15a98d19c7e55067d83c7"
+hash = "1a753246c051df1856474657f335b0be0841e5d2b231e0380090924ca0a36542"
 metafile = true
 
 [[files]]
@@ -878,6 +878,11 @@ metafile = true
 [[files]]
 file = "mods/create-propulsion-simulated.pw.toml"
 hash = "0caa91cc5750c209a413229445a28d8a8748198fa665be899f80eb033d4a0ce5"
+metafile = true
+
+[[files]]
+file = "mods/create-the-air-war.pw.toml"
+hash = "6501888f0a324cd2180bccdb6d5f0e6696774c2377f9a4691bc5ef36c340d2c3"
 metafile = true
 
 [[files]]
