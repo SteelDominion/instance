@@ -891,6 +891,11 @@ hash = "cc05bcaec0e857c6a6f7de4bd09a22ad195b5b77a25e4adfe737915ac3be68db"
 metafile = true
 
 [[files]]
+file = "mods/create-tracks+.pw.toml"
+hash = "f828250675a47d9ecad9ea619d7c79c6b742c55c10c78eedd5158e5cf6cfa12b"
+metafile = true
+
+[[files]]
 file = "mods/create-train-parts.pw.toml"
 hash = "fe86f2ab87278e7dbafdba8be50789321596e5396c7834ac1ca4eda79aab52f5"
 metafile = true
@@ -1203,3 +1208,7 @@ hash = "85f41148dd487e58ea3ff6785d0c13e47d436d741366d69c59bd7a514fa9427a"
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "005680e5e141341230b6a58bea42c38d7f133292a243819d46ae1582aa78ed69"
 metafile = true
+
+[[files]]
+file = "tacz/KhanPowder_v0.8.82_beta+1.21.1.zip"
+hash = "46e8cd8e3d08e5932e1f0a260eb0b576f25c2c81465c02428f498bd7fa9969c2"
