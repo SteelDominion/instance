@@ -126,7 +126,7 @@ hash = "ed3b25678a185a7c560868e047b60ffd7d7bf9b13d3a45cc5c056f5cfd5b088e"
 
 [[files]]
 file = "config/drippyloadingscreen/early_window_reference.properties"
-hash = "37ae2b10aa643ee99ba2cfb1679b17254822c52542884eb535d55411b70f236e"
+hash = "0f8d5a2b048c6ab8203c728a4e6534c9f00977e06117b768b13254bdb9f6a90f"
 
 [[files]]
 file = "config/drippyloadingscreen/options.txt"
@@ -238,7 +238,7 @@ hash = "734e8b731419d615e3eaddbecb0f1b48d4f43dfde8b07a8da4afbaa297b1c77f"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_optionslayout.txt"
-hash = "4867d9f968269a0404a9defe9a7ae716880feacc2f345ee2e158a0b568536e7d"
+hash = "3ed78d1688c98e35f04cbf9133ded1425dba0d852f871ab5f72f30579e38f4e0"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_pauselayout.txt"
@@ -266,7 +266,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "6468e8711359d7781110fd042ec29bd11377d67c27e26f1cc88f6796682727fd"
+hash = "737c473cf9032e3e16285b1e14dacbd1cf1c0d8a2961da1c711e68fead880a39"
 
 [[files]]
 file = "config/fancymenu/ui_themes/cherry_blossom.json"
@@ -350,7 +350,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "4e1163e13490f1ab50bfdfa67ffb904fef06fbbf29deed4440a65c60d550627a"
+hash = "b65fc3cb26555e915dfe714b747d94b5685c29fed1c9ceb67a85c499e62f21b6"
 
 [[files]]
 file = "config/item_obliterator.json5"
@@ -851,8 +851,18 @@ hash = "32548500b04557a7264708eff140238ee85b561d6902c890a33d311e16b3f3e7"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "5fcdacf55ad8a007ac6d64bc568430de96bda74086f15a98d19c7e55067d83c7"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "492652d7142a555ca41ee5429b5b447917dee0db09d95b00706511d36608fb91"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "184cd89a7d8ddcad8c7f23415e574e183fb86f9febe4713499ceeff3ddb4b1c7"
 metafile = true
 
 [[files]]
@@ -897,7 +907,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "a91fce8206e9a3d61d9a9225ef5e9b19c87f1851ddbc6b8a17eeb727aa11b88f"
+hash = "d05a14df40f7b2bc23808528cee013a05c94bf38fa818ab993c639b2fffb3b7a"
 metafile = true
 
 [[files]]
@@ -921,7 +931,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-view.pw.toml"
-hash = "43e354d7281eb73220fc3ef07a46ca30e889fba8d5e9f733a77ac79b8b6bb6d7"
+hash = "2ce441e2feffe1213a277a5167aa1aa5b9d2157f3423364a09e246948407a9c6"
 metafile = true
 
 [[files]]
@@ -1044,6 +1054,11 @@ hash = "f66e5483a5f4e9a0ca726b9f8ba5b28469d627f8755f66b5e7a7b4d4fa54c515"
 metafile = true
 
 [[files]]
+file = "mods/moa-decor-science.pw.toml"
+hash = "a7e37f89ce4cb82488b87d1cb942420dd890926759d86f0a8801c08bf08196cb"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "1cc192126d1dcd27e12066bd7b78b9f9ab682f01e6fb538963371f7c4ed99e79"
 metafile = true
@@ -1090,6 +1105,11 @@ hash = "953a7840261eb79959769a97caa60cba2ee141700a4cbe208825268327136bdf"
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "5a9a706b16dac6bb2ac8252d579e405ec6038ab24aa39bcd24061cef0bde50bb"
+metafile = true
+
+[[files]]
+file = "mods/rpl.pw.toml"
+hash = "3e3877223cf3eede571b4c87c22c268c71394336b2466e8b7e5cf7e7bf87bc89"
 metafile = true
 
 [[files]]
@@ -1156,7 +1176,7 @@ hash = "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f"
 
 [[files]]
 file = "options.txt"
-hash = "5912896ab65992b2b017b5ca6ece6c16cb1bd230ff24476dd2c5c218dc9d5a84"
+hash = "383562289d2d8a79703bbeab9bb8ac49dbbdb23ef60ca1d3aac2141fcfedd28c"
 
 [[files]]
 file = "resourcepacks/Enhanced Audio r7.zip"
