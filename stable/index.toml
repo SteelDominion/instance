@@ -745,10 +745,6 @@ file = "mods/NoChatRestrictions-NeoForge-MC1.21.11-v1.0.0.jar"
 hash = "a1a9a020f3434b2aa8b9131d25e3ad16ea33b1f0abb8d72f088a0fbad81f7abe"
 
 [[files]]
-file = "mods/S.L.O.P. Vehicle Pack 1.21.1-1.3.3.jar"
-hash = "555017ed1ef4bc0928f71d07c1162ff3fffac7cc7489d507c96c4414fabcf60e"
-
-[[files]]
 file = "mods/SimpleDiscordRichPresence-neoforge-88.0.1-build.54+mc1.21.1.jar"
 hash = "735cfa183d7779ac843198720e29519bf9f92993a57aea1d6bebe2d0a26a970c"
 
@@ -851,8 +847,18 @@ hash = "32548500b04557a7264708eff140238ee85b561d6902c890a33d311e16b3f3e7"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "1a753246c051df1856474657f335b0be0841e5d2b231e0380090924ca0a36542"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "492652d7142a555ca41ee5429b5b447917dee0db09d95b00706511d36608fb91"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "184cd89a7d8ddcad8c7f23415e574e183fb86f9febe4713499ceeff3ddb4b1c7"
 metafile = true
 
 [[files]]
@@ -871,8 +877,18 @@ hash = "0caa91cc5750c209a413229445a28d8a8748198fa665be899f80eb033d4a0ce5"
 metafile = true
 
 [[files]]
+file = "mods/create-the-air-war.pw.toml"
+hash = "6501888f0a324cd2180bccdb6d5f0e6696774c2377f9a4691bc5ef36c340d2c3"
+metafile = true
+
+[[files]]
 file = "mods/create-threaded-trains.pw.toml"
 hash = "cc05bcaec0e857c6a6f7de4bd09a22ad195b5b77a25e4adfe737915ac3be68db"
+metafile = true
+
+[[files]]
+file = "mods/create-tracks+.pw.toml"
+hash = "f828250675a47d9ecad9ea619d7c79c6b742c55c10c78eedd5158e5cf6cfa12b"
 metafile = true
 
 [[files]]
@@ -897,7 +913,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "a91fce8206e9a3d61d9a9225ef5e9b19c87f1851ddbc6b8a17eeb727aa11b88f"
+hash = "d05a14df40f7b2bc23808528cee013a05c94bf38fa818ab993c639b2fffb3b7a"
 metafile = true
 
 [[files]]
@@ -921,7 +937,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-view.pw.toml"
-hash = "43e354d7281eb73220fc3ef07a46ca30e889fba8d5e9f733a77ac79b8b6bb6d7"
+hash = "2ce441e2feffe1213a277a5167aa1aa5b9d2157f3423364a09e246948407a9c6"
 metafile = true
 
 [[files]]
@@ -1044,6 +1060,11 @@ hash = "f66e5483a5f4e9a0ca726b9f8ba5b28469d627f8755f66b5e7a7b4d4fa54c515"
 metafile = true
 
 [[files]]
+file = "mods/moa-decor-science.pw.toml"
+hash = "a7e37f89ce4cb82488b87d1cb942420dd890926759d86f0a8801c08bf08196cb"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "1cc192126d1dcd27e12066bd7b78b9f9ab682f01e6fb538963371f7c4ed99e79"
 metafile = true
@@ -1090,6 +1111,11 @@ hash = "953a7840261eb79959769a97caa60cba2ee141700a4cbe208825268327136bdf"
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "5a9a706b16dac6bb2ac8252d579e405ec6038ab24aa39bcd24061cef0bde50bb"
+metafile = true
+
+[[files]]
+file = "mods/rpl.pw.toml"
+hash = "3e3877223cf3eede571b4c87c22c268c71394336b2466e8b7e5cf7e7bf87bc89"
 metafile = true
 
 [[files]]
@@ -1178,3 +1204,7 @@ hash = "85f41148dd487e58ea3ff6785d0c13e47d436d741366d69c59bd7a514fa9427a"
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "005680e5e141341230b6a58bea42c38d7f133292a243819d46ae1582aa78ed69"
 metafile = true
+
+[[files]]
+file = "tacz/KhanPowder_v0.8.82_beta+1.21.1.zip"
+hash = "46e8cd8e3d08e5932e1f0a260eb0b576f25c2c81465c02428f498bd7fa9969c2"
