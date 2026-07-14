@@ -856,6 +856,11 @@ hash = "492652d7142a555ca41ee5429b5b447917dee0db09d95b00706511d36608fb91"
 metafile = true
 
 [[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "184cd89a7d8ddcad8c7f23415e574e183fb86f9febe4713499ceeff3ddb4b1c7"
+metafile = true
+
+[[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "2ed3740107bf8007b9657afe4fd7db973f234cd43cf4d185e32a3cfab99c5444"
 metafile = true
@@ -897,7 +902,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "a91fce8206e9a3d61d9a9225ef5e9b19c87f1851ddbc6b8a17eeb727aa11b88f"
+hash = "d05a14df40f7b2bc23808528cee013a05c94bf38fa818ab993c639b2fffb3b7a"
 metafile = true
 
 [[files]]
@@ -921,7 +926,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-view.pw.toml"
-hash = "43e354d7281eb73220fc3ef07a46ca30e889fba8d5e9f733a77ac79b8b6bb6d7"
+hash = "2ce441e2feffe1213a277a5167aa1aa5b9d2157f3423364a09e246948407a9c6"
 metafile = true
 
 [[files]]
@@ -1178,3 +1183,7 @@ hash = "85f41148dd487e58ea3ff6785d0c13e47d436d741366d69c59bd7a514fa9427a"
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "005680e5e141341230b6a58bea42c38d7f133292a243819d46ae1582aa78ed69"
 metafile = true
+
+[[files]]
+file = "tacz/KhanPowder_v0.8.82_beta+1.21.1.zip"
+hash = "46e8cd8e3d08e5932e1f0a260eb0b576f25c2c81465c02428f498bd7fa9969c2"
