@@ -45,6 +45,10 @@ file = "config/bcc-common.toml"
 hash = "10d7804dae44d1e3e342a9db051dcb46e85dcfb1a628d2709fd501dfff65479b"
 
 [[files]]
+file = "config/better-camera.json"
+hash = "a1ca97319e2d465f41edd9247dd0c49d6dcedcfef64b082517a07d5215e4eb8a"
+
+[[files]]
 file = "config/betterf3.toml"
 hash = "aaa69c113f814e4441fcfec61008b4372a75838e8dcbd3da31cf11d8fd318a8f"
 
@@ -1161,7 +1165,7 @@ hash = "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f"
 
 [[files]]
 file = "options.txt"
-hash = "383562289d2d8a79703bbeab9bb8ac49dbbdb23ef60ca1d3aac2141fcfedd28c"
+hash = "193cc1a185855d121afa40567557321066a84052c3d24c54a523e2524bcb989a"
 
 [[files]]
 file = "resourcepacks/Enhanced Audio r7.zip"
