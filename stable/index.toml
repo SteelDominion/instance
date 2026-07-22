@@ -733,6 +733,10 @@ file = "mods/Immersive Vehicles-1.21.1-24.0.0.jar"
 hash = "1d2f7512604636265703b29fdf13d7f8ef2323694b6435f4392973da6e78d251"
 
 [[files]]
+file = "mods/MOAdecor ELECTRONICS 1.21.1.A.jar"
+hash = "ae430d6fafab992bb5374066dc30124bc71992fd995c63be12c45e99e52609ca"
+
+[[files]]
 file = "mods/MTS Official Pack-1.21.1-V29.jar"
 hash = "f82e67f6c0cf85f79c6b295ef874890e0dc4460204d7768a4a46354d87a0b5d8"
 
@@ -855,6 +859,11 @@ hash = "32548500b04557a7264708eff140238ee85b561d6902c890a33d311e16b3f3e7"
 metafile = true
 
 [[files]]
+file = "mods/create-connected.pw.toml"
+hash = "0a040503e1b8b82ba9a72c5186b1043f5f797920b1f117827975c7afb26d9e7d"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "492652d7142a555ca41ee5429b5b447917dee0db09d95b00706511d36608fb91"
 metafile = true
@@ -892,6 +901,11 @@ metafile = true
 [[files]]
 file = "mods/create-train-parts.pw.toml"
 hash = "fe86f2ab87278e7dbafdba8be50789321596e5396c7834ac1ca4eda79aab52f5"
+metafile = true
+
+[[files]]
+file = "mods/create-tweaked-controllers.pw.toml"
+hash = "d6adc55d3a50d8618576362eb970894544ee21a69876821b51467d7a6f9e3605"
 metafile = true
 
 [[files]]
@@ -1028,6 +1042,11 @@ file = "mods/letsdo-vinery-neoforge-1.5.3.jar"
 hash = "d0348d1bbf15cd7f8ec5821457887240150d073fb5f612bc70f9517515225d10"
 
 [[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "952b89eaf8054ce77d12f0f1f8e5502df33e4361af1e971ce562494450670b86"
+metafile = true
+
+[[files]]
 file = "mods/mafglib.pw.toml"
 hash = "86711bd7f83ed6496df41c30deedf56ead770bf60a60c07b3c66c7bb19242e74"
 metafile = true
@@ -1055,6 +1074,16 @@ hash = "177fe382ff22caa14983d862ead2717321315a5e4afa778d245e9acd2f61608d"
 [[files]]
 file = "mods/melody.pw.toml"
 hash = "f66e5483a5f4e9a0ca726b9f8ba5b28469d627f8755f66b5e7a7b4d4fa54c515"
+metafile = true
+
+[[files]]
+file = "mods/moa-decor-bath.pw.toml"
+hash = "ac0fb5133fba862a0ae8a86e17accefcd0cc5bf39a3434973e580534153c5443"
+metafile = true
+
+[[files]]
+file = "mods/moa-decor-science.pw.toml"
+hash = "a7e37f89ce4cb82488b87d1cb942420dd890926759d86f0a8801c08bf08196cb"
 metafile = true
 
 [[files]]
