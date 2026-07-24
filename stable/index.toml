@@ -914,6 +914,10 @@ hash = "b9aaadff5300ec35b0f4b62f9d9f5cd08aedf0e6c9ebd8d746b06dfd8a755577"
 metafile = true
 
 [[files]]
+file = "mods/createbigcannons-5.11.5+mc.1.21.1.jar"
+hash = "2c0576338ec400bef5ca373650e3e919eee602c002ce1b7b6eb0f69f3c67764a"
+
+[[files]]
 file = "mods/createlazytick.pw.toml"
 hash = "609c3cb615402a030d0034b227acc5232edf1a115677d29bd2afaf76452373ed"
 metafile = true
@@ -1134,6 +1138,10 @@ hash = "953a7840261eb79959769a97caa60cba2ee141700a4cbe208825268327136bdf"
 file = "mods/rhino.pw.toml"
 hash = "5a9a706b16dac6bb2ac8252d579e405ec6038ab24aa39bcd24061cef0bde50bb"
 metafile = true
+
+[[files]]
+file = "mods/ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar"
+hash = "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24"
 
 [[files]]
 file = "mods/sable.pw.toml"
