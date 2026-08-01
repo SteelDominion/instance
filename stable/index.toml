@@ -234,7 +234,7 @@ hash = "711ea8065696e67c6930008052bff11117e67f1b439dd9a4300e0655e8368f2b"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_menulayout.txt"
-hash = "bccb24a02ba18590d4c34d596568e3181aea2fac1cf63deb4b65c935fea1c2ba"
+hash = "164a66f95a496b7c737eada636935f9daec4276ce4cbcc67b2a63413632c6edc"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_modslayout.txt"
@@ -246,7 +246,7 @@ hash = "3ed78d1688c98e35f04cbf9133ded1425dba0d852f871ab5f72f30579e38f4e0"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_pauselayout.txt"
-hash = "957d2c0a60e32f13fcd26d050f83a9e2ea8de01205b9b3a370db5704889cce0b"
+hash = "9514d66d9f9e7613cce4ff6e38bce081fcbabc0206298acc50c37ee212b8e8ab"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_qualityselection.txt"
@@ -270,7 +270,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "737c473cf9032e3e16285b1e14dacbd1cf1c0d8a2961da1c711e68fead880a39"
+hash = "25a28ead512ecbe03550e77733846115f9648f8e67d55216ffcb1c3ad96ea81c"
 
 [[files]]
 file = "config/fancymenu/ui_themes/cherry_blossom.json"
