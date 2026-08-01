@@ -815,6 +815,11 @@ file = "mods/bookshelf-neoforge-1.21.1-21.1.81.jar"
 hash = "19e88d40da2b6a114c2b808f7fb469d96e66a5379df0a8a43fcb7834498b3e76"
 
 [[files]]
+file = "mods/borderless-window.pw.toml"
+hash = "aac1b5011789c604fc6572d4c405b40b72cfba051fb558dfe202814988bc04a6"
+metafile = true
+
+[[files]]
 file = "mods/botanypots-neoforge-1.21.1-21.1.41.jar"
 hash = "8c42dd72effde3fc0f7de1bcfba1637385168165f03e866cab5603063027e8a7"
 
