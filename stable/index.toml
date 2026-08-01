@@ -899,11 +899,6 @@ hash = "f828250675a47d9ecad9ea619d7c79c6b742c55c10c78eedd5158e5cf6cfa12b"
 metafile = true
 
 [[files]]
-file = "mods/create-train-parts.pw.toml"
-hash = "fe86f2ab87278e7dbafdba8be50789321596e5396c7834ac1ca4eda79aab52f5"
-metafile = true
-
-[[files]]
 file = "mods/create-tweaked-controllers.pw.toml"
 hash = "d6adc55d3a50d8618576362eb970894544ee21a69876821b51467d7a6f9e3605"
 metafile = true
@@ -939,6 +934,11 @@ hash = "3b37504f81554f9965f1292005bd0da3bbdb09f367d1891a15c166ab0ba0e739"
 [[files]]
 file = "mods/dragonlib.pw.toml"
 hash = "205c1d979cb1e5b5ee19b96d837913dbabbc1825c7523a33619c55f1e759e7fa"
+metafile = true
+
+[[files]]
+file = "mods/dramatic-doors.pw.toml"
+hash = "928e9997099e7743badad2cb7640e610d0d3a771ff1f4a8b62447fb41bbd50d6"
 metafile = true
 
 [[files]]
