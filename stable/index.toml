@@ -801,11 +801,6 @@ hash = "b986b5ff94eab90e3e24b9a7f8fc83ff11b54ff2ac6e8db5db17c3d4591b84e1"
 metafile = true
 
 [[files]]
-file = "mods/better-camera.pw.toml"
-hash = "7f759d3cee479e7a7f64b8fca8acc6a8f9bedd3c170502c1cd343b9771b41452"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "564b3baf3e4635cb10d0355b49e0807ddafbf4beb99ecedc46f774d70937f1b4"
 metafile = true
