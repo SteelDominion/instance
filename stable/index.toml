@@ -706,7 +706,7 @@ hash = "68a120206690ec44c4b9c6e39a7c73185812c65fa7cb85d51d6887cd8592c4ba"
 
 [[files]]
 file = "global_packs/required_resources/steeldominionpack.zip"
-hash = "bb6d290d99793accc6ab4ddba89d3d01924080340a26a9a5fab1f15119761eba"
+hash = "f0c3b5435b92ca5b3369c96d7dadc3c2e2d9a63912537c1ec59f810903b6a99f"
 
 [[files]]
 file = "mods/Emojiful-Neoforge-1.21-5.2.2-all.jar"
@@ -1208,18 +1208,6 @@ hash = "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f"
 [[files]]
 file = "options.txt"
 hash = "193cc1a185855d121afa40567557321066a84052c3d24c54a523e2524bcb989a"
-
-[[files]]
-file = "resourcepacks/Enhanced Audio r7.zip"
-hash = "77baaeb8469acf33c6f852aa70336d09cda781322dd32cb599eb6089ab4f323c"
-
-[[files]]
-file = "resourcepacks/resourcepack.zip"
-hash = "68a120206690ec44c4b9c6e39a7c73185812c65fa7cb85d51d6887cd8592c4ba"
-
-[[files]]
-file = "resourcepacks/steeldominionpack.zip"
-hash = "bb6d290d99793accc6ab4ddba89d3d01924080340a26a9a5fab1f15119761eba"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.8.zip.txt"
