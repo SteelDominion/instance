@@ -1177,8 +1177,8 @@ hash = "76298b8c0ff790b21d23b1eed1c1bf03b9c897dd094b754bc4da710fe7e236c3"
 metafile = true
 
 [[files]]
-file = "mods/steel_dominion_additions-v1.0.2neoforge-1.21.1.jar"
-hash = "770743c1a0931ffc21e02e4d29ef2178befaca01dfd5773881edff8eb8909a06"
+file = "mods/steel_dominion_additions-v1.0.3-neoforge-1.21.1.jar"
+hash = "df3cee8e601a47019c680ddd8b655849ce7c6f368428cf15c26393db711e879b"
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
@@ -1219,7 +1219,7 @@ hash = "68a120206690ec44c4b9c6e39a7c73185812c65fa7cb85d51d6887cd8592c4ba"
 
 [[files]]
 file = "resourcepacks/steeldominionpack.zip"
-hash = "a7c0b3e4ce0b025e48446452caa7bbfcb21d8485373558d1239181a2550fe77b"
+hash = "bb6d290d99793accc6ab4ddba89d3d01924080340a26a9a5fab1f15119761eba"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.8.zip.txt"
