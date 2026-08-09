@@ -130,11 +130,11 @@ hash = "ed3b25678a185a7c560868e047b60ffd7d7bf9b13d3a45cc5c056f5cfd5b088e"
 
 [[files]]
 file = "config/drippyloadingscreen/early_window_reference.properties"
-hash = "0f8d5a2b048c6ab8203c728a4e6534c9f00977e06117b768b13254bdb9f6a90f"
+hash = "fcc123c309350bcacec92e4a51fbdc73e011a0d46d3dcd5f11bcac64efe24059"
 
 [[files]]
 file = "config/drippyloadingscreen/options.txt"
-hash = "701db9795fa389248d9880b4496ee65a45502fb346c994a376925d830aaa9ae9"
+hash = "3d5e3b8753b44f2fb3620fa5acdd3b84c38237d59d4c7b4883c8e02d81e608a3"
 
 [[files]]
 file = "config/emojiful-client.toml"
@@ -197,6 +197,10 @@ file = "config/fancymenu/assets/steeldominion_logotext3.png"
 hash = "d26f4f239328cd2a529a86145ce304b6e48221fcea42036e7c4a8ff802872a1a"
 
 [[files]]
+file = "config/fancymenu/assets/titlebackground.png"
+hash = "9997d5779a7a91c49ba5210e51dda3ebe954987ece6a627ef4ef25c4be4d2a46"
+
+[[files]]
 file = "config/fancymenu/assets/uiframe_1.png"
 hash = "4ecbcbc69f6ae01c2a4ae7c41b1fcf21f4cfbb740fe5e79a3b3367fc8f8b0c09"
 
@@ -206,7 +210,7 @@ hash = "3afc8c76db91a7087d1cc341a41215b057e604eb052689f3d94d6708b6f0cef2"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "051284085d05da6f449d14bc63f82581d6b3ed6b2a30ac851516510398b40265"
+hash = "1c6019b764716b55831c8f99f991575953f6f42d0c914911e3533a30aac4c246"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_chatmenulayout.txt"
@@ -218,11 +222,11 @@ hash = "3aea95ba0fc3f4a53704c74216c853562120df583162bf088b53182bad5f1153"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_copyrightlayout.txt"
-hash = "30a802e560ac05158342ec713e4aaf8f4ee5eae56adc4a0c8b8e8c0b1e9191d1"
+hash = "9a51b3b56db25e8601a759e63895e26c2036cdb32abc1964163158df19b1ed98"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_creditslayout.txt"
-hash = "5fbcc2c596e06a8c594eb29b78fb952885d415e55e4fc302573359deb05f444b"
+hash = "ae4883881a6bf861c1f1710345e3c5a79367d188b6ee3004ac552864e096eacf"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_levelloadlayout.txt"
@@ -230,19 +234,15 @@ hash = "68932629e64e570f839011dfe563ea80ee7b90cae5b27f3dee95664ca7713c0f"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_loadinglayout.txt"
-hash = "711ea8065696e67c6930008052bff11117e67f1b439dd9a4300e0655e8368f2b"
+hash = "1f807e5caab0a553a8dba3f287018f44b47eb9a693a2992bbfa2c2ab61a64712"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_menulayout.txt"
-hash = "164a66f95a496b7c737eada636935f9daec4276ce4cbcc67b2a63413632c6edc"
-
-[[files]]
-file = "config/fancymenu/customization/steeldominion_modslayout.txt"
-hash = "734e8b731419d615e3eaddbecb0f1b48d4f43dfde8b07a8da4afbaa297b1c77f"
+hash = "d33b18aadb285a47dda873957df8ef01947c2e67b2bf4a0a28714f1af8b85c96"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_optionslayout.txt"
-hash = "3ed78d1688c98e35f04cbf9133ded1425dba0d852f871ab5f72f30579e38f4e0"
+hash = "e6efbb80b201f4642e3ec061a272de5b67b5b264aa9249a852ce1a6550cb33d1"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_pauselayout.txt"
@@ -250,19 +250,23 @@ hash = "9514d66d9f9e7613cce4ff6e38bce081fcbabc0206298acc50c37ee212b8e8ab"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_qualityselection.txt"
-hash = "c87a9d8b61327f19a18a90efebcba701a40f641f9bf1b6b58357ac1fe7b0d0aa"
+hash = "fb205a0dfe9bdd4fb17def06d99bab382c122162db945fca34a7c314f7031178"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_resourcepacklayout.txt"
-hash = "57efc3514b45fc35ece982ccbc6f92c08c49026da5516d8f1759401568ada3b0"
+hash = "fe2de0764b7c54090876a86abafab24a820cfa18cffc23f092c6342899aa6b25"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_survivalinventory.txt"
 hash = "8896c9a794b17074556946c5291acf46819838fa563ff0ab1e0b22a1f6e58b88"
 
 [[files]]
+file = "config/fancymenu/customization/universal_layout.txt"
+hash = "ec35fe12a95041cbcba3c001c55946f24d6c23512c9ca0319332ec7f0aa72e06"
+
+[[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "8e3e524cad28250b514afc59fe4cafc6836ecd1e6dc934d96ac31cf6a0cd4bce"
+hash = "da79f869890456c1ca98922da481ded134a94eead98388f7f4f94db376755286"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -270,7 +274,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "25a28ead512ecbe03550e77733846115f9648f8e67d55216ffcb1c3ad96ea81c"
+hash = "82e59607a002909c9e4a2aa10bd5e65112098dcc9e0de22f20d5b44ed871aded"
 
 [[files]]
 file = "config/fancymenu/ui_themes/cherry_blossom.json"
@@ -423,38 +427,6 @@ hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
 [[files]]
 file = "config/litematica.json"
 hash = "23f4cefcf85c7d9e1a1571c904d5a7cb20bbea63a2c49c5dc24136bbfe8a693f"
-
-[[files]]
-file = "config/litematica/litematica_107.174.95.12.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_107.174.95.12_dim_minecraft_overworld.json"
-hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
-
-[[files]]
-file = "config/litematica/litematica_192.168.1.80.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_192.168.1.80_dim_minecraft_overworld.json"
-hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
-
-[[files]]
-file = "config/litematica/litematica_New World.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_New World_dim_minecraft_overworld.json"
-hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
-
-[[files]]
-file = "config/litematica/litematica_world.steeldominion.net.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_world.steeldominion.net_dim_minecraft_overworld.json"
-hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
 
 [[files]]
 file = "config/malilib.json"
