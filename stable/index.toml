@@ -197,6 +197,10 @@ file = "config/fancymenu/assets/steeldominion_logotext3.png"
 hash = "d26f4f239328cd2a529a86145ce304b6e48221fcea42036e7c4a8ff802872a1a"
 
 [[files]]
+file = "config/fancymenu/assets/titlebackground.jpg"
+hash = "0c3ed4f8a7293b4e300c0d0e8348a1acefda20459241e350dfedeef38710cee0"
+
+[[files]]
 file = "config/fancymenu/assets/titlebackground.png"
 hash = "9997d5779a7a91c49ba5210e51dda3ebe954987ece6a627ef4ef25c4be4d2a46"
 
@@ -213,6 +217,10 @@ file = "config/fancymenu/customizablemenus.txt"
 hash = "1c6019b764716b55831c8f99f991575953f6f42d0c914911e3533a30aac4c246"
 
 [[files]]
+file = "config/fancymenu/customization/skin_customization_screen_layout.txt"
+hash = "88ff3e4b1f6ed89914d77749b3d4f331b6874b28ea8740a450f8def3b85a0fb8"
+
+[[files]]
 file = "config/fancymenu/customization/steeldominion_chatmenulayout.txt"
 hash = "187d8046c88e78b308596a301e888bdfae7e0b076761ef897d0453bc69317d66"
 
@@ -222,7 +230,7 @@ hash = "3aea95ba0fc3f4a53704c74216c853562120df583162bf088b53182bad5f1153"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_copyrightlayout.txt"
-hash = "9a51b3b56db25e8601a759e63895e26c2036cdb32abc1964163158df19b1ed98"
+hash = "a131a83411975a636c0d19c3a5c56a0536e181ec44b64f0ec334bcb3b7177b15"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_creditslayout.txt"
@@ -246,7 +254,7 @@ hash = "e6efbb80b201f4642e3ec061a272de5b67b5b264aa9249a852ce1a6550cb33d1"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_pauselayout.txt"
-hash = "9514d66d9f9e7613cce4ff6e38bce081fcbabc0206298acc50c37ee212b8e8ab"
+hash = "15d2d2323a7ce288fab6f430309cd05bca8c1f2404bfd30890340359493c8199"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_qualityselection.txt"
@@ -259,10 +267,6 @@ hash = "fe2de0764b7c54090876a86abafab24a820cfa18cffc23f092c6342899aa6b25"
 [[files]]
 file = "config/fancymenu/customization/steeldominion_survivalinventory.txt"
 hash = "8896c9a794b17074556946c5291acf46819838fa563ff0ab1e0b22a1f6e58b88"
-
-[[files]]
-file = "config/fancymenu/customization/universal_layout.txt"
-hash = "ec35fe12a95041cbcba3c001c55946f24d6c23512c9ca0319332ec7f0aa72e06"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
