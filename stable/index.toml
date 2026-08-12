@@ -939,7 +939,7 @@ metafile = true
 
 [[files]]
 file = "mods/drive-by-wire-sable.pw.toml"
-hash = "18460b67599d89d80ba51475ff727c9c7b308415fd993ef133a9683206c458f4"
+hash = "40cbc57525a39bb8b18070006d8fbb1ce4278800931969d427623f1601f2d286"
 metafile = true
 
 [[files]]
