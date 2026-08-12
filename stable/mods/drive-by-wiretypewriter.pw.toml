@@ -1,0 +1,14 @@
+name = "Drive-By-Wire:Typewriter"
+filename = "drivebywire-typewriter-1.1.0-beta.2.jar"
+side = "both"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/lDYpnxit/versions/cPM0cfwo/drivebywire-typewriter-1.1.0-beta.2.jar"
+hash-format = "sha512"
+hash = "be2e34f84c2c31273be5282d3582f29ff16a4d53c38eaf197f7e49998e51e5a01eadad2962a1eb75e278084251373b433b74629943318438aae36360d67384e7"
+
+[update]
+[update.modrinth]
+mod-id = "lDYpnxit"
+version = "cPM0cfwo"
