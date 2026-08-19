@@ -1,0 +1,14 @@
+name = "S.L.O.P. Vehicle Pack [MTS/IV]"
+filename = "S.L.O.P. Vehicle Pack 1.21.1-1.5.1.jar"
+side = "both"
+pin = true
+
+[download]
+hash-format = "sha1"
+hash = "fbf89b373ffeedf2a88cf7d6ec11441f67d8e794"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8054833
+project-id = 1366490
