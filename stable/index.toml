@@ -218,7 +218,7 @@ hash = "1c6019b764716b55831c8f99f991575953f6f42d0c914911e3533a30aac4c246"
 
 [[files]]
 file = "config/fancymenu/customization/skin_customization_screen_layout.txt"
-hash = "88ff3e4b1f6ed89914d77749b3d4f331b6874b28ea8740a450f8def3b85a0fb8"
+hash = "0e2dbdfd080c463605eddf4e657d5485fc0b530071ebd91a3e346d3cd85e1597"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_chatmenulayout.txt"
@@ -230,11 +230,11 @@ hash = "3aea95ba0fc3f4a53704c74216c853562120df583162bf088b53182bad5f1153"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_copyrightlayout.txt"
-hash = "a131a83411975a636c0d19c3a5c56a0536e181ec44b64f0ec334bcb3b7177b15"
+hash = "fa547f8203dc83ed6dc260217142b7735833460742f0d64fdd4db984b7793faa"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_creditslayout.txt"
-hash = "ae4883881a6bf861c1f1710345e3c5a79367d188b6ee3004ac552864e096eacf"
+hash = "d4b9e280ab2643d28b35a0a961645f5dfdb6bbcdd85a39cd99dd78523941a599"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_levelloadlayout.txt"
@@ -245,12 +245,8 @@ file = "config/fancymenu/customization/steeldominion_loadinglayout.txt"
 hash = "1f807e5caab0a553a8dba3f287018f44b47eb9a693a2992bbfa2c2ab61a64712"
 
 [[files]]
-file = "config/fancymenu/customization/steeldominion_menulayout.txt"
-hash = "d33b18aadb285a47dda873957df8ef01947c2e67b2bf4a0a28714f1af8b85c96"
-
-[[files]]
 file = "config/fancymenu/customization/steeldominion_optionslayout.txt"
-hash = "e6efbb80b201f4642e3ec061a272de5b67b5b264aa9249a852ce1a6550cb33d1"
+hash = "b6eb232945c31a65be7596c411e68f8e0be287167351826e05437f17fc166382"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_pauselayout.txt"
@@ -682,7 +678,7 @@ hash = "68a120206690ec44c4b9c6e39a7c73185812c65fa7cb85d51d6887cd8592c4ba"
 
 [[files]]
 file = "global_packs/required_resources/steeldominionpack.zip"
-hash = "f0c3b5435b92ca5b3369c96d7dadc3c2e2d9a63912537c1ec59f810903b6a99f"
+hash = "62699b89c044e5027eccfdcbe48a524d18291c7bf44f8386e866acd033cfce89"
 
 [[files]]
 file = "mods/Emojiful-Neoforge-1.21-5.2.2-all.jar"
