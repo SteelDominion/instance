@@ -733,10 +733,6 @@ file = "mods/S.L.O.P. Vehicle Pack 1.21.1-1.3.3.jar"
 hash = "555017ed1ef4bc0928f71d07c1162ff3fffac7cc7489d507c96c4414fabcf60e"
 
 [[files]]
-file = "mods/S.L.O.P. Vehicle Pack 1.21.1-1.4.2.jar"
-hash = "dd5c2dab8aac9c01f35668cd7d7905de96a5a4b2967b20142f61c0afb95d2944"
-
-[[files]]
 file = "mods/SimpleDiscordRichPresence-neoforge-88.0.1-build.54+mc1.21.1.jar"
 hash = "735cfa183d7779ac843198720e29519bf9f92993a57aea1d6bebe2d0a26a970c"
 
