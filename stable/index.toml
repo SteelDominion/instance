@@ -218,7 +218,7 @@ hash = "1c6019b764716b55831c8f99f991575953f6f42d0c914911e3533a30aac4c246"
 
 [[files]]
 file = "config/fancymenu/customization/skin_customization_screen_layout.txt"
-hash = "88ff3e4b1f6ed89914d77749b3d4f331b6874b28ea8740a450f8def3b85a0fb8"
+hash = "626129601f3b59831f1ad91ce0caa78c728b5032a7cb7ecabda454fb85e6c04a"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_chatmenulayout.txt"
@@ -230,11 +230,11 @@ hash = "3aea95ba0fc3f4a53704c74216c853562120df583162bf088b53182bad5f1153"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_copyrightlayout.txt"
-hash = "a131a83411975a636c0d19c3a5c56a0536e181ec44b64f0ec334bcb3b7177b15"
+hash = "c86e9717dba2e2e234d169fc6aeb4b9b10028d38cbc820d6d8bfa3b5ead8d355"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_creditslayout.txt"
-hash = "ae4883881a6bf861c1f1710345e3c5a79367d188b6ee3004ac552864e096eacf"
+hash = "354aafd422014522086d7d5bf21d47a584030ddd9c7da4a187a254062734b8c4"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_levelloadlayout.txt"
@@ -246,11 +246,11 @@ hash = "1f807e5caab0a553a8dba3f287018f44b47eb9a693a2992bbfa2c2ab61a64712"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_menulayout.txt"
-hash = "d33b18aadb285a47dda873957df8ef01947c2e67b2bf4a0a28714f1af8b85c96"
+hash = "ba5717b3a9a1642025435d34c7e9b41397ddae0604ece0de35a8c2fff8f31c3f"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_optionslayout.txt"
-hash = "e6efbb80b201f4642e3ec061a272de5b67b5b264aa9249a852ce1a6550cb33d1"
+hash = "e98b6c3336082ba3715b293f9e611460f866b83781941d41f75c066fff1a9035"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_pauselayout.txt"
