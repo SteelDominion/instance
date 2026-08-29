@@ -729,6 +729,10 @@ file = "mods/NoChatRestrictions-NeoForge-MC1.21.11-v1.0.0.jar"
 hash = "a1a9a020f3434b2aa8b9131d25e3ad16ea33b1f0abb8d72f088a0fbad81f7abe"
 
 [[files]]
+file = "mods/S.L.O.P. Vehicle Pack 1.21.1-1.5.1.jar"
+hash = "74ec835aee9c0b3d180d3c2a2b7ce5fe822ca11560af8b8c43c5c71c11de1008"
+
+[[files]]
 file = "mods/SimpleDiscordRichPresence-neoforge-88.0.1-build.54+mc1.21.1.jar"
 hash = "735cfa183d7779ac843198720e29519bf9f92993a57aea1d6bebe2d0a26a970c"
 
