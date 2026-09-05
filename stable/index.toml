@@ -234,11 +234,11 @@ hash = "ee4c4f849b571ddce8328359c809d74fe83b341607a10be55d0faa3fb90289b4"
 
 [[files]]
 file = "config/drippyloadingscreen/early_window_reference.properties"
-hash = "d16be5cce3ad270cbf325ecf79f87b820ddee4af1fcfb78462f035656cddeec9"
+hash = "7f2e24fd538b950ee7d20ae6220fa00c83290fd7e499e75b85dd6f2028a73dd9"
 
 [[files]]
 file = "config/drippyloadingscreen/options.txt"
-hash = "3d5e3b8753b44f2fb3620fa5acdd3b84c38237d59d4c7b4883c8e02d81e608a3"
+hash = "ff5d816743859d2848b5903dbbeb52e13ea14d7fa280e4ea2d27e7a94395f898"
 
 [[files]]
 file = "config/drivebywire-common.toml"
@@ -259,6 +259,10 @@ hash = "0ce5a209870e0673c14f68d4581de2cefc67a3c37aa7071c943b711a69835775"
 [[files]]
 file = "config/entityculling.json"
 hash = "2cffa69095ca1dcf3b4398b979ae98b69233ff56925f1915179d548d9f50ab6e"
+
+[[files]]
+file = "config/euphoria_patcher/.data.json"
+hash = "8bb6578df137888ab0bf743b6d2f1f6da917bada8ec95fe080bec91ff7f1368e"
 
 [[files]]
 file = "config/euphoria_patcher/settings.toml"
@@ -494,7 +498,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "009505c424a306ed5caa6f3121a7ab425145a7720211542a6626beb7a42a52c8"
+hash = "c228a4c6ba969ccd3329fdbf5f7a31de89f89cccfa44eee9ddc1f27fed7f8f73"
 
 [[files]]
 file = "config/item_obliterator.json5"
@@ -569,6 +573,14 @@ file = "config/malilib.json"
 hash = "d375c3c93c77e4b9b871477009c2ab6a3564470e839597ee2cf5a0a5218eb9e0"
 
 [[files]]
+file = "config/modernfix-common.toml"
+hash = "72ca2bcea2a9946a3a54842f14eff6f7b47d8fc96ef497c1b56406643b153fd7"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "e11e4c5e3a6ef0b98d94c107e3c3433745df4913be8001421dd0a20fbfa26446"
+
+[[files]]
 file = "config/moonlight-client.toml"
 hash = "3f252fefef0345f9aa8a8d3b7eff02f045b8bf565329eeba9ec50c7989a63457"
 
@@ -582,7 +594,7 @@ hash = "098361fa927911d7f1409c2f552ba0dc54d48212d204fd1d832f2c69b7b10750"
 
 [[files]]
 file = "config/mtsconfigclient.json"
-hash = "ad15be5246e027157cd0c5cf5eced595b7928a4bfc97c41e87dbbbf2f77ea554"
+hash = "ec69382625409eb8c562e11d1bdd06f0de7855e79acb0ce91d158fde84361da7"
 
 [[files]]
 file = "config/natures_spirit-common.toml"
@@ -618,7 +630,7 @@ hash = "d5f0ed8390618c769d9cb40a77df04779b7bbe636343b753c1ed6f92d325ae2b"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "59147048cf2a33ddfb3a439ad74015d17b5a9e4338dc839d772f9dbdb97fc992"
+hash = "83d86906aaeba466fa18158b361ec6bf5c3a7368a84f02049e03b0365a3d2c0f"
 
 [[files]]
 file = "config/pantographsandwires-client.toml"
