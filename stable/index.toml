@@ -962,6 +962,11 @@ hash = "ae185fb264bd81180533f9cc2fd5f084f22f9f7077e6e8834b8c8d05659bb7d1"
 metafile = true
 
 [[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "78747b428b7bcb90f50a26295a517f7ae36a9ecf9d4c805faf8a7095b8a14845"
+metafile = true
+
+[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "1a460fb6b7cb30fd446eb437fee0e9a90c7f1c49e9f26ed63a46e2fdef2bb216"
 metafile = true
@@ -1106,6 +1111,11 @@ hash = "9aa7c2e3b587f5e870b2fb7b520cb5989c29c62cd200f3b8a86a9e7d344a229b"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "e2e634a50bec76f12dc4947f97b0b076066685f4a2556715c81df84acb96ffbf"
+metafile = true
+
+[[files]]
 file = "mods/particlerain-4.0.0-beta.9+1.21.1-neoforge.jar"
 hash = "dd886cfd14c6cf1d23aec5d40871fd4b8794e65bc4153a74619e418a1b3165ba"
 
@@ -1123,8 +1133,18 @@ file = "mods/prickle-neoforge-1.21.1-21.1.11.jar"
 hash = "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167"
 
 [[files]]
+file = "mods/put-a-plug-in-it!.pw.toml"
+hash = "b553cc75292dde731fb8cf6d8bc166cbce6d820a18806ee888c788c886675f6a"
+metafile = true
+
+[[files]]
 file = "mods/railways-0.2.0+neoforge-mc1.21.1.jar"
 hash = "1bd19694cfc746f261afc2f00b87d1083e734e778d65b1481094931100fca1a9"
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "f2e5979a9d263f1016973f2de90619865b36e9291bd0b6021c7b03b23c5c7aa5"
+metafile = true
 
 [[files]]
 file = "mods/refurbished_furniture-neoforge-1.21.1-1.0.22.jar"
@@ -1159,8 +1179,28 @@ file = "mods/sliceanddice-forge-4.2.4.jar"
 hash = "c3bd743a73eed3de14f6be5221fe68655cfeed0749f8f467f2ce2012ed1416bd"
 
 [[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "96926b3c536668a886c6895565d8cbf06ec187c1efd4f0212ba12f8f97f7559e"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extras.pw.toml"
+hash = "fb20a357e20defa8267fb7cae917a5d799b3bc6fc022f26aae3140fe54e3a61d"
+metafile = true
+
+[[files]]
 file = "mods/sodium-neoforge-0.6.13+mc1.21.1.jar"
 hash = "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403"
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "af23ac3982bfed8f9f3a1b18f3da28a0b2f5e1fa32eba536be73b19ffc3d4405"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-mod-compat.pw.toml"
+hash = "02ad704f22761db8f0000bf0adaa84271a46803435d7de8907a18411155cdf8a"
+metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
@@ -1206,12 +1246,12 @@ file = "options.txt"
 hash = "193cc1a185855d121afa40567557321066a84052c3d24c54a523e2524bcb989a"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.8.zip.txt"
+file = "shaderpacks/ComplementaryReimagined_r5.9.zip.txt"
 hash = "85f41148dd487e58ea3ff6785d0c13e47d436d741366d69c59bd7a514fa9427a"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "005680e5e141341230b6a58bea42c38d7f133292a243819d46ae1582aa78ed69"
+hash = "eb524ff40b5fe4b7cb6fb154368a88b2ce0211703e15534d6bbff75b1da1bf14"
 metafile = true
 
 [[files]]
