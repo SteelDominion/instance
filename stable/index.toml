@@ -261,10 +261,6 @@ file = "config/entityculling.json"
 hash = "2cffa69095ca1dcf3b4398b979ae98b69233ff56925f1915179d548d9f50ab6e"
 
 [[files]]
-file = "config/euphoria_patcher/.data.json"
-hash = "e12a2f3c477b750e7d38733fa0232f83f0198d227a3929b03555cd57f7e9d63b"
-
-[[files]]
 file = "config/euphoria_patcher/settings.toml"
 hash = "2ad932ede279816c417bd5d889edef99f4c54bfe2f30a2ef2065490546470eab"
 
@@ -1325,6 +1321,11 @@ metafile = true
 [[files]]
 file = "mods/moa-decor-science.pw.toml"
 hash = "a7e37f89ce4cb82488b87d1cb942420dd890926759d86f0a8801c08bf08196cb"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "94568b1e4198e082b65364844481d42eff897621d4842fc4774a3e6a4e2137cd"
 metafile = true
 
 [[files]]
