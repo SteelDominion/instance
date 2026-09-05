@@ -1,0 +1,8 @@
+#If true, client will bypass negotiation errors when connecting to a vanilla server.
+bypassNegotiationErrors = true
+#If true, client will bypass custom feature flags when connecting to a vanilla server.
+bypassCustomFeatureFlags = true
+#If true, client will ignore packet decoding errors when connecting to a vanilla server.
+ignorePacketDecodingErrors = true
+#If true, client will ignore packet handler errors when connecting to a vanilla server.
+ignorePacketHandlerErrors = true
