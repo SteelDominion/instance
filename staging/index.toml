@@ -957,10 +957,6 @@ file = "mods/FallingTree-1.21.1-1.21.1.11.jar"
 hash = "b07cb3fe67d1f3bb66daf8836373614153790cfaa8c64fadbf53479d1b33cc54"
 
 [[files]]
-file = "mods/FarmersDelight-1.21.1-1.3.1.jar"
-hash = "f02ffbf597af17d481b930daeed4b5906d6a6fddb464d392f28f42560965f4f4"
-
-[[files]]
 file = "mods/Immersive Vehicles-1.21.1-24.0.0.jar"
 hash = "1d2f7512604636265703b29fdf13d7f8ef2323694b6435f4392973da6e78d251"
 
@@ -1238,6 +1234,11 @@ hash = "38712ae7f912ac5d2ee4a1610caf7775587df1e3faef2d1c8c8c2c8d9b739259"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "c2b15a6dfbdd09957e7ba197d65a6fd009474c623788874d3d80f5a23a28372b"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "b4bbe1023e3adb39173823599788b7cb04e6ac550aa488dd0aa74cbc10571e79"
 metafile = true
@@ -1498,6 +1499,11 @@ hash = "df3cee8e601a47019c680ddd8b655849ce7c6f368428cf15c26393db711e879b"
 [[files]]
 file = "mods/stowed.pw.toml"
 hash = "d13ecc83b2348ec4d7848bd703dd4209643890efa7bc21dc5df36ad6b2def21e"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "2d589997581d5c353c255dbbd878c02e4035af5b01a90bfe872939220225302d"
 metafile = true
 
 [[files]]
