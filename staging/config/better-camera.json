@@ -1,0 +1,10 @@
+{
+  "enableFirstPersonZoom": true,
+  "enableTransitions": true,
+  "enableCtrlLock": true,
+  "hasAcceptedMultiplayerWarning": false,
+  "hasShownDiscordPromo": true,
+  "hudSwayStrength": 0.3,
+  "ctrlLockKey": 341,
+  "useZoomKeys": false
+}

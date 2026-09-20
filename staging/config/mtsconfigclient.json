@@ -95,11 +95,11 @@
       "comment": "Set to true if you are using a physical shifter controller for shifting gears.  Required since IV doesn't know this automatically since a shifter in neutral won't press any buttons."
     },
     "heliAutoLevel": {
-      "value": false,
+      "value": true,
       "comment": "If true, helicopters will automatically return to level flight when you let off the control stick.  However, this will prevent them from doing loops.  The realistic value for this config is false, but the one that's more player-freindly is true."
     },
     "mouseYoke": {
-      "value": false,
+      "value": true,
       "comment": "If true, aircraft pitch and roll are controlled by an invisible on-screen mouse yoke.  Cursor center is neutral; window edges are full input."
     },
     "classicJystk": {
@@ -183,11 +183,11 @@
         "isMouseButton": false
       },
       "aircraft.yaw_r": {
-        "keyCode": 76,
+        "keyCode": 74,
         "isMouseButton": false
       },
       "aircraft.yaw_l": {
-        "keyCode": 74,
+        "keyCode": 76,
         "isMouseButton": false
       },
       "aircraft.pitch_u": {
@@ -247,7 +247,7 @@
         "isMouseButton": false
       },
       "aircraft.gun_switch": {
-        "keyCode": 86,
+        "keyCode": 258,
         "isMouseButton": false
       },
       "aircraft.zoom_i": {
@@ -271,7 +271,7 @@
         "isMouseButton": false
       },
       "car.mod": {
-        "keyCode": 344,
+        "keyCode": 340,
         "isMouseButton": false
       },
       "car.turn_r": {
@@ -319,7 +319,7 @@
         "isMouseButton": false
       },
       "car.gun_switch": {
-        "keyCode": 86,
+        "keyCode": 258,
         "isMouseButton": false
       },
       "car.zoom_i": {

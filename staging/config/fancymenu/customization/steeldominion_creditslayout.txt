@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = steeldominion_credits
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1779922378367
+  last_edited_time = 1787271595631
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:2fe19ae1-b003-4273-a2fd-98916a5b2c30-1779922373759] = [groups:][instances:]
+  [loading_requirement_container_meta:b34c1754-9e85-426a-9348-c72c8dc0e94a-1787271591118] = [groups:][instances:]
 }
 
 menu_background {
@@ -29,9 +29,10 @@ menu_background {
   instance_identifier = 4994c32b-5793-43e2-b720-2ed63fe2b114-1779922321724
   background_type = image
   show_background = false
+  image_path = [source:local]/config/fancymenu/assets/titlebackground.png
   slide = false
   repeat_texture = false
-  parallax = false
+  parallax = true
   parallax_intensity_x = 0.02
   parallax_intensity_y = 0.02
   invert_parallax = false

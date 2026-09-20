@@ -26,7 +26,7 @@
 	#Y level to drop the temperature at when above
 	temperature_drop_altitude = 160
 	#Y level to rise the temperature at when below
-	temperature_rise_altitude = -128
+	temperature_rise_altitude = -32
 	#Y level above which environmental modifiers are applied
 	environmental_modifier_altitude = 50
 

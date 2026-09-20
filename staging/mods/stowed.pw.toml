@@ -1,0 +1,14 @@
+name = "Stowed: Visible Back Slots"
+filename = "stowed-4.0.jar"
+side = "both"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/OcSIYWQe/versions/xbrLz873/stowed-4.0.jar"
+hash-format = "sha512"
+hash = "3b6702c00dd35f4d7de7bd430ff2028126519fd83068dc94ef26098d29fd316700ed2f7d6dd2d56134d60443864322b27274f229942695a68307bef301692453"
+
+[update]
+[update.modrinth]
+mod-id = "OcSIYWQe"
+version = "xbrLz873"
