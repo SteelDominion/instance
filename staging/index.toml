@@ -1383,7 +1383,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "cd464ef0f9bb953e0fc70b4678361fb26ebcc7915a02574910359de5e46214ad"
+hash = "6600300b84ef45f9ed9fea6eee4f302554eff5c2803ac618bbd292936ec04626"
 metafile = true
 
 [[files]]
@@ -1506,8 +1506,9 @@ hash = "85ac9d020c2f776ceff629137e0d46da008d64ca8517a5b41b99a3164d0b97c2"
 metafile = true
 
 [[files]]
-file = "mods/tacz-pack-upgrader-2.1.2.jar"
-hash = "3f3f334b2ca72d9e289fd61ab6a76cca88d8db8afeb6be0591022ecafcb8e92d"
+file = "mods/tacz-pack-upgrader.pw.toml"
+hash = "a0c078842001891b16eee939bcd11021c569308460e384f77349faf6e27db58f"
+metafile = true
 
 [[files]]
 file = "mods/tfmg-community-edition.pw.toml"
