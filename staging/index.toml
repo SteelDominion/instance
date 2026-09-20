@@ -261,10 +261,6 @@ file = "config/entityculling.json"
 hash = "2cffa69095ca1dcf3b4398b979ae98b69233ff56925f1915179d548d9f50ab6e"
 
 [[files]]
-file = "config/euphoria_patcher/.data.json"
-hash = "8bb6578df137888ab0bf743b6d2f1f6da917bada8ec95fe080bec91ff7f1368e"
-
-[[files]]
 file = "config/euphoria_patcher/settings.toml"
 hash = "2ad932ede279816c417bd5d889edef99f4c54bfe2f30a2ef2065490546470eab"
 
@@ -1537,7 +1533,7 @@ hash = "50e24870bf410cbc88e650770bb60f07e09ae0cd22b57bbcb5a2f92677f59754"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.9 + EuphoriaPatches_1.10.0.txt"
-hash = "8627be07d57411eae922283a6e8ef6ee4cd01b0485c5b9c063b53ef6457cdc4c"
+hash = "4a4ba3a028cc9107f0677274c17d8fa74fae60aaa33009d3e0254b8105efe326"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.9.zip.txt"
