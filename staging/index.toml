@@ -326,7 +326,7 @@ hash = "3afc8c76db91a7087d1cc341a41215b057e604eb052689f3d94d6708b6f0cef2"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "1c6019b764716b55831c8f99f991575953f6f42d0c914911e3533a30aac4c246"
+hash = "f7ab41f025b69816c9389bac76dd40c9197480a5d065d87532cb248da5574520"
 
 [[files]]
 file = "config/fancymenu/customization/skin_customization_screen_layout.txt"
@@ -342,7 +342,7 @@ hash = "3aea95ba0fc3f4a53704c74216c853562120df583162bf088b53182bad5f1153"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_copyrightlayout.txt"
-hash = "c86e9717dba2e2e234d169fc6aeb4b9b10028d38cbc820d6d8bfa3b5ead8d355"
+hash = "db732e3abb8888e827c089fcd11798aec4221b34b989e4e87c54637945dcfde8"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_creditslayout.txt"
@@ -358,7 +358,7 @@ hash = "1f807e5caab0a553a8dba3f287018f44b47eb9a693a2992bbfa2c2ab61a64712"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_menulayout.txt"
-hash = "ba5717b3a9a1642025435d34c7e9b41397ddae0604ece0de35a8c2fff8f31c3f"
+hash = "62dd7bd3b67c75ae83aa5e605f07b5b3dae3a7446621d86d7f0f8e25121d9334"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_optionslayout.txt"
@@ -382,7 +382,7 @@ hash = "8896c9a794b17074556946c5291acf46819838fa563ff0ab1e0b22a1f6e58b88"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "da79f869890456c1ca98922da481ded134a94eead98388f7f4f94db376755286"
+hash = "d4d91c8da40c239220e57da539ad4a3bf1badf3b2008d4a8887ea864aa05d963"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -390,7 +390,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "9be98f4c579ef14a403fd9a57fecf7c60582cf25c07c3a6c0c3b98b63dab07c8"
+hash = "ac7279eec17d23302c0817e663f34141d6a50f0057b7cee5de8e90adc5a5ad2e"
 
 [[files]]
 file = "config/fancymenu/ui_themes/cherry_blossom.json"
