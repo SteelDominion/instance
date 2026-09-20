@@ -261,10 +261,6 @@ file = "config/entityculling.json"
 hash = "2cffa69095ca1dcf3b4398b979ae98b69233ff56925f1915179d548d9f50ab6e"
 
 [[files]]
-file = "config/euphoria_patcher/.data.json"
-hash = "8bb6578df137888ab0bf743b6d2f1f6da917bada8ec95fe080bec91ff7f1368e"
-
-[[files]]
 file = "config/euphoria_patcher/settings.toml"
 hash = "2ad932ede279816c417bd5d889edef99f4c54bfe2f30a2ef2065490546470eab"
 
@@ -330,7 +326,7 @@ hash = "3afc8c76db91a7087d1cc341a41215b057e604eb052689f3d94d6708b6f0cef2"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "1c6019b764716b55831c8f99f991575953f6f42d0c914911e3533a30aac4c246"
+hash = "f7ab41f025b69816c9389bac76dd40c9197480a5d065d87532cb248da5574520"
 
 [[files]]
 file = "config/fancymenu/customization/skin_customization_screen_layout.txt"
@@ -346,7 +342,7 @@ hash = "3aea95ba0fc3f4a53704c74216c853562120df583162bf088b53182bad5f1153"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_copyrightlayout.txt"
-hash = "c86e9717dba2e2e234d169fc6aeb4b9b10028d38cbc820d6d8bfa3b5ead8d355"
+hash = "db732e3abb8888e827c089fcd11798aec4221b34b989e4e87c54637945dcfde8"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_creditslayout.txt"
@@ -362,7 +358,7 @@ hash = "1f807e5caab0a553a8dba3f287018f44b47eb9a693a2992bbfa2c2ab61a64712"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_menulayout.txt"
-hash = "ba5717b3a9a1642025435d34c7e9b41397ddae0604ece0de35a8c2fff8f31c3f"
+hash = "62dd7bd3b67c75ae83aa5e605f07b5b3dae3a7446621d86d7f0f8e25121d9334"
 
 [[files]]
 file = "config/fancymenu/customization/steeldominion_optionslayout.txt"
@@ -386,7 +382,7 @@ hash = "8896c9a794b17074556946c5291acf46819838fa563ff0ab1e0b22a1f6e58b88"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "da79f869890456c1ca98922da481ded134a94eead98388f7f4f94db376755286"
+hash = "d4d91c8da40c239220e57da539ad4a3bf1badf3b2008d4a8887ea864aa05d963"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -394,7 +390,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "82e59607a002909c9e4a2aa10bd5e65112098dcc9e0de22f20d5b44ed871aded"
+hash = "ac7279eec17d23302c0817e663f34141d6a50f0057b7cee5de8e90adc5a5ad2e"
 
 [[files]]
 file = "config/fancymenu/ui_themes/cherry_blossom.json"
@@ -929,24 +925,36 @@ file = "global_packs/required_resources/steeldominionpack.zip"
 hash = "8b1fe69fd2b00c8ae306b259cb9a24ba73fe666683d120c4dab1b13e84fd5146"
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/config/common.json"
+hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
+
+[[files]]
+file = "kubejs/config/web_server.json"
+hash = "26d36ee3faa4a7629d45a774460ec5e007e5e0051b878ebbf00325df4c2d6a9a"
+
+[[files]]
+file = "kubejs/server_scripts/craftingrecipes.js"
+hash = "9a5a937d38a8e23b04a92f7b57300ee4b961eec106546b196474a93eb6f16651"
+
+[[files]]
+file = "kubejs/server_scripts/main.js"
+hash = "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
+
+[[files]]
+file = "kubejs/startup_scripts/main.js"
+hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
+
+[[files]]
 file = "mods/Emojiful-Neoforge-1.21-5.2.2-all.jar"
 hash = "a12bcd3a6ece119ea7f7a014ec2de57fdf51fffa8789fc9ac05fde7a638abf36"
 
 [[files]]
 file = "mods/FallingTree-1.21.1-1.21.1.11.jar"
 hash = "b07cb3fe67d1f3bb66daf8836373614153790cfaa8c64fadbf53479d1b33cc54"
-
-[[files]]
-file = "mods/FarmersDelight-1.21.1-1.3.1.jar"
-hash = "f02ffbf597af17d481b930daeed4b5906d6a6fddb464d392f28f42560965f4f4"
-
-[[files]]
-file = "mods/GlitchCore-neoforge-1.21.1-2.1.0.0.jar"
-hash = "31589ffc136ac031319db88fa7ce2599ba789ae5d18bd5125e1857e20a834993"
-
-[[files]]
-file = "mods/ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar"
-hash = "9fbb8dce1bb72feacdc3b75c6fcbf689865ad3793a19649443d76be20993ddd0"
 
 [[files]]
 file = "mods/Immersive Vehicles-1.21.1-24.0.0.jar"
@@ -989,10 +997,6 @@ file = "mods/ToughAsNails-neoforge-1.21.1-10.1.0.13.jar"
 hash = "21fee226bbca6dca81d4453c63f642ad31228041e76b7a87574a8f3bdf37fa67"
 
 [[files]]
-file = "mods/[1.21.1] SecurityCraft v1.10.1.jar"
-hash = "cce82e9f2b74b2c678241a24eeca6c656a07f55f73e16d4d860591db5ed4435f"
-
-[[files]]
 file = "mods/alcocraft.pw.toml"
 hash = "9490580149b1f4baae4384ba6c934782c69d456cac33d7c975c2495e05d53d83"
 metafile = true
@@ -1007,8 +1011,9 @@ hash = "5acad278f5fddfd61887c37d9c66d40f64b72144e16a1b50739801eb702415b7"
 metafile = true
 
 [[files]]
-file = "mods/architectury-13.0.8-neoforge.jar"
-hash = "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee"
+file = "mods/architectury-api.pw.toml"
+hash = "6f128024afbf6ccdb18d381a302daeed2a05d92168cd70e4004f1d19ad8a8033"
+metafile = true
 
 [[files]]
 file = "mods/be-quiet-negotiator.pw.toml"
@@ -1018,6 +1023,11 @@ metafile = true
 [[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "b986b5ff94eab90e3e24b9a7f8fc83ff11b54ff2ac6e8db5db17c3d4591b84e1"
+metafile = true
+
+[[files]]
+file = "mods/better-advanced-tooltips.pw.toml"
+hash = "a39d67211c4cfff7036ba6429ad9d07d91db61e2bec05177bce0a8a04230e1d1"
 metafile = true
 
 [[files]]
@@ -1044,12 +1054,14 @@ hash = "3bbb8948595edc33b82ecfddad17d7be466357a6536bb09ae0e4341254730c61"
 metafile = true
 
 [[files]]
-file = "mods/chatbubbles-1.0.1.jar"
-hash = "a06eca720b9fd3b70b428ec3e3bff5d776f6ba12afe433dcaf8c3bd58ab97ee1"
+file = "mods/chatbubbles.pw.toml"
+hash = "5c920d7c4ed3306a26dd1b3f13e96af49808d20a2cc448c64ece0cfaf1d3c2d2"
+metafile = true
 
 [[files]]
-file = "mods/chunksfadein-neoforge-3.0.23-1.21.jar"
-hash = "9b872936317911a9a6043097f618c5ad8bd9b023dcdcb2586629fecf01f55060"
+file = "mods/chunks-fade-in.pw.toml"
+hash = "c70c81f2da870178e5590b0dc15c79733ae2fe08dd44bf0248609bba225ab4ee"
+metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
@@ -1058,7 +1070,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "6f22bef5b06a78e411f4516078a2cbc437516acbcb0fdbec4ea4b5bdfbcc2afb"
+hash = "65829ef6c2f2ecedd38339feecc2ccfa251b37cee6ed25873e9353ec8dba7de7"
 metafile = true
 
 [[files]]
@@ -1075,12 +1087,17 @@ hash = "01847827b9d9112f643884a4133b391043404d1a1938af7ff58fc89c3321951e"
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "32548500b04557a7264708eff140238ee85b561d6902c890a33d311e16b3f3e7"
+hash = "621de259778892a6369517d2a2c79de33f8aaefe7f8b2481c0e23a5488485598"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "5fcdacf55ad8a007ac6d64bc568430de96bda74086f15a98d19c7e55067d83c7"
 metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "0a040503e1b8b82ba9a72c5186b1043f5f797920b1f117827975c7afb26d9e7d"
+hash = "f6e500911e240a3b71b57a92df3f63c09787529ca86cc6b52e80e40e68cd4de4"
 metafile = true
 
 [[files]]
@@ -1090,7 +1107,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-diesel-generators.pw.toml"
-hash = "184cd89a7d8ddcad8c7f23415e574e183fb86f9febe4713499ceeff3ddb4b1c7"
+hash = "d1d7fb87c0f7722b1cfd18666eee93657233ca30d8167db0764ad9b22e5742d6"
 metafile = true
 
 [[files]]
@@ -1105,12 +1122,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-pantographs-and-wires.pw.toml"
-hash = "9f3f15ee963848b4eac39991635db05427820978114fcc79133483a5916279ae"
+hash = "c6c4220c9b612853437a4d950f8cb00c060560ae8d3c5f0ea57efb1a4b7844c6"
 metafile = true
 
 [[files]]
 file = "mods/create-propulsion-simulated.pw.toml"
-hash = "0caa91cc5750c209a413229445a28d8a8748198fa665be899f80eb033d4a0ce5"
+hash = "428cd84195945901f830528d02d65fd79d55a8129edf3c38988702fb25748933"
 metafile = true
 
 [[files]]
@@ -1119,18 +1136,23 @@ hash = "ecd68ff74b75e98bcb9d5dc482ca167a2b5024167eacc5075ce3bdc212cd01c2"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails-1.21.1.pw.toml"
+hash = "8039e0ab565bdd63786d8136b2f62819c184ba981516794cb745a5fca824f9b3"
+metafile = true
+
+[[files]]
 file = "mods/create-threaded-trains.pw.toml"
-hash = "cc05bcaec0e857c6a6f7de4bd09a22ad195b5b77a25e4adfe737915ac3be68db"
+hash = "419301781da43be5ca4aab9f2369c9e4c3adb7dcfcc012e31e8c7cdd4a23ba4a"
 metafile = true
 
 [[files]]
 file = "mods/create-tracks+.pw.toml"
-hash = "f828250675a47d9ecad9ea619d7c79c6b742c55c10c78eedd5158e5cf6cfa12b"
+hash = "2b94c4f63de34a78a100cbdbcfc8bd19f949a2ac5f8c6820dc6039ddb57f378d"
 metafile = true
 
 [[files]]
 file = "mods/create-tweaked-controllers.pw.toml"
-hash = "d6adc55d3a50d8618576362eb970894544ee21a69876821b51467d7a6f9e3605"
+hash = "8ac44d3068c1b1d592719a9c362b1612e8bff6de6259f46d770f03aee4c1bdde"
 metafile = true
 
 [[files]]
@@ -1139,12 +1161,8 @@ hash = "b9aaadff5300ec35b0f4b62f9d9f5cd08aedf0e6c9ebd8d746b06dfd8a755577"
 metafile = true
 
 [[files]]
-file = "mods/createbigcannons-5.11.5+mc.1.21.1.jar"
-hash = "2c0576338ec400bef5ca373650e3e919eee602c002ce1b7b6eb0f69f3c67764a"
-
-[[files]]
 file = "mods/createlazytick.pw.toml"
-hash = "609c3cb615402a030d0034b227acc5232edf1a115677d29bd2afaf76452373ed"
+hash = "bd1d11fc2e2558a5582f354fbfa0298c4d1d331466f989e0797b9ddf158a73d3"
 metafile = true
 
 [[files]]
@@ -1163,7 +1181,7 @@ hash = "3b37504f81554f9965f1292005bd0da3bbdb09f367d1891a15c166ab0ba0e739"
 
 [[files]]
 file = "mods/dragonlib.pw.toml"
-hash = "205c1d979cb1e5b5ee19b96d837913dbabbc1825c7523a33619c55f1e759e7fa"
+hash = "58af50ca4bcc3596be70189bd46ca60807ae86e97e1e1474dd584957e471b105"
 metafile = true
 
 [[files]]
@@ -1173,22 +1191,22 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-early-loading-module.pw.toml"
-hash = "72e420f8d136c2c1968b608f97f12d8cc1f81aa1dc1780d2bf3ee00ed81ebdb1"
+hash = "f5a0ca9883afdccdb0c6f4406ecf226414861342e775a13d581cce2c0b3ee3fb"
 metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "ef6445009f95cb78cdcbf63269a4c2116a03f5c82a46cd5361825bdaa0d10166"
+hash = "65597301f21a0ddad9ca52bdb32abae9f93f8c63bd05f41a5ab3538495f7cc5e"
 metafile = true
 
 [[files]]
 file = "mods/drive-by-wire-sable.pw.toml"
-hash = "40cbc57525a39bb8b18070006d8fbb1ce4278800931969d427623f1601f2d286"
+hash = "18460b67599d89d80ba51475ff727c9c7b308415fd993ef133a9683206c458f4"
 metafile = true
 
 [[files]]
 file = "mods/drive-by-wiretypewriter.pw.toml"
-hash = "2a1e1348b5ab8248672a8b77f106aab44b38ee15d8c5997b55fcac70b9d6d878"
+hash = "7a9d3954fe796877158ebc48618db6ed1b10de3e12cab35df5252f4521a223ed"
 metafile = true
 
 [[files]]
@@ -1207,12 +1225,17 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "78747b428b7bcb90f50a26295a517f7ae36a9ecf9d4c805faf8a7095b8a14845"
+hash = "36f29b524e4dbb4124ae4eff44cc37452046e63f56fbc65ba03e3fad37886747"
 metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "1a460fb6b7cb30fd446eb437fee0e9a90c7f1c49e9f26ed63a46e2fdef2bb216"
+hash = "38712ae7f912ac5d2ee4a1610caf7775587df1e3faef2d1c8c8c2c8d9b739259"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "c2b15a6dfbdd09957e7ba197d65a6fd009474c623788874d3d80f5a23a28372b"
 metafile = true
 
 [[files]]
@@ -1243,6 +1266,11 @@ hash = "c2ed56aa9176697797149882fad0495215501ff12c4e69702d0a6f5c3855e0e4"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "aa7fcd235f46bc59609d4b23d6cf6c93b1e93e18b1ff96cc88bf8f44e16a528a"
+metafile = true
+
+[[files]]
 file = "mods/globalpacks-neoforge-1.21.1-21.0.6.jar"
 hash = "598781933726c596ac95a4dc960861af0746d5713a12fb8a05d4b8cef45ec48d"
 
@@ -1252,20 +1280,28 @@ hash = "4444f59e2c264fb10e418b20b3abd797e2b74f44a7117d10757f515443b56b0d"
 metafile = true
 
 [[files]]
-file = "mods/immersive_optimization-neoforge-1.21-0.1.4.jar"
-hash = "3d7cf11f17677c88db831739a725c12a75cf2c0dafb4a027b3352daa3a447337"
+file = "mods/immediatelyfast.pw.toml"
+hash = "3ed4e47d64f7d2d467c334e206d6ddd9e7ea3307128c253e38080124d299d732"
+metafile = true
+
+[[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "50dff1d8ec6880b729a828436e10d6b2ca5ed3dd5e5325949af7adfbf2bde197"
+metafile = true
 
 [[files]]
 file = "mods/immersive_paintings-neoforge-1.21.1-0.7.8.jar"
 hash = "c377f6dfaf5be5022761f6e3d6310ef90e59e10bd00bb252d78cff5381b2520c"
 
 [[files]]
-file = "mods/iris-neoforge-1.8.12+mc1.21.1.jar"
-hash = "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83"
+file = "mods/iris.pw.toml"
+hash = "b11b108db94486152457fef8ae05699963324e3132e03211f160928857c8a338"
+metafile = true
 
 [[files]]
-file = "mods/jei-1.21.1-neoforge-19.27.0.340.jar"
-hash = "8aaf547432f1b4958239b036356b910692fe40f858c3073d996f56bbf7c99826"
+file = "mods/jei.pw.toml"
+hash = "45f2bbd07c90e03b3489bd52cfeceacaa9ad3c9e04c1efdcc2efea5ecbf975d4"
+metafile = true
 
 [[files]]
 file = "mods/keybind-search.pw.toml"
@@ -1278,12 +1314,13 @@ hash = "60a08554340d4934e8d39eef66705772793bc605cb61dc0e482e1896ffb8a8d2"
 metafile = true
 
 [[files]]
-file = "mods/kotlinforforge-5.11.0-all.jar"
-hash = "ac827b62ce8fe71760208671b4a694e3ccd35049075f9406a751cffb5a5c9779"
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "e249731ff9ec3fb2e43bb30fb73d264a1a1eaed3fa1b34dc9e455b71412c0102"
+metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "826e4d48c99f23aa0b110871298771c65aab86c7587b53445c8c1467adea5bdb"
+hash = "3b5b2dccbccc0c82d4508352491cd1b2ea53cb4d3d5b2d95e24b25babf7c31a5"
 metafile = true
 
 [[files]]
@@ -1326,6 +1363,11 @@ hash = "f66e5483a5f4e9a0ca726b9f8ba5b28469d627f8755f66b5e7a7b4d4fa54c515"
 metafile = true
 
 [[files]]
+file = "mods/mezzconfig.pw.toml"
+hash = "c2b60cff783632d99a53cade543ec6a88a573bdd183ab848cf6603ff1e4f9ab0"
+metafile = true
+
+[[files]]
 file = "mods/moa-decor-bath.pw.toml"
 hash = "ac0fb5133fba862a0ae8a86e17accefcd0cc5bf39a3434973e580534153c5443"
 metafile = true
@@ -1342,7 +1384,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "1cc192126d1dcd27e12066bd7b78b9f9ab682f01e6fb538963371f7c4ed99e79"
+hash = "6600300b84ef45f9ed9fea6eee4f302554eff5c2803ac618bbd292936ec04626"
 metafile = true
 
 [[files]]
@@ -1374,7 +1416,7 @@ hash = "bec8118978adeb052de9c4eaf9a595830621d82515a764f32f9c8a4dd52ab94b"
 
 [[files]]
 file = "mods/power-grid.pw.toml"
-hash = "c42c88f644b3e67a87c7a2a912bb5e1ff1021ac27b1397d18381bfaee7c03f44"
+hash = "64b93cfc842da2afe5239dbdcb67c5c70649e43ca8a41e94d2b248bac026c4f6"
 metafile = true
 
 [[files]]
@@ -1387,30 +1429,27 @@ hash = "b553cc75292dde731fb8cf6d8bc166cbce6d820a18806ee888c788c886675f6a"
 metafile = true
 
 [[files]]
-file = "mods/railways-0.2.0+neoforge-mc1.21.1.jar"
-hash = "1bd19694cfc746f261afc2f00b87d1083e734e778d65b1481094931100fca1a9"
-
-[[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "f2e5979a9d263f1016973f2de90619865b36e9291bd0b6021c7b03b23c5c7aa5"
-metafile = true
-
-[[files]]
 file = "mods/refurbished_furniture-neoforge-1.21.1-1.0.22.jar"
 hash = "953a7840261eb79959769a97caa60cba2ee141700a4cbe208825268327136bdf"
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "5a9a706b16dac6bb2ac8252d579e405ec6038ab24aa39bcd24061cef0bde50bb"
+hash = "78aaa11968da907e8ae5eec2368bcf362a1b414930d4e80a9643d15de02742f3"
 metafile = true
 
 [[files]]
-file = "mods/ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar"
-hash = "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24"
+file = "mods/rpl.pw.toml"
+hash = "3e3877223cf3eede571b4c87c22c268c71394336b2466e8b7e5cf7e7bf87bc89"
+metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "a6693ee3db7b1c9026311096443fd898f1c52bb2b73efc2de964c37105d3ff81"
+hash = "1f5e988ec204984eb2fac3013222b75099e964fd6cfb01a561f04ac566a3b25f"
+metafile = true
+
+[[files]]
+file = "mods/security-craft.pw.toml"
+hash = "be006289efad5ec4a8787d0173ffbdb276a3957f776ad2cca4857876348c4300"
 metafile = true
 
 [[files]]
@@ -1420,16 +1459,17 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "ec8255ee1097bb4a0bb4b61ef0dba714c1dad87b0acaf12da324a921d551f378"
+hash = "a7b3bc3fb588a44a80fcc646463d8aa5d023fd7571742729eae2a5b43f49af9d"
 metafile = true
 
 [[files]]
-file = "mods/sliceanddice-forge-4.2.4.jar"
-hash = "c3bd743a73eed3de14f6be5221fe68655cfeed0749f8f467f2ce2012ed1416bd"
+file = "mods/slice-and-dice.pw.toml"
+hash = "37ad53672c7fe8b2e7961f5db79398b486ac727ffd216bf404356082eabfdda6"
+metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "96926b3c536668a886c6895565d8cbf06ec187c1efd4f0212ba12f8f97f7559e"
+hash = "5eef19e6ac67ed27b506fa464d2673cb0ea2ed4d389831b62d8b4b815a8bcf5b"
 metafile = true
 
 [[files]]
@@ -1438,17 +1478,8 @@ hash = "561aac4c96a3e40372ed5a79827cef6acb333a328fd680c438a8b0b9f89ed557"
 metafile = true
 
 [[files]]
-file = "mods/sodium-neoforge-0.6.13+mc1.21.1.jar"
-hash = "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403"
-
-[[files]]
-file = "mods/sodium-options-api.pw.toml"
-hash = "af23ac3982bfed8f9f3a1b18f3da28a0b2f5e1fa32eba536be73b19ffc3d4405"
-metafile = true
-
-[[files]]
-file = "mods/sodium-options-mod-compat.pw.toml"
-hash = "02ad704f22761db8f0000bf0adaa84271a46803435d7de8907a18411155cdf8a"
+file = "mods/sodium.pw.toml"
+hash = "fd7473a15dd771e7a7f53159840799afffc62dda2abc4ee95d7ee0cbeac569b2"
 metafile = true
 
 [[files]]
@@ -1466,21 +1497,34 @@ file = "mods/steel_dominion_additions-v1.0.3-neoforge-1.21.1.jar"
 hash = "df3cee8e601a47019c680ddd8b655849ce7c6f368428cf15c26393db711e879b"
 
 [[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "94cc93768311fbf5dd10967de8263600516ecf04a11391ed19aa7f3549556e62"
+file = "mods/stowed.pw.toml"
+hash = "d13ecc83b2348ec4d7848bd703dd4209643890efa7bc21dc5df36ad6b2def21e"
 metafile = true
 
 [[files]]
-file = "mods/tacz-neoforge-1.21.1-1.1.7-hotfix-r5.jar"
-hash = "dfb5b8da5a5e38839668037b347e419a65e75d74dc4c7753b75a943616955c4b"
+file = "mods/supplementaries.pw.toml"
+hash = "2d589997581d5c353c255dbbd878c02e4035af5b01a90bfe872939220225302d"
+metafile = true
 
 [[files]]
-file = "mods/tacz-pack-upgrader-2.1.2.jar"
-hash = "3f3f334b2ca72d9e289fd61ab6a76cca88d8db8afeb6be0591022ecafcb8e92d"
+file = "mods/tacz-1.21.1.pw.toml"
+hash = "85ac9d020c2f776ceff629137e0d46da008d64ca8517a5b41b99a3164d0b97c2"
+metafile = true
 
 [[files]]
-file = "mods/tfmg-1.2.0.jar"
-hash = "fc824a91cfe22e137c9014ed608ee9bf35f16490d2162b687666332c6eb3a555"
+file = "mods/tacz-pack-upgrader.pw.toml"
+hash = "a0c078842001891b16eee939bcd11021c569308460e384f77349faf6e27db58f"
+metafile = true
+
+[[files]]
+file = "mods/tfmg-community-edition.pw.toml"
+hash = "29bcd47b2e399988da60931adfa2c11b89cbc77e0dd3e054ce9889d4fd1d3c48"
+metafile = true
+
+[[files]]
+file = "mods/tough-as-nails.pw.toml"
+hash = "cdb84838abaab6bdfb6663d91f294073056d1b2155302e8cada4c7a6c7addbd3"
+metafile = true
 
 [[files]]
 file = "mods/walkietalkie-neoforge-1.21.1-1.0.5.jar"
@@ -1496,7 +1540,7 @@ hash = "50e24870bf410cbc88e650770bb60f07e09ae0cd22b57bbcb5a2f92677f59754"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.9 + EuphoriaPatches_1.10.0.txt"
-hash = "8627be07d57411eae922283a6e8ef6ee4cd01b0485c5b9c063b53ef6457cdc4c"
+hash = "4a4ba3a028cc9107f0677274c17d8fa74fae60aaa33009d3e0254b8105efe326"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.9.zip.txt"
@@ -1504,7 +1548,7 @@ hash = "85f41148dd487e58ea3ff6785d0c13e47d436d741366d69c59bd7a514fa9427a"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "eb524ff40b5fe4b7cb6fb154368a88b2ce0211703e15534d6bbff75b1da1bf14"
+hash = "948b6d4ff15ed049a8b33bafce62c3eceb825552a9fe0b043a177868ca026d7d"
 metafile = true
 
 [[files]]
