@@ -1,0 +1,52 @@
+{
+  "model": "murasamet:gun/m1a1_geo",
+  "texture": "murasamet:gun/uv/m1a1",
+  "hud": "murasamet:gun/hud/m1a1",
+  "lod": {
+    "model": "murasamet:gun/lod/m1a1",
+    "texture": "murasamet:gun/lod/m1a1"
+  },
+  "slot": "murasamet:gun/slot/m1a1",
+  "animation": "murasamet:m1a1",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "state_machine": "murasamet:thompson_state_machine",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "murasamet:flash/common_muzzle_flash",
+    "scale": 1
+  },
+  "shell": {
+    "initial_velocity": [5, 2, 1],
+    "random_velocity": [1, 1, 0.25],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+  "sounds": {
+    "shoot": "murasamet:thompson/thompson_shoot",
+    "dry_fire": "murasamet:ppsh/dry_fire",
+    "fire_select": "murasamet:ppsh/fire_select",
+    "silence": "tacz:ump45/ump45_silence",
+    "silence_3p": "tacz:ump45/ump45_silence_3p",
+    "shoot_3p": "murasamet:thompson/thompson_shoot_3p"
+  },
+  "offhand_show": {
+    "pos": [1, 20, 4],
+    "rotate": [0, 0, 45],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-1, 19, 3],
+      "rotate": [-180, 0, 130],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

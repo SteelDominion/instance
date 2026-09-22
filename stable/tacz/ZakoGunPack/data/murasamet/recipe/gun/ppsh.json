@@ -1,0 +1,24 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 24
+    },
+    {
+      "item": {
+        "tag": "minecraft:logs"
+      },
+      "count": 12
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "murasamet:ppsh",
+    "attachments": {
+      "extended_mag": "tacz:light_extended_mag_1"
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

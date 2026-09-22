@@ -1,0 +1,37 @@
+{
+  "model": "murasamet:gun/at4_geo",
+  "texture": "murasamet:gun/uv/at4",
+  "hud": "murasamet:gun/hud/at4",
+  "slot": "murasamet:gun/slot/at4",
+  "animation": "murasamet:at4",
+  "use_default_animation": "rifle",
+  "lod": {
+    "model": "murasamet:gun/at4_geo",
+    "texture": "murasamet:gun/uv/at4"
+  },
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.55, 0.55, 0.55 ],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "sounds": {
+    "shoot": "murasamet:rpg7/rpg7_shoot",
+    "dry_fire": "murasamet:ppsh/dry_fire",
+    "fire_select": "murasamet:ppsh/fire_select",
+    "shoot_3p": "murasamet:rpg7/rpg7_shoot"
+  },
+  "offhand_show": {
+    "pos": [0, 20, 5],
+    "rotate": [-20, 0, 30],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-1, 19, 3],
+      "rotate": [-180, 0, 130],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

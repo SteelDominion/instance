@@ -1,0 +1,18 @@
+{
+  "slot": "murasamet:attachment/slot/scope_pgo_7",
+  "model": "murasamet:attachment/scope_pgo_7_geo",
+  "texture": "murasamet:attachment/uv/scope_pgo_7",
+  "lod": {
+    "model": "murasamet:attachment/lod/scope_pgo_7",
+    "texture": "murasamet:attachment/lod/scope_pgo_7"
+  },
+  "zoom": [
+    3.5
+  ],
+  "scope": true,
+  "fov": 60.0,
+  "sounds": {
+    "install": "tacz:attachments/scope_general_b",
+    "uninstall": "tacz:attachments/scope_general_b"
+  }
+}

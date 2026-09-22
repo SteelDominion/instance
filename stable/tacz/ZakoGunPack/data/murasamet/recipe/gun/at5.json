@@ -1,0 +1,38 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 48
+    },
+    {
+      "item": {
+        "tag": "c:ingots/gold"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "tag": "c:ingots/copper"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "tag": "c:gunpowders"
+      },
+      "count": 16
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "murasamet:at4",
+    "nbt": {
+      "DummyAmmo": 0,
+      "HideFlags": 16
+    },
+    "ammo_count": 1
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

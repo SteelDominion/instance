@@ -1,0 +1,23 @@
+{
+  "slot": "murasamet:attachment/slot/scope_ajack4",
+  "model": "murasamet:attachment/scope_ajack4_geo",
+  "texture": "murasamet:attachment/uv/scope_ajack4",
+  "lod": {
+    "model": "murasamet:attachment/lod/scope_ajack4",
+    "texture": "murasamet:attachment/lod/scope_ajack4"
+  },
+  "zoom": [
+    4.2
+  ],
+  "views": [
+    1
+  ],
+  "views_fov": [
+    30.0
+  ],
+  "scope": true,
+  "sounds": {
+    "install": "tacz:attachments/scope_general_b",
+    "uninstall": "tacz:attachments/scope_general_b"
+  }
+}

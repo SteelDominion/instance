@@ -1,0 +1,28 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:ingots/copper"
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 5
+    },
+    {
+      "item": {
+        "tag": "c:gunpowders"
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "murasamet:22mag",
+    "count": 16
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

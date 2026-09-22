@@ -1,0 +1,21 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 160
+    },
+    {
+      "item": {
+        "tag": "c:ingots/gold"
+      },
+      "count": 8
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "murasamet:glock_999"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

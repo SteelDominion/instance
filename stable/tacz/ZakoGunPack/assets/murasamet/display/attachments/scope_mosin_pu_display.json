@@ -1,0 +1,26 @@
+{
+  "slot": "murasamet:attachment/slot/scope_mosin_pu",
+  "model": "murasamet:attachment/scope_mosin_pu_geo",
+  "texture": "murasamet:attachment/uv/scope_mosin_pu",
+  "lod": {
+    "model": "murasamet:attachment/lod/scope_mosin_pu",
+    "texture": "murasamet:attachment/lod/scope_mosin_pu"
+  },
+  "zoom": [
+    3.5,
+    1.25
+  ],
+  "views": [
+    1,
+    2
+  ],
+  "views_fov": [
+    35.0,
+    60.0
+  ],
+  "scope": true,
+  "sounds": {
+    "install": "tacz:attachments/scope_general_b",
+    "uninstall": "tacz:attachments/scope_general_b"
+  }
+}

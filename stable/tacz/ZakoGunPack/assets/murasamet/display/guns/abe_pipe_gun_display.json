@@ -1,0 +1,44 @@
+{
+  "model": "murasamet:gun/abe_pipe_gun_geo",
+  "texture": "murasamet:gun/uv/abe_pipe_gun",
+  "lod": {
+    "model": "murasamet:gun/abe_pipe_gun_geo",
+    "texture": "murasamet:gun/uv/abe_pipe_gun"
+  },
+  "hud": "murasamet:gun/hud/abe_pipe_gun",
+  "slot": "murasamet:gun/slot/abe_pipe_gun",
+  "animation": "murasamet:abe_pipe_gun",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "murasamet:flash/common_muzzle_flash",
+    "scale": 0.75
+  },
+  "sounds": {
+    "inspect": "murasamet:hand_connon/hand_connon_inspect",
+    "inspect_empty": "murasamet:hand_connon/hand_connon_inspect",
+    "draw": "murasamet:blunderbuss/blunderbuss_draw",
+    "put_away": "murasamet:blunderbuss/blunderbuss_put_away",
+    "shoot": "murasamet:hand_connon/pip_gun_shoot",
+    "shoot_3p": "murasamet:hand_connon/hand_connon_shoot"
+  },
+  "offhand_show": {
+    "pos": [4, 13, -1],
+    "rotate": [-90, -35, 90],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-5, 13, -1],
+      "rotate": [-90, -35, 90],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

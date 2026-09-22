@@ -1,0 +1,7 @@
+{
+  "name": "murasamet.gun.ppsh.name",
+  "display": "murasamet:ppsh_display",
+  "data": "murasamet:ppsh_data",
+  "tooltip": "murasamet.gun.ppsh.desc",
+  "type": "smg"
+}

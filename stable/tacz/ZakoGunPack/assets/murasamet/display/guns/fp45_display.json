@@ -1,0 +1,55 @@
+{
+  "model": "murasamet:gun/fp45_geo",
+  "texture": "murasamet:gun/uv/fp45",
+  "hud": "murasamet:gun/hud/fp45",
+  "lod": {
+    "model": "murasamet:gun/lod/fp45",
+    "texture": "murasamet:gun/uv/fp45"
+  },
+  "slot": "murasamet:gun/slot/fp45",
+  "animation": "murasamet:fp45",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "murasamet:flash/common_muzzle_flash",
+    "scale": 0.6
+  },
+  "shell": {
+    "initial_velocity": [5, 2, 1],
+    "random_velocity": [1, 1, 0.25],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+  "sounds": {
+    "shoot": "murasamet:fp45/fp45_shoot",
+    "shoot_3p": "murasamet:fp45/fp45_shoot",
+    "draw": "tacz:p320/p320_draw",
+    "put_away": "tacz:p320/p320_put_away",
+    "silence": "tacz:p320/p320_silence",
+    "silence_3p": "tacz:p320/p320_silence_3p",
+    "dry_fire": "murasamet:ppsh/dry_fire",
+    "fire_select": "murasamet:ppsh/fire_select",
+    "melee_push": "tacz:melee_stock/melee_stock_03",
+    "melee_stock": "tacz:melee_stock/melee_stock_01"
+  },
+  "offhand_show": {
+    "pos": [4, 13, -1],
+    "rotate": [-90, -35, 90],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-5, 13, -1],
+      "rotate": [-90, -35, 90],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

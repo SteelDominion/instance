@@ -1,0 +1,9 @@
+{
+    "name": "murasamet.gun.anantha_action.name",
+    "display": "murasamet:anantha_action_display",
+    "data": "murasamet:anantha_action_data",
+    "tooltip": "murasamet.gun.anantha_action.desc",
+    "type": "rifle",
+    "item_type": "modern_kinetic",
+    "sort": 1
+}

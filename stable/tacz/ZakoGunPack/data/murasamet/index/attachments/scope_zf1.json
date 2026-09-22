@@ -1,0 +1,7 @@
+{
+  "name": "murasamet.attachment.scope_zf1.name",
+  "display": "murasamet:scope_zf1_display",
+  "data": "murasamet:scope_zf1_data",
+  "type": "scope",
+  "sort": 99
+}

@@ -1,0 +1,28 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 18
+    },
+    {
+      "item": {
+        "tag": "c:ingots/copper"
+      },
+      "count": 9
+    },
+    {
+      "item": {
+        "tag": "c:gunpowders"
+      },
+      "count": 20
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "murasamet:pg7heat",
+    "count": 3
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

@@ -1,0 +1,95 @@
+{
+  "ammo": "tacz:762x54",
+  "ammo_amount": 5,
+  "bolt": "manual_action",
+  "rpm": 300,
+  "bullet": {
+    "life": 1.2,
+    "bullet_amount": 1,
+    "damage": 25,
+    "tracer_count_interval": 0,
+    "extra_damage": {
+      "armor_ignore": 0.72,
+      "head_shot_multiplier": 2.5,
+      "damage_adjust": [
+        {"distance": 30, "damage": 23},
+        {"distance": 60, "damage": 21},
+        {"distance": "infinite", "damage":18}
+      ]
+    },
+    "speed": 700,
+    "gravity": 0.098,
+    "knockback": 0,
+    "friction": 0.015,
+    "weight": 3.9,
+    "movement_speed": {
+    "base": -0.01,
+    "aim": -0.25,
+    "reload": -0.2
+  },
+    "ignite": false,
+    "pierce": 2
+  },
+  "script": "murasamet:karabiner98_gun_logic",
+  "script_param": {
+    "bolt_time": 0.61,
+    "intro": 1.49,
+    "intro_empty": 1.5,
+    "intro_empty_clip": 1.5,
+    "loop": 0.69,
+    "ending": 1.44,
+    "ending_empty": 1.44,
+    "ending_empty_feed": 1.13,
+    "clip_load": 1.92,
+    "clip_load_feed": 1.27,
+    "loop_feed": 0.56
+  },
+  "reload": {
+    "type": "magazine",
+    "feed": {
+      "empty": 114514,
+      "tactical": 114514
+    },
+    "cooldown": {
+      "empty": 114514,
+      "tactical": 114514
+    }
+  },
+  "draw_time": 1,
+  "put_away_time": 1.25,
+  "aim_time": 0.22,
+  "sprint_time": 0.2,
+  "bolt_action_time": 1.35,
+  "fire_mode": [
+    "semi"
+  ],
+  "recoil": {
+    "pitch": [
+      {"time": 0, "value": [3.2, 3.2]},
+      {"time": 0.32, "value": [2.2, 2.2]},
+      {"time": 0.57, "value": [-0.5, -0.5]},
+      {"time": 0.82, "value": [0.25, 0.25]},
+      {"time": 1.17, "value": [0, 0]},
+      {"time": 1.47, "value": [0, 0]}
+    ],
+    "yaw": [
+      {"time": 0, "value": [-0.6, -0.5]},
+      {"time": 0.32, "value": [-0.6, -0.5]},
+      {"time": 0.57, "value": [0, 0]}
+    ]
+  },
+  "inaccuracy": {
+    "stand": 8.5,
+    "move": 11,
+    "sneak": 6.9,
+    "lie": 5.2,
+    "aim": 0.04
+  },
+  "allow_attachment_types": [
+    "scope",
+    "muzzle",
+    "extended_mag"
+  ],
+  "melee": {
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "murasamet.gun.girandoni.name",
+    "display": "murasamet:girandoni_display",
+    "data": "murasamet:girandoni_data",
+    "tooltip": "murasamet.gun.girandoni.desc",
+    "type": "rifle",
+    "item_type": "modern_kinetic",
+    "sort": 1
+}

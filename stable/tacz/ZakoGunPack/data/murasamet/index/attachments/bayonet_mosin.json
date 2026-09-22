@@ -1,0 +1,6 @@
+{
+  "name": "murasamet.attachment.bayonet_mosin.name",
+  "display": "murasamet:bayonet_mosin_display",
+  "data": "murasamet:bayonet_mosin_data",
+  "type": "muzzle"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "murasamet.gun.l85a3.name",
+    "display": "murasamet:l85a3_display",
+    "data": "murasamet:l85a3_data",
+    "tooltip": "murasamet.gun.l85a3.desc",
+    "type": "rifle",
+    "item_type": "modern_kinetic",
+    "sort": 1
+}

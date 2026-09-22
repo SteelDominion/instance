@@ -1,0 +1,9 @@
+{
+  "name": "murasamet.gun.kittygun.name",
+  "display": "murasamet:kittygun_display",
+  "data": "murasamet:kittygun_data",
+  "tooltip": "murasamet.gun.kittygun.desc",
+  "type": "pistol",
+  "item_type": "modern_kinetic",
+  "sort": 10
+}

@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 36
+    },
+    {
+      "item": {
+        "tag": "c:ingots/gold"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "tag": "minecraft:logs"
+      },
+      "count": 8
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "murasamet:nagant1895"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

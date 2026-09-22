@@ -1,0 +1,22 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:ingots/copper"
+      },
+      "count": 21
+    },
+    {
+      "item": {
+        "tag": "c:gunpowders"
+      },
+      "count": 5
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "murasamet:762x38r",
+    "count": 42
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

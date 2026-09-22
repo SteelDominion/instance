@@ -1,0 +1,34 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:gems/diamond"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "tag": "c:ingots/gold"
+      },
+      "count": 24
+    },
+    {
+      "item": {
+        "tag": "c:rods/blaze"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 64
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "murasamet:waveenergy_bullet",
+    "count": 32
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

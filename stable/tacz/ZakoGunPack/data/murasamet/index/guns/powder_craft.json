@@ -1,0 +1,7 @@
+{
+    "name": "murasamet.gun.powder_craft.name",
+    "display": "murasamet:powder_craft_display",
+    "data": "murasamet:powder_craft_data",
+    "tooltip": "murasamet.gun.powder_craft.desc",
+    "type": "shotgun"
+  }

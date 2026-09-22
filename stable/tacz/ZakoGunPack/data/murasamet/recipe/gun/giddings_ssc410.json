@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 24
+    },
+    {
+      "item": {
+        "tag": "c:gems/lapis"
+      },
+      "count": 5
+    },
+    {
+      "item": {
+        "tag": "c:leathers"
+      },
+      "count": 3
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "murasamet:giddings_ssc410"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

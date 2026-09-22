@@ -1,0 +1,55 @@
+{
+  "model": "murasamet:gun/ppsh_geo",
+  "texture": "murasamet:gun/uv/ppsh",
+  
+  "lod": {
+    "model": "murasamet:gun/lod/ppsh",
+    "texture": "murasamet:gun/lod/ppsh"
+  },
+  "hud": "murasamet:gun/hud/ppsh",
+  "slot": "murasamet:gun/slot/ppsh",
+  "animation": "murasamet:ppsh",
+  "state_machine": "murasamet:ppsh_state_machine",
+  "use_default_animation": "rifle",
+  "player_animator_3rd": "tacz:rifle_default.player_animation",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "shell": {
+    "initial_velocity": [-1.5, 5.2, -1.5],
+    "random_velocity": [2.5, 0.5, 2.5],
+    "acceleration": [0.0, -20, 0.0],
+    "angular_velocity": [360, -720, 90],
+    "living_time": 1.0
+  },
+  "muzzle_flash": {
+    "texture": "murasamet:flash/common_muzzle_flash",
+    "scale": 0.4
+  },
+  "sounds": {
+    "reload_empty": "murasamet:ppsh/ppsh_reload_empty",
+    "reload_tactical": "murasamet:ppsh/ppsh_reload_tactical",
+    "draw": "murasamet:ppsh/ppsh_draw",
+    "put_away": "murasamet:ppsh/ppsh_put_away",
+    "dry_fire": "murasamet:ppsh/dry_fire",
+    "fire_select": "murasamet:ppsh/fire_select",
+    "shoot": "murasamet:ppsh/ppsh_shoot",
+    "shoot_3p": "murasamet:ppsh/ppsh_shoot_3p"
+  },
+  "offhand_show": {
+    "pos": [1, 20, 4],
+    "rotate": [0, 0, 45],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-1, 19, 3],
+      "rotate": [-180, 0, 130],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "model": "murasamet:ammo/og7he",
+  "texture": "murasamet:ammo_entity/og7he",
+  "slot": "murasamet:ammo/slot/og7he",
+  "entity": {
+    "model": "murasamet:ammo_entity/og7he",
+    "texture": "murasamet:ammo_entity/og7he"
+  },
+  "particle": {
+    "name": "campfire_signal_smoke",
+    "delta": [
+      0,
+      0,
+      0
+    ],
+    "speed": 0.005,
+    "life_time": 100,
+    "count": 10
+  }
+}

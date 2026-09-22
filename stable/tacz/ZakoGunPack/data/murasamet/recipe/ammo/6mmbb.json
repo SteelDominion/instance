@@ -1,0 +1,22 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:gems/lapis"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "murasamet:6mmbb",
+    "count": 60
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

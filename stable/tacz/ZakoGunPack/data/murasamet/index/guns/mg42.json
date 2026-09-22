@@ -1,0 +1,7 @@
+{
+  "name": "murasamet.gun.mg42.name",
+  "display": "murasamet:mg42_display",
+  "data": "murasamet:mg42_data",
+  "tooltip": "murasamet.gun.mg42.desc",
+  "type": "mg"
+}

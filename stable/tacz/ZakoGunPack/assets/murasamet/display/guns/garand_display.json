@@ -1,0 +1,47 @@
+{
+  "model": "murasamet:gun/garand_geo",
+  "texture": "murasamet:gun/uv/garand",
+  "lod": {
+    "model": "murasamet:gun/lod/garand",
+    "texture": "murasamet:gun/uv/garand"
+  },
+  "hud": "murasamet:gun/hud/garand",
+  "slot": "murasamet:gun/slot/garand",
+  "animation": "murasamet:garand",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "state_machine": "murasamet:god_damn_garand_state_machine",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.5],
+      "ground": [0.6, 0.6, 0.5],
+      "fixed": [1.2, 1.2, 1.0]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "tacz:flash/common_muzzle_flash",
+    "scale": 1.5
+  },
+  "zoom_model_fov": 55,
+  "iron_zoom": 1.5,
+  "sounds": {
+    "inspect": "murasamet:garand/bgm2",
+    "inspect_empty": "murasamet:garand/bgm1",
+    "shoot": "murasamet:garand/garand_shoot",
+    "dry_fire": "murasamet:ppsh/dry_fire",
+    "fire_select": "murasamet:ppsh/fire_select",
+    "shoot_3p": "murasamet:garand/garand_shoot"
+  },
+  "offhand_show": {
+    "pos": [1, 20, 3.5],
+    "rotate": [0, 0, 60],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [0, 20, 3],
+      "rotate": [-180, 0, 120],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

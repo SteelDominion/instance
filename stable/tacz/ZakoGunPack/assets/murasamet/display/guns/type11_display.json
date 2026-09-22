@@ -1,0 +1,78 @@
+{
+  "model": "murasamet:gun/type11_geo",
+  "texture": "murasamet:gun/uv/type11",
+  "lod": {
+    "model": "murasamet:gun/lod/type11",
+    "texture": "murasamet:gun/uv/type11"
+  },
+  "hud": "murasamet:gun/hud/type11",
+  "slot": "murasamet:gun/slot/type11",
+  "ammo_count_style": "normal",
+  "damage_style": "per_projectile",
+  "animation": "murasamet:type11",
+  "state_machine": "murasamet:type11_state_machine",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "player_animator_3rd": "tacz:rifle_default.player_animation",
+  "show_crosshair": false,
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.5],
+      "ground": [0.6, 0.6, 0.5],
+      "fixed": [1.2, 1.2, 1.0]
+    }
+  },
+  "iron_zoom": 1.33,
+  "zoom_model_fov": 45,
+  "shell": {
+    "initial_velocity": [5, 2, 1],
+    "random_velocity": [1, 1, 0.25],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+  "ammo": {
+    "tracer_color": "#FF8888"
+  },
+  "sounds": {
+    "shoot": "murasamet:type11/type11_shoot",
+    "shoot_3p": "murasamet:type11/type11_shoot",
+    "fire_select": "murasamet:ppsh/fire_select",
+    "head_hit": "tacz:head_hit",
+    "flesh_hit": "tacz:flesh_hit",
+    "kill": "tacz:kill",
+    "dry_fire": "murasamet:ppsh/dry_fire",
+    "melee_bayonet": "tacz:melee_bayonet/melee_bayonet_01",
+    "melee_push": "tacz:melee_stock/melee_stock_01",
+    "melee_stock": "tacz:melee_stock/melee_stock_02"
+  },
+  "offhand_show": {
+    "pos": [1, 18, 3.5],
+    "rotate": [0, 0, 60],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-1, 18, 3],
+      "rotate": [-180, 0, 120],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  },
+  "controllable": {
+    "semi": {
+      "low_frequency": 0.25,
+      "high_frequency": 0.5,
+      "time": 100
+    },
+    "auto": {
+      "low_frequency": 0.15,
+      "high_frequency": 0.25,
+      "time": 80
+    },
+    "burst": {
+      "low_frequency": 0.25,
+      "high_frequency": 0.5,
+      "time": 100
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "model": "murasamet:gun/sten_mk2_geo",
+  "texture": "murasamet:gun/uv/sten_mk2",
+  "hud": "murasamet:gun/hud/sten_mk2",
+  "lod": {
+    "model": "murasamet:gun/lod/sten_mk2",
+    "texture": "murasamet:gun/lod/sten_mk2"
+  },
+  "slot": "murasamet:gun/slot/sten_mk2",
+  "animation": "murasamet:sten_mk2",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "state_machine": "murasamet:fullauto_state_machine",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "murasamet:flash/common_muzzle_flash",
+    "scale": 0.6
+  },
+  "shell": {
+    "initial_velocity": [5, 2, 1],
+    "random_velocity": [1, 1, 0.25],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+  "sounds": {
+    "shoot": "murasamet:sten/sten_mk2_shoot",
+    "dry_fire": "murasamet:ppsh/dry_fire",
+    "fire_select": "murasamet:ppsh/fire_select",
+    "shoot_3p": "murasamet:sten/sten_mk2_shoot_3p"
+  },
+  "offhand_show": {
+    "pos": [1, 22, 4],
+    "rotate": [0, 0, 70],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-2, 22, 3],
+      "rotate": [120, 0, 120],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

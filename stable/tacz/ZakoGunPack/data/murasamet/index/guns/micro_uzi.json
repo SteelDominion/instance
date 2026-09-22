@@ -1,0 +1,7 @@
+{
+  "name": "murasamet.gun.micro_uzi.name",
+  "display": "murasamet:micro_uzi_display",
+  "data": "murasamet:micro_uzi_data",
+  "tooltip": "murasamet.gun.micro_uzi.desc",
+  "type": "pistol"
+}

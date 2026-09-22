@@ -1,0 +1,8 @@
+{
+  "name": "murasamet.gun.tdf45sg.name",
+  "display": "murasamet:tdf45sg_display",
+  "data": "murasamet:tdf45sg_data",
+  "type": "shotgun",
+  "tooltip": "murasamet.gun.tdf45sg.desc",
+  "sort": 3
+}

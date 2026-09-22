@@ -1,0 +1,8 @@
+{
+  "name": "murasamet.block.fob.name",
+  "display": "murasamet:fob",
+  "data": "murasamet:fob",
+  "tooltip": "murasamet.block.fob.desc",
+  "id": "tacz:workbench_b",
+  "sort": 3
+}

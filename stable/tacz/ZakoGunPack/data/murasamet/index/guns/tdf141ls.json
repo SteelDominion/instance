@@ -1,0 +1,8 @@
+{
+  "name": "murasamet.gun.tdf141ls.name",
+  "display": "murasamet:tdf141ls_display",
+  "data": "murasamet:tdf141ls_data",
+  "type": "sniper",
+  "tooltip": "murasamet.gun.tdf141ls.desc",
+  "sort": 2
+}

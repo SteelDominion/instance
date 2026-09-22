@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:ingots/netherite"
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "tag": "c:ingots/gold"
+      },
+      "count": 22
+    },
+    {
+      "item": {
+        "tag": "minecraft:logs"
+      },
+      "count": 72
+    },
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 160
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "murasamet:mg34"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

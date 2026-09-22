@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 10
+    },
+    {
+      "item": {
+        "tag": "c:gems/amethyst"
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "tag": "c:glass_blocks"
+      },
+      "count": 3
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "murasamet:scope_ajack4"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

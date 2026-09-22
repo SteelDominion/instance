@@ -1,0 +1,18 @@
+{
+  "slot": "murasamet:attachment/slot/laser_module_slot",
+  "model": "murasamet:attachment/laser_module_geo",
+  "texture": "murasamet:attachment/uv/laser_module",
+   "lod": {
+          "model": "murasamet:attachment/lod/laser_module",
+          "texture": "murasamet:attachment/lod/laser_module"
+  },
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_b",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  },
+  "laser": {
+    "default_color": "0xff0000",
+    "can_edit": true,
+    "length": 100
+  }
+}

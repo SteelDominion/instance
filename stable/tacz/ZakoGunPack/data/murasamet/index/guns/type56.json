@@ -1,0 +1,7 @@
+{
+  "name": "murasamet.gun.type56.name",
+  "display": "murasamet:type56_display",
+  "data": "murasamet:type56_data",
+  "tooltip": "murasamet.gun.type56.desc",
+  "type": "sniper"
+}

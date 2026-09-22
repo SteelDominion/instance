@@ -1,0 +1,7 @@
+{
+  "name": "murasamet.gun.mosin_nagant38.name",
+  "display": "murasamet:mosin_nagant38_display",
+  "data": "murasamet:mosin_nagant38_data",
+  "tooltip": "murasamet.gun.mosin_nagant38.desc",
+  "type": "sniper"
+}

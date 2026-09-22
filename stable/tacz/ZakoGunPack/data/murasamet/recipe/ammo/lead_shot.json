@@ -1,0 +1,22 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:ingots/copper"
+      },
+      "count": 5
+    },
+    {
+      "item": {
+        "tag": "c:nuggets/iron"
+      },
+      "count": 9
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "murasamet:lead_shot",
+    "count": 10
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

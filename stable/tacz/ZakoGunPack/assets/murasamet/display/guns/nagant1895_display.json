@@ -1,0 +1,45 @@
+{
+  "model": "murasamet:gun/nagant1895_geo",
+  "texture": "murasamet:gun/uv/nagant1895",
+  "lod": {
+    "model": "murasamet:gun/lod/nagant1895",
+    "texture": "murasamet:gun/lod/nagant1895"
+  },
+  "hud": "murasamet:gun/hud/nagant1895",
+  "slot": "murasamet:gun/slot/nagant1895",
+  "animation": "murasamet:nagant1895",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "state_machine": "murasamet:nagant1895_state_machine",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "tacz:flash/common_muzzle_flash",
+    "scale": 0
+  },
+  "zoom_model_fov": 55,
+  "iron_zoom": 1.5,
+  "sounds": {
+    "shoot_3p": "murasamet:nagant1895/nagant_shoot",
+    "dry_fire": "murasamet:ppsh/dry_fire",
+    "fire_select": "murasamet:ppsh/fire_select",
+    "silence_3p": "murasamet:nagant1895/nagant_shoot_silnces"
+  },
+  "offhand_show": {
+    "pos": [4, 13, -1],
+    "rotate": [-90, -35, 90],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-5, 13, -1],
+      "rotate": [-90, -35, 90],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

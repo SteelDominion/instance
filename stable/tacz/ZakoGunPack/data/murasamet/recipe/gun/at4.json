@@ -1,0 +1,38 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "tacz:nbt",
+        "nbt": {
+          "GunId": "murasamet:at4",
+          "GunCurrentAmmoCount": 0
+        },
+        "partial": true,
+        "items": "tacz:modern_kinetic_gun"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "tag": "c:ingots/copper"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "tag": "c:gunpowders"
+      },
+      "count": 6
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "murasamet:at4",
+    "nbt": {
+      "DummyAmmo": 0,
+      "HideFlags": 16
+    },
+    "ammo_count": 1
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

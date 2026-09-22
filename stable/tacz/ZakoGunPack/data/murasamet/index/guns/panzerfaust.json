@@ -1,0 +1,8 @@
+{
+  "name": "murasamet.gun.panzerfaust.name",
+  "display": "murasamet:panzerfaust_display",
+  "data": "murasamet:panzerfaust_data",
+  "tooltip": "murasamet.gun.panzerfaust.desc",
+  "type": "rpg",
+  "sort": 12
+}

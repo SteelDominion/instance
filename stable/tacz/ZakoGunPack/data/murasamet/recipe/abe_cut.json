@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "tag": "c:ingots/iron"
+    },
+    "L": {
+      "tag": "minecraft:logs"
+    },
+    "P": {
+      "tag": "c:gunpowders"
+    }
+  },
+  "pattern": [
+    "II",
+    "LP"
+  ],
+  "result": {
+    "id": "tacz:modern_kinetic_gun",
+    "components": {
+      "minecraft:custom_data": {
+        "GunId": "murasamet:abe_pipe_gun",
+        "DummyAmmo": 0,
+        "HideFlags": 16,
+        "HasBulletInBarrel": false,
+        "GunFireMode": "SEMI",
+        "GunCurrentAmmoCount": 2
+      }
+    }
+  },
+  "show_notification": false
+}

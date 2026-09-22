@@ -1,0 +1,20 @@
+{
+  "model": "murasamet:ammo/pg7heat",
+  "texture": "murasamet:ammo/uv/pg7heat",
+  "slot": "murasamet:ammo/slot/pg7heat",
+  "entity": {
+    "model": "murasamet:ammo_entity/pg7heat",
+    "texture": "murasamet:ammo_entity/pg7heat"
+  },
+  "particle": {
+    "name": "campfire_signal_smoke",
+    "delta": [
+      0,
+      0,
+      0
+    ],
+    "speed": 0.005,
+    "life_time": 100,
+    "count": 10
+  }
+}

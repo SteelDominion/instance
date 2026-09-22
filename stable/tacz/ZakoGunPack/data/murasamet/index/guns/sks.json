@@ -1,0 +1,7 @@
+{
+  "name": "murasamet.gun.sks.name",
+  "display": "murasamet:sks_display",
+  "data": "murasamet:sks_data",
+  "tooltip": "murasamet.gun.sks.desc",
+  "type": "rifle"
+}

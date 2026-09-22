@@ -1,0 +1,40 @@
+{
+  "model": "murasamet:ammo/powder_and_bullet",
+  "texture": "murasamet:ammo/uv/powder_and_bullet",
+  "slot": "murasamet:ammo/slot/powder_and_bullet",
+  "shell": {
+    "model": "murasamet:shell/powder_and_bullet_shell",
+    "texture": "murasamet:shell/powder_and_bullet_shell"
+  },
+  "tracer_color": "#FF8888",
+  "particle": {
+    "name": "smoke",
+    "delta": [
+      1,
+      1,
+      1
+    ],
+    "speed": 0,
+    "life_time": 40,
+    "count": 16
+  },
+  "transform": {
+    "scale": {
+      "thirdperson": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "ground": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "fixed": [
+        1.2,
+        1.2,
+        1.2
+      ]
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "minecraft:fishes"
+      },
+      "count": 24
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "murasamet:kittygun"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

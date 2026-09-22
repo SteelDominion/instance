@@ -1,0 +1,114 @@
+{
+  "ammo": "murasamet:powder_and_bullet",
+  "ammo_amount": 1,
+  "extended_mag_ammo_amount": [
+    1,
+    1,
+    1
+  ],
+  "script": "murasamet:openbolt_xmag_reload_logic",
+  "script_param": {
+    "reload_feed": 24,
+    "reload_cooldown": 24.8,
+    "empty_feed": 24,
+    "empty_cooldown": 24.8,
+    "reload_xmag_1_feed": 18,
+    "reload_xmag_1_cooldown": 18.6,
+    "empty_xmag_1_feed": 18,
+    "empty_xmag_1_cooldown": 18.6,
+    "reload_xmag_2_feed": 12,
+    "reload_xmag_2_cooldown": 12.4,
+    "empty_xmag_2_feed": 12,
+    "empty_xmag_2_cooldown": 12.4,
+    "reload_xmag_3_feed": 6,
+    "reload_xmag_3_cooldown": 6.2,
+    "empty_xmag_3_feed": 6,
+    "empty_xmag_3_cooldown": 6.2
+  },
+  "bolt": "open_bolt",
+  "rpm": 150,
+  "bullet": {
+    "life": 2,
+    "bullet_amount": 1,
+    "damage": 42,
+    "tracer_count_interval": 0,
+    "extra_damage": {
+      "armor_ignore": 0.3,
+      "head_shot_multiplier": 1.2,
+      "damage_adjust": [
+        {"distance": 10, "damage": 42},
+        {"distance": 50, "damage": 41},
+        {"distance": 150, "damage": 38},
+        {"distance": "infinite", "damage": 33}
+      ]
+    },
+    "speed": 350,
+    "gravity": 0.0245,
+    "knockback": 0.4,
+    "friction": 0.012,
+    "ignite": false,
+    "pierce": 3
+  },
+  "reload": {
+    "type": "magazine",
+    "feed": {
+      "empty": 114514,
+      "tactical": 114514
+    },
+    "cooldown": {
+      "empty": 114514,
+      "tactical": 114514
+    }
+  },
+  "draw_time": 1,
+  "put_away_time": 1,
+  "aim_time": 0.35,
+  "sprint_time": 0.8,
+  "weight": 5.9,
+  "fire_mode": [
+    "semi"
+  ],
+  "recoil": {
+    "pitch": [
+      {"time": 0, "value": [1, 4]},
+      {"time": 0.3, "value": [1, 4.5]},
+      {"time": 1.5, "value": [1, 2.5]},
+      {"time": 1.8, "value": [0, 0]}
+    ],
+    "yaw": [
+      {"time": 0, "value": [-0.9, -0.75]},
+      {"time": 0.7, "value": [-0.9, -0.75]},
+      {"time": 1.32, "value": [-0.9, -0.75]},
+      {"time": 2.2, "value": [0, 0]}
+    ]
+  },
+  "hurt_bob_tweak_multiplier": 0.5,
+  
+  "allow_attachment_types": [
+    "muzzle",
+    "extended_mag"
+  ],
+
+  "melee": {
+    "distance": 1,
+    "cooldown": 0.7,
+    "default": {
+      "animation_type": "melee_stock",
+      "distance": 0,
+      "range_angle": 40,
+      "cooldown": 0,
+      "damage": 5,
+      "knockback": 0.5,
+      "prep": 0.1
+    }
+  },
+
+  "inaccuracy": {
+    "stand": 7,
+    "move": 8,
+    "sneak": 5,
+    "lie": 4.5,
+    "aim": 1
+  }
+
+}

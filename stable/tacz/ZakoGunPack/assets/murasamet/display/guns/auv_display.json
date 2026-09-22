@@ -1,0 +1,59 @@
+{
+  "model": "murasamet:gun/auv_geo",
+  "texture": "murasamet:gun/uv/auv",
+  "lod": {
+    "model": "murasamet:gun/lod/auv",
+    "texture": "murasamet:gun/lod/auv"
+  },
+  "hud": "murasamet:gun/hud/auv",
+  "slot": "murasamet:gun/slot/auv",
+  "animation": "murasamet:auv",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "murasamet:flash/common_muzzle_flash",
+    "scale": 1.25
+  },
+  "shell": {
+    "initial_velocity": [5, 2, 1],
+    "random_velocity": [1, 1, 0.25],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+  "sounds": {
+    "shoot": "murasamet:auv/auv_shoot",
+    "shoot_3p": "murasamet:auv/auv_shoot_3p",
+    "silence": "murasamet:auv/auv_silence",
+    "silence_3p": "murasamet:auv/auv_silence_3p",
+    "reload_empty": "murasamet:auv/auv_reload_empty",
+    "reload_tactical": "murasamet:auv/auv_reload_tactical",
+    "inspect": "murasamet:auv/auv_inspect",
+    "inspect_empty": "murasamet:auv/auv_inspect_empty",
+    "draw": "murasamet:auv/auv_draw",
+    "put_away": "murasamet:auv/auv_put_away",
+    "melee_push": "murasamet:melee_stock/melee_stock_01",
+    "dry_fire": "murasamet:ppsh/dry_fire",
+    "fire_select": "murasamet:ppsh/fire_select",
+    "melee_stock": "murasamet:melee_stock/melee_stock_02"
+  },
+  "offhand_show": {
+    "pos": [1, 19, 4],
+    "rotate": [0, 0, 50],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-1, 19, 3],
+      "rotate": [-180, 0, 130],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

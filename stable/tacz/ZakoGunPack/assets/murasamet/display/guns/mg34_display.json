@@ -1,0 +1,52 @@
+{
+  "model": "murasamet:gun/mg34_geo",
+  "texture": "murasamet:gun/uv/mg34",
+  "lod": {
+    "model": "murasamet:gun/lod/mg34",
+    "texture": "murasamet:gun/lod/mg34"
+  },
+  "hud": "murasamet:gun/hud/mg34",
+  "slot": "murasamet:gun/slot/mg34",
+  "animation": "murasamet:mg42",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "state_machine": "murasamet:fullauto_state_machine",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "tacz:flash/common_muzzle_flash",
+    "scale": 0
+  },
+  "iron_zoom": 1.5,
+  "zoom_model_fov": 55,
+  "shell": {
+    "initial_velocity": [1, -1, 0],
+    "random_velocity": [1, 1, 0.25],
+    "acceleration": [10.0, 0, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+  "sounds": {
+    "shoot": "murasamet:mg42/mg42_shoot",
+    "shoot_3p": "murasamet:mg42/mg42_shoot",
+    "dry_fire": "murasamet:ppsh/dry_fire",
+    "fire_select": "murasamet:ppsh/fire_select"
+  },
+  "offhand_show": {
+    "pos": [0, 19, 4],
+    "rotate": [0, 0, 60],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [0, 19, 3],
+      "rotate": [-180, 0, 120],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "murasamet.gun.russian1895_carbine.name",
+  "display": "murasamet:russian1895_carbine_display",
+  "data": "murasamet:russian1895_carbine_data",
+  "tooltip": "murasamet.gun.russian1895_carbine.desc",
+  "type": "sniper",
+  "sort": 6
+}

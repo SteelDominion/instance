@@ -1,0 +1,28 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "minecraft:planks"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "tag": "c:gunpowders"
+      },
+      "count": 14
+    },
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 5
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "murasamet:powder_and_bullet",
+    "count": 20
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

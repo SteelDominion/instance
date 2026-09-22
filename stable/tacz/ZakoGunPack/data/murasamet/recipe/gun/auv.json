@@ -1,0 +1,31 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "tacz:nbt",
+        "nbt": {
+          "GunId": "tacz:vector45"
+        },
+        "partial": true,
+        "items": "tacz:modern_kinetic_gun"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "type": "tacz:nbt",
+        "nbt": {
+          "GunId": "tacz:aug"
+        },
+        "partial": true,
+        "items": "tacz:modern_kinetic_gun"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "murasamet:auv"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

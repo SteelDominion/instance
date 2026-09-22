@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "tag": "c:ingots/iron"
+    },
+    "C": {
+      "tag": "c:ingots/copper"
+    },
+    "P": {
+      "tag": "c:gunpowders"
+    }
+  },
+  "pattern": [
+    "II",
+    "CP"
+  ],
+  "result": {
+    "id": "tacz:modern_kinetic_gun",
+    "components": {
+      "minecraft:custom_data": {
+        "GunId": "murasamet:fp45",
+        "DummyAmmo": 6,
+        "HideFlags": 16,
+        "HasBulletInBarrel": false,
+        "GunFireMode": "SEMI",
+        "GunCurrentAmmoCount": 0
+      }
+    }
+  },
+  "show_notification": true
+}

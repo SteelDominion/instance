@@ -1,0 +1,43 @@
+{
+  "model": "murasamet:ammo/90mm",
+  "texture": "murasamet:ammo/uv/90mm",
+  "slot": "murasamet:ammo/slot/90mm",
+  "shell": {
+    "model": "murasamet:shell/90mm_shell",
+    "texture": "murasamet:ammo/slot/90mm"
+  },"entity": {
+    "model": "murasamet:ammo_entity/90mm",
+    "texture": "murasamet:ammo_entity/90mm"
+  },
+  "particle": {
+    "name": "smoke",
+    "delta": [
+      0,
+      0,
+      0
+    ],
+    "speed": 0,
+    "life_time": 50,
+    "count": 5
+  },
+  "tracer_color": "#FF8888",
+  "transform": {
+    "scale": {
+      "thirdperson": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "ground": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "fixed": [
+        1.2,
+        1.2,
+        1.2
+      ]
+    }
+  }
+}

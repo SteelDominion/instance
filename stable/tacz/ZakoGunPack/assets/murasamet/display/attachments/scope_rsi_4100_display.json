@@ -1,0 +1,45 @@
+{
+  "slot": "murasamet:attachment/slot/scope_rsi_4100_slot",
+  "model": "murasamet:attachment/scope_rsi_4100_geo",
+  "texture": "murasamet:attachment/uv/scope_rsi_4100",
+  "lod": {
+    "model": "murasamet:attachment/lod/scope_rsi_4100",
+    "texture": "murasamet:attachment/lod/scope_rsi_4100"
+  },
+  "zoom": [
+    6.25,
+    4.25
+  ],
+  "views": [
+    2,
+    2
+  ],
+  "views_fov": [
+    30.0,
+    30.0
+  ],
+  "fov": 50, 
+  "text_show": {
+    "ammo_count_text": {
+      "scale": 0.09375,
+      "align": "left",
+      "shadow": false,
+      "color": "#00ffff",
+      "light": 15,
+      "text": "%ammo_count%"
+    },
+    "custom_text_ammo":{
+      "scale": 0.0625,
+      "align": "center",
+      "shadow": false,
+      "color": "#ffffff",
+      "light": 15,
+      "text": "AMMO"
+    }
+  },
+  "scope": true,
+  "sounds": {
+    "install": "tacz:attachments/scope_general_c",
+    "uninstall": "tacz:attachments/scope_general_c"
+  }
+}

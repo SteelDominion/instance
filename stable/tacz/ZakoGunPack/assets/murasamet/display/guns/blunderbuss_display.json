@@ -1,0 +1,49 @@
+{
+  "model": "murasamet:gun/blunderbuss_geo",
+  "texture": "murasamet:gun/uv/blunderbuss",
+  "lod": {
+    "model": "murasamet:gun/lod/blunderbuss",
+    "texture": "murasamet:gun/uv/blunderbuss"
+  },
+  "hud": "murasamet:gun/hud/blunderbuss",
+  "slot": "murasamet:gun/slot/blunderbuss",
+  "animation": "murasamet:blunderbuss",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "murasamet:flash/common_muzzle_flash",
+    "scale": 1.75
+  },
+  "sounds": {
+    "reload_empty": "murasamet:blunderbuss/blunderbuss_reload_empty",
+    "reload_tactical": "murasamet:blunderbuss/blunderbuss_reload_empty",
+    "inspect": "murasamet:blunderbuss/blunderbuss_inspect_empty",
+    "inspect_empty": "murasamet:blunderbuss/blunderbuss_inspect_empty",
+    "draw": "murasamet:blunderbuss/blunderbuss_draw",
+    "put_away": "murasamet:blunderbuss/blunderbuss_put_away",
+    "shoot_3p": "murasamet:blunderbuss/blunderbuss",
+    "melee_push": "murasametet:melee_stock/melee_stock_01",
+    "dry_fire": "murasamet:ppsh/dry_fire",
+    "fire_select": "murasamet:ppsh/fire_select",
+    "melee_stock": "murasamet:melee_stock/melee_stock_03"
+  },
+  "offhand_show": {
+    "pos": [0, 20, 4],
+    "rotate": [0, 0, 60],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [0, 20, 3],
+      "rotate": [-180, 0, 120],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

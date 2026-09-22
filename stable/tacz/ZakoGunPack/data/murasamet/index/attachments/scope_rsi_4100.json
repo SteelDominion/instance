@@ -1,0 +1,7 @@
+{
+  "name": "murasamet.attachment.scope_rsi_4100.name",
+  "display": "murasamet:scope_rsi_4100_display",
+  "data": "murasamet:scope_rsi_4100_data",
+  "type": "scope",
+  "sort": 99
+}

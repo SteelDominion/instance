@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "result": {
+    "id": "tacz:workbench_b",
+    "components": {
+      "minecraft:custom_data": {
+        "BlockId": "murasamet:fob"
+      }
+    }
+  },
+  "pattern": [
+    "BSC",
+    "BIW",
+    "LLL"
+  ],
+  "key": {
+    "L": {
+      "tag": "c:sands/colorless"
+    },
+    "I": {
+      "tag": "c:gems/diamond"
+    },
+    "B": {
+      "item": "minecraft:iron_block"
+    },
+    "S": {
+      "tag": "c:ingots/gold"
+    },
+    "W": {
+      "tag": "minecraft:logs"
+    },
+    "C": {
+      "tag": "c:glass_blocks"
+    }
+  }
+}

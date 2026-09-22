@@ -1,0 +1,94 @@
+{
+  "ammo": "tacz:762x54",
+  "ammo_amount": 5,
+  "bolt": "manual_action",
+  "rpm": 300,
+  "bullet": {
+    "life": 1.2,
+    "bullet_amount": 1,
+    "damage": 23,
+    "tracer_count_interval": 0,
+    "extra_damage": {
+      "armor_ignore": 0.72,
+      "head_shot_multiplier": 2.5,
+      "damage_adjust": [
+        {"distance": 60, "damage": 23},
+        {"distance": 100, "damage": 22},
+        {"distance": "infinite", "damage":21}
+      ]
+    },
+    "speed": 700,
+    "gravity": 0.098,
+    "knockback": 0,
+    "friction": 0.015,
+    "weight": 3.9,
+    "movement_speed": {
+    "base": -0.01,
+    "aim": -0.25,
+    "reload": -0.2
+  },
+    "ignite": false,
+    "pierce": 2
+  },
+  "script": "murasamet:mosin_nagant_gun_logic",
+  "script_param": {
+    "bolt_time": 1.12,
+    "intro": 2.29,
+    "intro_empty": 1.87,
+    "intro_empty_clip": 1.87,
+    "loop": 1.04,
+    "ending": 1,
+    "ending_empty": 1.15,
+    "ending_empty_feed": 0.5,
+    "clip_load": 2.56,
+    "clip_load_feed": 1.69,
+    "loop_feed": 0.1
+  },
+  "reload": {
+    "type": "magazine",
+    "feed": {
+      "empty": 114514,
+      "tactical": 114514
+    },
+    "cooldown": {
+      "empty": 114514,
+      "tactical": 114514
+    }
+  },
+  "draw_time": 2,
+  "put_away_time": 1.45,
+  "aim_time": 0.2,
+  "sprint_time": 0.2,
+  "bolt_action_time": 1.35,
+  "fire_mode": [
+    "semi"
+  ],
+  "recoil": {
+    "pitch": [
+      {"time": 0, "value": [3.2, 3.2]},
+      {"time": 0.32, "value": [2.2, 2.2]},
+      {"time": 0.57, "value": [-0.5, -0.5]},
+      {"time": 0.82, "value": [0.25, 0.25]},
+      {"time": 1.17, "value": [0, 0]},
+      {"time": 1.47, "value": [0, 0]}
+    ],
+    "yaw": [
+      {"time": 0, "value": [-0.6, -0.5]},
+      {"time": 0.32, "value": [-0.6, -0.5]},
+      {"time": 0.57, "value": [0, 0]}
+    ]
+  },
+  "inaccuracy": {
+    "stand": 8.5,
+    "move": 11,
+    "sneak": 6.9,
+    "lie": 5.2,
+    "aim": 0.04
+  },
+  "allow_attachment_types": [
+	"scope",
+  "muzzle"
+  ],
+  "melee": {
+  }
+}

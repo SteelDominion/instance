@@ -1,0 +1,15 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 18
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "murasamet:sten_mk2"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

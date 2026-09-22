@@ -1,0 +1,52 @@
+{
+  "model": "murasamet:gun/dpm_geo",
+  "texture": "murasamet:gun/uv/dpm",
+  "lod": {
+    "model": "murasamet:gun/lod/dpm",
+    "texture": "murasamet:gun/lod/dp28"
+  },
+  "hud": "murasamet:gun/hud/dpm",
+  "slot": "murasamet:gun/slot/dpm",
+  "animation": "murasamet:dp28",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "state_machine": "murasamet:dp28_state_machine",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "tacz:flash/common_muzzle_flash",
+    "scale": 0
+  },
+  "iron_zoom": 1.5,
+  "zoom_model_fov": 55,
+  "shell": {
+    "initial_velocity": [1, -1, 0],
+    "random_velocity": [1, 1, 0.25],
+    "acceleration": [10.0, 0, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+  "sounds": {
+    "shoot": "murasamet:dp28/dp28_shoot",
+    "shoot_3p": "murasamet:dp28/dp28_shoot",
+    "dry_fire": "murasamet:ppsh/dry_fire",
+    "fire_select": "murasamet:ppsh/fire_select"
+  },
+  "offhand_show": {
+    "pos": [0, 19, 4],
+    "rotate": [0, 0, 60],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [0, 19, 3],
+      "rotate": [-180, 0, 120],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

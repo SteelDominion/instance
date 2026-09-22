@@ -1,0 +1,7 @@
+{
+    "name": "murasamet.gun.blunderbuss.name",
+    "display": "murasamet:blunderbuss_display",
+    "data": "murasamet:blunderbuss_data",
+    "tooltip": "murasamet.gun.blunderbuss.desc",
+    "type": "shotgun"
+  }

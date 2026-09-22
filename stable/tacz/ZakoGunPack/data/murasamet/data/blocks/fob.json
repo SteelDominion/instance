@@ -1,0 +1,173 @@
+{
+  "filter": "murasamet:fob",
+  "tabs": [
+    {
+      "id": "tacz:ammo",
+      "name": "tacz.type.ammo.name",
+      "icon": {
+        "id": "tacz:ammo",
+        "components": {
+          "minecraft:custom_data": {
+            "AmmoId": "murasamet:90mm"
+          }
+        }
+      }
+    },
+    {
+      "id": "tacz:pistol",
+      "name": "tacz.type.pistol.name",
+      "icon": {
+        "id": "tacz:modern_kinetic_gun",
+        "components": {
+          "minecraft:custom_data": {
+            "GunId": "murasamet:nagant1895"
+          }
+        }
+      }
+    },
+    {
+      "id": "tacz:sniper",
+      "name": "tacz.type.sniper.name",
+      "icon": {
+        "id": "tacz:modern_kinetic_gun",
+        "components": {
+          "minecraft:custom_data": {
+            "GunId": "murasamet:mosin_nagant1891"
+          }
+        }
+      }
+    },
+    {
+      "id": "tacz:rifle",
+      "name": "tacz.type.rifle.name",
+      "icon": {
+        "id": "tacz:modern_kinetic_gun",
+        "components": {
+          "minecraft:custom_data": {
+            "GunId": "murasamet:amd65"
+          }
+        }
+      }
+    },
+    {
+      "id": "tacz:shotgun",
+      "name": "tacz.type.shotgun.name",
+      "icon": {
+        "id": "tacz:modern_kinetic_gun",
+        "components": {
+          "minecraft:custom_data": {
+            "GunId": "murasamet:blunderbuss"
+          }
+        }
+      }
+    },
+    {
+      "id": "tacz:smg",
+      "name": "tacz.type.smg.name",
+      "icon": {
+        "id": "tacz:modern_kinetic_gun",
+        "components": {
+          "minecraft:custom_data": {
+            "GunId": "murasamet:ppsh"
+          }
+        }
+      }
+    },
+    {
+      "id": "tacz:rpg",
+      "name": "tacz.type.rpg.name",
+      "icon": {
+        "id": "tacz:modern_kinetic_gun",
+        "components": {
+          "minecraft:custom_data": {
+            "GunId": "murasamet:rpg7_og7he"
+          }
+        }
+      }
+    },
+    {
+      "id": "tacz:mg",
+      "name": "tacz.type.mg.name",
+      "icon": {
+        "id": "tacz:modern_kinetic_gun",
+        "components": {
+          "minecraft:custom_data": {
+            "GunId": "tacz:m249"
+          }
+        }
+      }
+    },
+    {
+      "id": "tacz:muzzle",
+      "name": "tacz.type.muzzle.name",
+      "icon": {
+        "id": "tacz:attachment",
+        "components": {
+          "minecraft:custom_data": {
+            "AttachmentId": "murasamet:bayonet_mosin"
+          }
+        }
+      }
+    },
+    {
+      "id": "tacz:stock",
+      "name": "tacz.type.stock.name",
+      "icon": {
+        "id": "tacz:attachment",
+        "components": {
+          "minecraft:custom_data": {
+            "AttachmentId": "tacz:stock_militech_b5"
+          }
+        }
+      }
+    },
+    {
+      "id": "tacz:grip",
+      "name": "tacz.type.grip.name",
+      "icon": {
+        "id": "tacz:attachment",
+        "components": {
+          "minecraft:custom_data": {
+            "AttachmentId": "tacz:grip_magpul_afg_2"
+          }
+        }
+      }
+    },
+    {
+      "id": "tacz:extended_mag",
+      "name": "tacz.type.extended_mag.name",
+      "icon": {
+        "id": "tacz:attachment",
+        "components": {
+          "minecraft:custom_data": {
+            "AttachmentId": "tacz:extended_mag_3"
+          }
+        }
+      }
+    },
+    {
+      "id": "tacz:scope",
+      "name": "tacz.type.scope.name",
+      "icon": {
+        "id": "tacz:attachment",
+        "components": {
+          "minecraft:custom_data": {
+            "AttachmentId": "murasamet:scope_mosin_pu"
+          }
+        }
+      }
+    },
+    {
+      "id": "tacz:laser",
+      "name": "tacz.type.laser.name",
+      "icon": {
+        "id": "tacz:attachment",
+        "components": {
+          "minecraft:custom_data": {
+            "AttachmentId": "murasamet:laser_module"
+          }
+        }
+      }
+    }
+  ]
+}

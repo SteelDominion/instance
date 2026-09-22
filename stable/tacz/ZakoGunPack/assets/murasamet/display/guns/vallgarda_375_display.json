@@ -1,0 +1,49 @@
+{
+  "model": "murasamet:gun/vallgarda_375_geo",
+  "texture": "murasamet:gun/uv/vallgarda_375",
+  "lod": {
+    "model": "murasamet:gun/lod/vallgarda_375",
+    "texture": "murasamet:gun/lod/vallgarda_375"
+  },
+  "hud": "murasamet:gun/hud/vallgarda_375",
+  "slot": "murasamet:gun/slot/vallgarda_375",
+  "animation": "murasamet:vallgarda_375",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "state_machine": "murasamet:vallgarda_375_state_machine",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "tacz:flash/common_muzzle_flash",
+    "scale": 1.5
+  },
+  "zoom_model_fov": 55,
+  "iron_zoom": 1.5,
+  "sounds": {
+    "draw": "tacz:m700/m700_draw",
+    "shoot": "murasamet:vallgarda/vallgarda_shoot",
+    "dry_fire": "murasamet:ppsh/dry_fire",
+    "silence": "tacz:ai_awp/awp_silence",
+    "silence_3p": "tacz:ai_awp/awp_silence_3p",
+    "fire_select": "murasamet:ppsh/fire_select",
+    "put_away": "tacz:m700/m700_put_away",
+    "shoot_3p": "murasamet:vallgarda/vallgarda_shoot"
+  },
+  "offhand_show": {
+    "pos": [1, 20, 3.5],
+    "rotate": [0, 0, 60],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [0, 20, 3],
+      "rotate": [-180, 0, 120],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

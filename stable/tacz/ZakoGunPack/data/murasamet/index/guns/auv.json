@@ -1,0 +1,7 @@
+{
+  "name": "murasamet.gun.auv.name",
+  "display": "murasamet:auv_display",
+  "data": "murasamet:auv_data",
+  "tooltip": "murasamet.gun.auv.desc",
+  "type": "smg"
+}

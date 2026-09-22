@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 12
+    },
+    {
+      "item": {
+        "tag": "c:ingots/gold"
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "tag": "c:dusts/redstone"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "tag": "c:glass_blocks"
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "murasamet:scope_pr3200"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

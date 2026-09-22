@@ -1,0 +1,9 @@
+{
+    "name": "murasamet.gun.tianqing.name",
+    "display": "murasamet:tianqing_display",
+    "data": "murasamet:tianqing_data",
+    "tooltip": "murasamet.gun.tianqing.desc",
+    "type": "sniper",
+    "item_type": "modern_kinetic",
+    "sort": 234
+}

@@ -1,0 +1,39 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 16
+    },
+    {
+      "item": {
+        "tag": "c:gems/diamond"
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "tag": "c:ingots/gold"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "minecraft:milk_bucket"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "tag": "c:glass_blocks"
+      },
+      "count": 16
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "murasamet:natsu_micro_uzi"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

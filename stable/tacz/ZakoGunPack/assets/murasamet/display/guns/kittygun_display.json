@@ -1,0 +1,74 @@
+{
+  "model": "murasamet:gun/kittygun_geo",
+  "texture": "murasamet:gun/uv/kittygun",
+  "lod": {
+    "model": "murasamet:gun/lod/kittygun",
+    "texture": "murasamet:gun/lod/kittygun"
+  },
+  "hud": "murasamet:gun/hud/kittygun",
+  "slot": "murasamet:gun/slot/kittygun",
+  "ammo_count_style": "normal",
+  "animation": "murasamet:kittygun",
+  "use_default_animation": "pistol",
+  "third_person_animation": "default",
+  "player_animator_3rd": "murasamet:rifle_default.player_animation",
+  "show_crosshair": false,
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "tacz:flash/common_muzzle_flash",
+    "scale": 0.75
+  },
+  "iron_zoom": 1.2,
+  "shell": {
+  },
+  "ammo": {
+    "tracer_color": "#FF8888"
+  },
+  "sounds": {
+    "reload_empty": "murasamet:kittygun/purr1",
+    "reload_tactical": "murasamet:kittygun/purr3",
+    "shoot": "murasamet:kittygun/meow2",
+    "shoot_3p": "murasamet:kittygun/meow2",
+    "draw": "murasamet:kittygun/idle2",
+    "put_away": "murasamet:kittygun/hiss1",
+    "dry_fire": "murasamet:kittygun/idle1",
+    "melee_push": "tacz:melee_bayonet/melee_bayonet_01"
+  },
+  "offhand_show": {
+    "pos": [ 1, 20, 3.5 ],
+    "rotate": [ 0, 0, 60 ],
+    "scale": [ 0.5, 0.5, 0.5 ]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [ -1, 20, 3 ],
+      "rotate": [ -180, 0, 120 ],
+      "scale": [ 0.5, 0.5, 0.5 ]
+    }
+  },
+  "text_show": {
+  },
+  "controllable": {
+    "semi": {
+      "low_frequency": 0.25,
+      "high_frequency": 0.5,
+      "time": 100
+    },
+    "auto": {
+      "low_frequency": 0.15,
+      "high_frequency": 0.25,
+      "time": 80
+    },
+    "burst": {
+      "low_frequency": 0.25,
+      "high_frequency": 0.5,
+      "time": 100
+    }
+  }
+}

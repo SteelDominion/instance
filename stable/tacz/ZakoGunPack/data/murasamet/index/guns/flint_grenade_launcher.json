@@ -1,0 +1,7 @@
+{
+    "name": "murasamet.gun.flint_grenade_launcher.name",
+    "display": "murasamet:flint_grenade_launcher_display",
+    "data": "murasamet:flint_grenade_launcher_data",
+    "tooltip": "murasamet.gun.flint_grenade_launcher.desc",
+    "type": "rpg"
+  }

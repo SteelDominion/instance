@@ -1,0 +1,9 @@
+{
+    "name": "murasamet.gun.type11.name",
+    "display": "murasamet:type11_display",
+    "data": "murasamet:type11_data",
+    "tooltip": "murasamet.gun.type11.desc",
+    "type": "mg",
+    "item_type": "modern_kinetic",
+    "sort": 1
+}

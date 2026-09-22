@@ -1,0 +1,7 @@
+{
+    "name": "murasamet.gun.abe_pipe_gun.name",
+    "display": "murasamet:abe_pipe_gun_display",
+    "data": "murasamet:abe_pipe_gun_data",
+    "tooltip": "murasamet.gun.abe_pipe_gun.desc",
+    "type": "shotgun"
+  }

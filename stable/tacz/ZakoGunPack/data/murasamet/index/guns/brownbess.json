@@ -1,0 +1,7 @@
+{
+    "name": "murasamet.gun.brownbess.name",
+    "display": "murasamet:brownbess_display",
+    "data": "murasamet:brownbess_data",
+    "tooltip": "murasamet.gun.brownbess.desc",
+    "type": "sniper"
+  }

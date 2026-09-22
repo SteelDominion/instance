@@ -1,0 +1,9 @@
+{
+    "name": "murasamet.gun.amd65.name",
+    "display": "murasamet:amd65_display",
+    "data": "murasamet:amd65_data",
+    "tooltip": "murasamet.gun.amd65.desc",
+    "type": "rifle",
+    "item_type": "modern_kinetic",
+    "sort": 1
+}

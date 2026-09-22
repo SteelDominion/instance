@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 38
+    },
+    {
+      "item": {
+        "tag": "c:ingots/gold"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "tag": "minecraft:logs"
+      },
+      "count": 20
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "murasamet:russian1895_carbine"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

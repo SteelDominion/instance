@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:ingots/gold"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 75
+    },
+    {
+      "item": {
+        "tag": "c:gems/quartz"
+      },
+      "count": 5
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "murasamet:g3a3"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

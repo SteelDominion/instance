@@ -1,0 +1,83 @@
+{
+  "ammo": "tacz:762x39",
+  "ammo_amount": 10,
+  "bolt": "open_bolt",
+  "rpm": 214,
+  "bullet": {
+    "life": 1.2,
+    "bullet_amount": 1,
+    "damage": 16,
+    "tracer_count_interval": 0,
+    "extra_damage": {
+      "armor_ignore": 0.7,
+      "head_shot_multiplier": 2.3,
+      "damage_adjust": [
+        {"distance": 10, "damage": 16},
+        {"distance": 35, "damage": 15},
+        {"distance": "infinite", "damage": 14}
+      ]
+    },
+    "speed": 750,
+    "gravity": 0.098,
+    "knockback": 0,
+    "friction": 0.015,
+    "ignite": false,
+    "pierce": 3
+  },
+  "reload": {
+    "type": "magazine",
+    "feed": {
+      "empty": 114514,
+      "tactical": 114514
+    },
+    "cooldown": {
+      "empty": 114514,
+      "tactical": 114514
+    }
+  },
+  "script": "murasamet:type56_gun_logic",
+  "script_param": {
+    "intro": 1.9,
+    "intro_empty": 0.71,
+    "loop": 1.06,
+    "ending": 1.21,
+    "ending_empty": 1.27,
+    "ending_empty_feed": 1,
+    "clip_load": 3.19,
+    "clip_load_feed": 2.5,
+    "loop_feed": 0.68
+  },
+  "draw_time": 1.4,
+  "put_away_time": 1.43,
+  "aim_time": 0.14,
+  "sprint_time": 0.2,
+  "fire_mode": [
+    "semi"
+  ],
+  "recoil": {
+    "pitch": [
+      {"time": 0, "value": [1.2, 2.2]},
+      {"time": 0.32, "value": [0.8, 0.8]},
+      {"time": 0.57, "value": [-0.3, -0.3]},
+      {"time": 0.82, "value": [0.15, 0.15]},
+      {"time": 1.17, "value": [0, 0]},
+      {"time": 1.47, "value": [0, 0]}
+    ],
+    "yaw": [
+      {"time": 0, "value": [-0.6, -0.5]},
+      {"time": 0.32, "value": [-0.6, -0.5]},
+      {"time": 0.57, "value": [0, 0]}
+    ]
+  },
+  "allow_attachment_types": [
+	"scope",
+  "muzzle"
+  ],
+  "inaccuracy": {
+    "stand": 8.2,
+    "move": 10,
+    "sneak": 6.1,
+    "lie": 4.3,
+    "aim": 0.04
+  }
+}

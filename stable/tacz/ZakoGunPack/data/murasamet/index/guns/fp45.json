@@ -1,0 +1,7 @@
+{
+    "name": "murasamet.gun.fp45.name",
+    "display": "murasamet:fp45_display",
+    "data": "murasamet:fp45_data",
+    "tooltip": "murasamet.gun.fp45.desc",
+    "type": "pistol"
+  }

@@ -1,0 +1,38 @@
+{
+  "model": "murasamet:gun/panzerfaust_geo",
+  "texture": "murasamet:gun/uv/panzerfaust",
+  "hud": "murasamet:gun/hud/panzerfaust",
+  "slot": "murasamet:gun/slot/panzerfaust",
+  "animation": "murasamet:panzerfaust",
+  "use_default_animation": "rifle",
+  "state_machine": "murasamet:panzerfaust_state_machine",
+  "lod": {
+    "model": "murasamet:gun/panzerfaust_geo",
+    "texture": "murasamet:gun/uv/panzerfaust"
+  },
+  "transform": {
+    "scale": {
+      "thirdperson": [1, 1, 1],
+      "ground": [1, 1, 1],
+      "fixed": [1.5, 1.5, 1.5]
+    }
+  },
+  "sounds": {
+    "shoot": "murasamet:panzerfaust/panzerfaust_shoot",
+    "dry_fire": "murasamet:ppsh/dry_fire",
+    "fire_select": "murasamet:ppsh/fire_select",
+    "shoot_3p": "murasamet:rpg7/panzerfaust_shoot_3p"
+  },
+  "offhand_show": {
+    "pos": [0, 20, 5],
+    "rotate": [-20, 0, 30],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-1, 19, 3],
+      "rotate": [-180, 0, 130],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

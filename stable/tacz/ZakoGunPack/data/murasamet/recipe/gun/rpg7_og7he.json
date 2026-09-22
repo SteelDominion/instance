@@ -1,0 +1,20 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "tacz:nbt",
+        "nbt": {
+          "GunId": "tacz:rpg7"
+        },
+        "partial": true,
+        "items": "tacz:modern_kinetic_gun"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "murasamet:rpg7_og7he"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

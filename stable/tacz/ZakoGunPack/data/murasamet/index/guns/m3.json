@@ -1,0 +1,7 @@
+{
+  "name": "murasamet.gun.m3.name",
+  "display": "murasamet:m3_display",
+  "data": "murasamet:m3_data",
+  "tooltip": "murasamet.gun.m3.desc",
+  "type": "smg"
+}

@@ -1,0 +1,37 @@
+{
+  "model": "murasamet:gun/rpg7_pg7vr_tandem_heat_geo",
+  "texture": "murasamet:gun/uv/rpg7_pg7vr_tandem_heat",
+  "hud": "murasamet:gun/hud/rpg7_pg7vr_tandem_heat",
+  "slot": "murasamet:gun/slot/rpg7_pg7vr_tandem_heat",
+  "animation": "murasamet:rpg7",
+  "state_machine": "murasamet:rpg_state_machine",
+  "use_default_animation": "rifle",
+  "transform": {
+    "scale": {
+      "thirdperson": [1, 1, 1],
+      "ground": [1, 1, 1],
+      "fixed": [1.5, 1.5, 1.5]
+    }
+  },
+  "sounds": {
+    "reload_empty": "murasamet:rpg7/rpg7_reload",
+    "inspect": "murasamet:rpg7/rpg7_inspect",
+    "inspect_empty": "murasamet:rpg7/rpg7_inspect_empty",
+    "shoot": "murasamet:rpg7/rpg7_shoot_tandem",
+    "dry_fire": "murasamet:ppsh/dry_fire",
+    "fire_select": "murasamet:ppsh/fire_select",
+    "shoot_3p": "murasamet:rpg7/rpg7_shoot_tandem"
+  },
+  "offhand_show": {
+    "pos": [0, 20, 5],
+    "rotate": [-20, 0, 30],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-4, 24, 4],
+      "rotate": [-90, -5, -90],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

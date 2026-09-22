@@ -1,0 +1,7 @@
+{
+  "name": "murasamet.attachment.scope_ascent1_4x.name",
+  "display": "murasamet:scope_ascent1_4x_display",
+  "data": "murasamet:scope_ascent1_4x_data",
+  "type": "scope",
+  "sort": 99
+}

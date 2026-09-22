@@ -1,0 +1,7 @@
+{
+  "name": "murasamet.gun.barstard.name",
+  "display": "murasamet:barstard_display",
+  "data": "murasamet:barstard_data",
+  "tooltip": "murasamet.gun.barstard.desc",
+  "type": "smg"
+}

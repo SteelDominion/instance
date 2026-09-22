@@ -1,0 +1,23 @@
+{
+  "slot": "murasamet:attachment/slot/scope_ascent1_4x",
+  "model": "murasamet:attachment/scope_ascent1_4x_geo",
+  "texture": "murasamet:attachment/uv/scope_ascent1_4x",
+  "lod": {
+    "model": "murasamet:attachment/lod/scope_ascent1_4x",
+    "texture": "murasamet:attachment/uv/scope_ascent1_4x"
+  },
+  "zoom": [
+    4
+  ],
+  "views": [
+    1
+  ],
+  "views_fov": [
+    25.0
+  ],
+  "scope": true,
+  "sounds": {
+    "install": "tacz:attachments/scope_general_b",
+    "uninstall": "tacz:attachments/scope_general_b"
+  }
+}

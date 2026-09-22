@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "type": "tacz:nbt",
+      "nbt": {
+        "GunId": "tacz:rpg7"
+      },
+      "partial": true,
+      "items": "tacz:modern_kinetic_gun"
+    }
+  ],
+  "result": {
+    "id": "tacz:modern_kinetic_gun",
+    "components": {
+      "minecraft:custom_data": {
+        "GunId": "murasamet:rpg7_og7he",
+        "HasBulletInBarrel": false,
+        "GunFireMode": "SEMI",
+        "GunCurrentAmmoCount": 0
+      }
+    }
+  }
+}

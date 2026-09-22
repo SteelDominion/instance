@@ -1,0 +1,7 @@
+{
+  "name": "murasamet.gun.garand.name",
+  "display": "murasamet:garand_display",
+  "data": "murasamet:garand_data",
+  "tooltip": "murasamet.gun.garand.desc",
+  "type": "sniper"
+}

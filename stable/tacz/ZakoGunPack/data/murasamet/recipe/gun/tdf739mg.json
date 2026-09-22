@@ -1,0 +1,37 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:gems/diamond"
+      },
+      "count": 24
+    },
+    {
+      "item": {
+        "tag": "c:ingots/gold"
+      },
+      "count": 32
+    },
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 240
+    },
+    {
+      "item": {
+        "tag": "c:rods/blaze"
+      },
+      "count": 12
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "murasamet:tdf739mg",
+    "attachments": {
+      "scope": "murasamet:sight_rp355",
+      "laser": "murasamet:laser_module"
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

@@ -1,0 +1,43 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:gems/diamond"
+      },
+      "count": 32
+    },
+    {
+      "item": {
+        "tag": "c:ingots/gold"
+      },
+      "count": 120
+    },
+    {
+      "item": {
+        "tag": "c:ingots/netherite"
+      },
+      "count": 16
+    },
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 320
+    },
+    {
+      "item": {
+        "tag": "c:rods/blaze"
+      },
+      "count": 48
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "murasamet:tdf141ls",
+    "attachments": {
+      "scope": "murasamet:scope_rsi_4100",
+      "laser": "murasamet:laser_module"
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

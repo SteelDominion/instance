@@ -1,0 +1,13 @@
+{
+  "slot": "murasamet:attachment/slot/bayonet_mosin",
+  "model": "murasamet:attachment/bayonet_mosin_geo",
+  "lod": {
+    "model": "murasamet:attachment/lod/bayonet_mosin",
+    "texture": "murasamet:attachment/lod/bayonet_mosin"
+  },
+  "texture": "murasamet:attachment/uv/bayonet_mosin",
+  "sounds": {
+    "install": "murasamet:attachment/bayonet_install",
+    "uninstall": "murasamet:attachment/bayonet_uninstall"
+  }
+}

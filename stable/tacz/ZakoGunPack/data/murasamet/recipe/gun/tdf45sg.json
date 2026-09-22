@@ -1,0 +1,37 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:gems/diamond"
+      },
+      "count": 30
+    },
+    {
+      "item": {
+        "tag": "c:ingots/gold"
+      },
+      "count": 28
+    },
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 128
+    },
+    {
+      "item": {
+        "tag": "c:gems/quartz"
+      },
+      "count": 48
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "murasamet:tdf45sg",
+    "attachments": {
+      "scope": "murasamet:sight_rp355",
+      "laser": "murasamet:laser_module"
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

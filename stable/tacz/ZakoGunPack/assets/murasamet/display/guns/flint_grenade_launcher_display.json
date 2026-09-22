@@ -1,0 +1,45 @@
+{
+  "model": "murasamet:gun/flint_grenade_launcher_geo",
+  "texture": "murasamet:gun/uv/flint_grenade_launcher",
+  "lod": {
+    "model": "murasamet:gun/lod/flint_grenade_launcher",
+    "texture": "murasamet:gun/uv/flint_grenade_launcher"
+  },
+  "hud": "murasamet:gun/hud/flint_grenade_launcher",
+  "slot": "murasamet:gun/slot/flint_grenade_launcher",
+  "animation": "murasamet:flint_grenade_launcher",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "state_machine": "murasamet:musket_state_machine",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "murasamet:flash/common_muzzle_flash",
+    "scale": 1.75
+  },
+  "sounds": {
+    "shoot": "murasamet:musket/flint_grenade_launcher_shoot",
+    "shoot_3p": "murasamet:musket/flint_grenade_launcher_shoot_3p",
+    "draw": "murasamet:blunderbuss/blunderbuss_draw",
+    "put_away": "murasamet:blunderbuss/blunderbuss_put_away",
+    "dry_fire": "murasamet:ppsh/dry_fire",
+    "fire_select": "murasamet:ppsh/fire_select"
+  },
+  "offhand_show": {
+    "pos": [ 4, 20, 4 ],
+    "rotate": [ -90, -5, -90 ],
+    "scale": [ 0.35, 0.35, 0.35 ]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [ 4, 20, 4 ],
+      "rotate": [ -90, -5, -90 ],
+      "scale": [ 0.35, 0.35, 0.35 ]
+    }
+  }
+}

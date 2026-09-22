@@ -1,0 +1,9 @@
+{
+  "slot": "murasamet:attachment/slot/bayonet_s84_98",
+  "model": "murasamet:attachment/bayonet_s84_98_geo",
+  "texture": "murasamet:attachment/uv/bayonet_s84_98",
+  "sounds": {
+    "install": "murasamet:attachment/bayonet_install",
+    "uninstall": "murasamet:attachment/bayonet_uninstall"
+  }
+}

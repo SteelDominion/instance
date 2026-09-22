@@ -1,0 +1,9 @@
+{
+    "name": "murasamet.gun.dpm.name",
+    "display": "murasamet:dpm_display",
+    "data": "murasamet:dpm_data",
+    "tooltip": "murasamet.gun.dpm.desc",
+    "type": "mg",
+    "item_type": "modern_kinetic",
+    "sort": 1
+}

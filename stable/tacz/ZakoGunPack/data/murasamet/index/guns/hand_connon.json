@@ -1,0 +1,7 @@
+{
+  "name": "murasamet.gun.hand_connon.name",
+  "display": "murasamet:hand_connon_display",
+  "data": "murasamet:hand_connon_data",
+  "tooltip": "murasamet.gun.hand_connon.desc",
+  "type": "pistol"
+}

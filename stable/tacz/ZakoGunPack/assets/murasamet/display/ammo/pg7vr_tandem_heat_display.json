@@ -1,0 +1,20 @@
+{
+  "model": "murasamet:ammo/pg7vr_tandem_heat",
+  "texture": "murasamet:ammo_entity/pg7vr_tandem_heat",
+  "slot": "murasamet:ammo/slot/pg7vr_tandem_heat",
+  "entity": {
+    "model": "murasamet:ammo_entity/pg7vr_tandem_heat",
+    "texture": "murasamet:ammo_entity/pg7vr_tandem_heat"
+  },
+  "particle": {
+    "name": "campfire_signal_smoke",
+    "delta": [
+      0,
+      0,
+      0
+    ],
+    "speed": 0.005,
+    "life_time": 100,
+    "count": 10
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "murasamet.attachment.scope_mosin_pu.name",
+  "display": "murasamet:scope_mosin_pu_display",
+  "data": "murasamet:scope_mosin_pu_data",
+  "type": "scope"
+}

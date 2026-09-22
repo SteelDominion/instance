@@ -1,0 +1,39 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 15
+    },
+    {
+      "item": {
+        "tag": "c:ingots/copper"
+      },
+      "count": 10
+    },
+    {
+      "item": {
+        "tag": "c:ingots/gold"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "tag": "c:gems/lapis"
+      },
+      "count": 5
+    },
+    {
+      "item": {
+        "tag": "minecraft:logs"
+      },
+      "count": 20
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "murasamet:girandoni"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

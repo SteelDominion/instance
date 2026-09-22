@@ -1,0 +1,50 @@
+{
+  "model": "murasamet:gun/giddings_ssc410_geo",
+  "texture": "murasamet:gun/uv/giddings_ssc410",
+  "lod": {
+    "model": "murasamet:gun/lod/giddings_ssc410",
+    "texture": "murasamet:gun/lod/giddings_ssc410"
+  },
+  "hud": "murasamet:gun/hud/giddings_ssc410",
+  "slot": "murasamet:gun/slot/giddings_ssc410",
+  "animation": "murasamet:giddings_ssc410",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "tacz:flash/common_muzzle_flash",
+    "scale": 1.5
+  },
+  "zoom_model_fov": 55,
+  "iron_zoom": 1.5,
+  "sounds": {
+    "inspect": "tacz:db_short/db_short_inspect",
+    "inspect_empty": "tacz:db_short/db_short_inspect_empty",
+    "silence": "tacz:aa12/aa12_silence",
+    "silence_3p": "tacz:aa12/aa12_silence_3p",
+    "draw": "tacz:db_short/db_short_draw",
+    "put_away": "tacz:db_short/db_short_put_away",
+    "shoot": "tacz:db_long/dbl_shoot",
+    "shoot_3p": "tacz:db_long/dbl_shoot_3p",
+    "dry_fire": "murasamet:ppsh/dry_fire",
+    "fire_select": "murasamet:ppsh/fire_select"
+  },
+  "offhand_show": {
+    "pos": [4, 13, -1],
+    "rotate": [-90, -35, 90],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [0, 20, 3],
+      "rotate": [-180, 0, 120],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

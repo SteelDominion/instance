@@ -1,0 +1,21 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:ingots/gold"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 8
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "murasamet:bayonet_mosin"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

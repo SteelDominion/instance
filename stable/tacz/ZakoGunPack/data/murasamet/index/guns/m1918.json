@@ -1,0 +1,7 @@
+{
+  "name": "murasamet.gun.m1918.name",
+  "display": "murasamet:m1918_display",
+  "data": "murasamet:m1918_data",
+  "tooltip": "murasamet.gun.m1918.desc",
+  "type": "mg"
+}

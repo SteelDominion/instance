@@ -1,0 +1,7 @@
+{
+  "name": "murasamet.gun.sten_mk5.name",
+  "display": "murasamet:sten_mk5_display",
+  "data": "murasamet:sten_mk5_data",
+  "tooltip": "murasamet.gun.sten_mk5.desc",
+  "type": "smg"
+}

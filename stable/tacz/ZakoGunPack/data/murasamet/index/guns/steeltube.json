@@ -1,0 +1,10 @@
+{
+    
+    "name": "murasamet.gun.steeltube.name",
+    "display": "murasamet:steeltube_display",
+    "data": "murasamet:steeltube_data",
+    "tooltip": "murasamet.gun.steeltube.desc",
+    "type": "shotgun",
+    "item_type": "modern_kinetic",
+    "sort": 1
+}

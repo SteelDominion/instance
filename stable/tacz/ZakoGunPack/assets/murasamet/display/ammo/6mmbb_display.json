@@ -1,0 +1,29 @@
+{
+  "model": "murasamet:ammo/6mmbb",
+  "texture": "murasamet:ammo/uv/6mmbb",
+  "slot": "murasamet:ammo/slot/6mmbb",
+  "shell": {
+    "model": "murasamet:shell/6mmbb_shell",
+    "texture": "murasamet:shell/6mmbb_shell"
+  },
+  "tracer_color": "#EAE91D",
+  "transform": {
+    "scale": {
+      "thirdperson": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "ground": [
+        0.6,
+        0.6,
+        0.6
+      ],
+      "fixed": [
+        1.2,
+        1.2,
+        1.2
+      ]
+    }
+  }
+}

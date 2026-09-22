@@ -1,0 +1,9 @@
+{
+  "name": "murasamet.gun.mp40.name",
+  "tooltip": "murasamet.gun.mp40.desc",
+  "data": "murasamet:mp40_data",
+  "display": "murasamet:mp40_display",
+  "type": "smg",
+  "item_type": "modern_kinetic",
+  "sort": 1
+}

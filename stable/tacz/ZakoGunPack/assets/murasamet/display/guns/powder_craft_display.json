@@ -1,0 +1,50 @@
+{
+  "model": "murasamet:gun/powder_craft_geo",
+  "texture": "murasamet:gun/uv/powder_craft",
+  "lod": {
+    "model": "murasamet:gun/lod/powder_craft",
+    "texture": "murasamet:gun/lod/powder_craft"
+  },
+  "hud": "murasamet:gun/hud/powder_craft",
+  "slot": "murasamet:gun/slot/powder_craft",
+  "animation": "murasamet:powder_craft",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "murasamet:flash/common_muzzle_flash",
+    "scale": 0.75
+  },
+  "sounds": {
+    "reload_empty": "murasamet:powder_craft/powder_craft_reload_empty",
+    "reload_tactical": "murasamet:powder_craft/powder_craft_reload_empty",
+    "inspect": "murasamet:powder_craft/powder_craft_inspect_empty",
+    "inspect_empty": "murasamet:powder_craft/powder_craft_inspect_empty",
+    "draw": "murasamet:powder_craft/powder_craft_draw",
+    "put_away": "murasamet:powder_craft/powder_craft_put_away",
+    "dry_fire": "murasamet:ppsh/dry_fire",
+    "fire_select": "murasamet:ppsh/fire_select",
+    "shoot": "murasamet:powder_craft/powder_craft",
+    "shoot_3p": "murasamet:powder_craft/powder_craft",
+    "melee_push": "murasametet:melee_stock/melee_stock_01",
+    "melee_stock": "murasamet:melee_stock/melee_stock_03"
+  },
+  "offhand_show": {
+    "pos": [0, 20, 4],
+    "rotate": [0, 0, 60],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [0, 20, 3],
+      "rotate": [-180, 0, 120],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slot": "murasamet:attachment/slot/scope_zf1",
+  "model": "murasamet:attachment/scope_zf1_geo",
+  "texture": "murasamet:attachment/uv/scope_zf1",
+  "lod": {
+    "model": "murasamet:attachment/lod/scope_zf1",
+    "texture": "murasamet:attachment/uv/scope_zf1"
+  },
+  "zoom": [
+    5
+  ],
+  "views": [
+    1
+  ],
+  "views_fov": [
+    15.0
+  ],
+  "scope": true,
+  "show_mount":false,
+  "sounds": {
+    "install": "tacz:attachments/scope_general_b",
+    "uninstall": "tacz:attachments/scope_general_b"
+  }
+}

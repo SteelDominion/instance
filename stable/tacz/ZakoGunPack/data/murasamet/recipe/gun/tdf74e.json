@@ -1,0 +1,37 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:gems/diamond"
+      },
+      "count": 35
+    },
+    {
+      "item": {
+        "tag": "c:ingots/gold"
+      },
+      "count": 32
+    },
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 144
+    },
+    {
+      "item": {
+        "tag": "c:gems/quartz"
+      },
+      "count": 64
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "murasamet:tdf74e",
+    "attachments": {
+      "scope": "murasamet:scope_pr3200",
+      "laser": "murasamet:laser_module"
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

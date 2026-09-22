@@ -1,0 +1,9 @@
+{
+  "name": "murasamet.gun.mp28.name",
+  "tooltip": "murasamet.gun.mp28.desc",
+  "data": "murasamet:mp28_data",
+  "display": "murasamet:mp28_display",
+  "type": "smg",
+  "item_type": "modern_kinetic",
+  "sort": 1
+}

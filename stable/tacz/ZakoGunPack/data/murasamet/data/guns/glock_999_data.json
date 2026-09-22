@@ -1,0 +1,100 @@
+{
+  "ammo": "murasamet:90mm",
+  "rpm": 400,
+  "bullet": {
+    "life": 0.8,
+    "bullet_amount": 1,
+    "damage": 100,
+    "tracer_count_interval": 0,
+    "extra_damage": {
+      "armor_ignore": 0,
+      "head_shot_multiplier": 1.5,
+      "damage_adjust": [
+        {"distance": 20, "damage": 6},
+        {"distance": 45, "damage": 5},
+        {"distance": "infinite", "damage": 4}
+      ]
+    },
+    "speed": 150,
+    "gravity": 0.15,
+    "knockback": 0,
+    "friction": 0.025,
+    "ignite": false,
+    "pierce": 1,
+    "explosion": {
+      "explode": true,
+      "damage": 120,
+      "radius": 2,
+      "knockback": true,
+      "destroy_block": false,
+      "delay": 30
+    }
+  },
+  "ammo_amount": 7,
+  "bolt": "closed_bolt",
+  "reload": {
+    "type": "magazine",
+    "feed": {
+      "empty": 1.63,
+      "tactical": 1.05
+    },
+    "cooldown": {
+      "empty": 1.88,
+      "tactical": 1.5
+    }
+  },
+  "draw_time": 0.32,
+  "put_away_time": 0.35,
+  "aim_time": 0.17,
+  "sprint_time": 0.05,
+  "weight": 1,
+  "movement_speed": {
+    "base": 0.0,
+    "aim": 0,
+    "reload": 0.1
+  },
+  "crawl_recoil_multiplier": 0.75,
+  "fire_mode": [
+    "semi"
+  ],
+  "allow_attachment_types": [
+  ],
+  "recoil": {
+    "pitch": [
+      {"time": 0, "value": [0, 0]},
+      {"time": 0.02, "value": [10, 55]},
+      {"time": 0.04, "value": [-10, 5]},
+      {"time": 0.06, "value": [10, 30]},
+      {"time": 0.08, "value": [-10, 0]},
+      {"time": 0.11, "value": [2, 45]},
+      {"time": 0.21, "value": [-45, 4]},
+      {"time": 0.31, "value": [2, 45]},
+      {"time": 0.53, "value": [-35, 2]},
+      {"time": 0.82, "value": [5, 32]},
+      {"time": 0.91, "value": [-35, -2]},
+      {"time": 1.03, "value": [3, 25]},
+      {"time": 1.95, "value": [1, 12]},
+      {"time": 2.27, "value": [-12, 2]},
+      {"time": 2.67, "value": [0, 0]}
+    ],
+    "yaw": [
+      {"time": 0, "value": [0.0, 0.0]},
+      {"time": 0.01, "value": [-45.0, 0.0]},
+      {"time": 0.21, "value": [0, 45]},
+      {"time": 0.41, "value": [-25, 5]},
+      {"time": 0.61, "value": [25, 50]},
+      {"time": 0.85, "value": [10, 20]},
+      {"time": 1.02, "value": [-6, 10]},
+      {"time": 1.42, "value": [-20, 2]},
+      {"time": 1.82, "value": [-6, 6]},
+      {"time": 2.67, "value": [0, 0]}
+    ]
+  },
+  "inaccuracy": {
+    "stand": 2,
+    "move": 2.5,
+    "sneak": 1.5,
+    "lie": 0.7,
+    "aim": 0.2
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "murasamet.gun.tdf97ar.name",
+  "display": "murasamet:tdf97ar_display",
+  "data": "murasamet:tdf97ar_data",
+  "type": "rifle",
+  "tooltip": "murasamet.gun.tdf97ar.desc",
+  "sort": 3
+}

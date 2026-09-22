@@ -1,0 +1,8 @@
+{
+  "name": "murasamet.gun.at4.name",
+  "display": "murasamet:at4_display",
+  "data": "murasamet:at4_data",
+  "tooltip": "murasamet.gun.at4.desc",
+  "type": "rpg",
+  "sort": 12
+}

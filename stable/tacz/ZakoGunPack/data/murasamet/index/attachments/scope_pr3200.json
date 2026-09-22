@@ -1,0 +1,7 @@
+{
+  "name": "murasamet.attachment.scope_pr3200.name",
+  "display": "murasamet:scope_pr3200_display",
+  "data": "murasamet:scope_pr3200_data",
+  "type": "scope",
+  "sort": 99
+}

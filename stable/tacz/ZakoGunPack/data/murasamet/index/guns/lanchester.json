@@ -1,0 +1,9 @@
+{
+  "name": "murasamet.gun.lanchester.name",
+  "tooltip": "murasamet.gun.lanchester.desc",
+  "data": "murasamet:lanchester_data",
+  "display": "murasamet:lanchester_display",
+  "type": "smg",
+  "item_type": "modern_kinetic",
+  "sort": 1
+}

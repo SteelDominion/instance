@@ -1,0 +1,17 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:ingots/iron"
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "murasamet:fp45",
+    "ammo_count": 0,
+    "count": 1
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

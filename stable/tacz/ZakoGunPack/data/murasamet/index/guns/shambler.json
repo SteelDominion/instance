@@ -1,0 +1,7 @@
+{
+  "name": "murasamet.gun.shambler.name",
+  "display": "murasamet:shambler_display",
+  "data": "murasamet:shambler_data",
+  "tooltip": "murasamet.gun.shambler.desc",
+  "type": "shotgun"
+}

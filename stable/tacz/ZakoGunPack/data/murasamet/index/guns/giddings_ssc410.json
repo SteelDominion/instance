@@ -1,0 +1,9 @@
+{
+    "name": "murasamet.gun.giddings_ssc410.name",
+    "display": "murasamet:giddings_ssc410_display",
+    "data": "murasamet:giddings_ssc410_data",
+    "tooltip": "murasamet.gun.giddings_ssc410.desc",
+    "type": "rifle",
+    "item_type": "modern_kinetic",
+    "sort": 225
+}
