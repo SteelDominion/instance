@@ -1,7 +1,0 @@
-{
-  "name": "murasamet.attachment.laser_module.name",
-  "display": "murasamet:laser_module_display",
-  "data": "murasamet:laser_module_data",
-  "type": "laser",
-  "sort": 10
-}
